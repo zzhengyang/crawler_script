@@ -1,7 +1,11 @@
 #coding:utf-8
-
+import re
 import urllib2
 from bs4 import  BeautifulSoup
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
+
 
 class MFW:
 
@@ -41,12 +45,15 @@ class MFW:
     #获得项目列表
     def getProject(self):
         page = self.getPage()
-        soup = BeautifulSoup(page , 'html.parser')
+        soup = BeautifulSoup(page, 'html.parser')
         projectName = []
+        projectId = {}
         projects = soup.find("div", class_="anchor-nav").stripped_strings
         for project in projects:
             projectName.append(project)
-        return projectName
+        for i in range(len(projectName)):
+            projectId[i] = projectName[i]
+        return projectId
 
     #获得店铺链接列表
     def getShopHref(self):
@@ -69,6 +76,7 @@ class MFW:
         commentContent = []
         for item in commentList:
             commentContent.append(item.find('p').string)
+            commentContent.append(item.find('img').get('src'))
         return  commentContent
 
 
@@ -83,19 +91,21 @@ class MFW:
 
     #抓取店铺信息
     def getShopInfo(self,page):
-
         soup = BeautifulSoup(page , 'html.parser')
+
         shopName = soup.find("div", class_="wrapper").h1.string
         shopScore = soup.find("div", class_="col-main").span.em.string
-        shopInfo = []
-        shopInfo.append(shopName)
-        shopInfo.append(shopScore)
+        shopInfoList = []
+        shopInfoList.append(shopName)
+        shopInfoList.append(shopScore)
         items = soup.find_all("div", class_="bd")
         for item in items:
             list = item.find_all('p')
-            for tag in  list:
-                shopInfo.append(tag.getText())
-        return shopInfo
+            for tag in list:
+                shopInfoList.append(tag.getText())
+        return shopInfoList
+
+
 
     #获取景点照片
     def getImage(self,page):
@@ -107,20 +117,32 @@ class MFW:
 
 
     def startjob(self):
+        f = open(r'e:/crawler.txt','w')
+        f.truncate()
+        shopProjects = self.getProject()
+        for i in shopProjects.keys():
+            f.write(str(i) + str(shopProjects[i]) + '\n')
+        shopHrefList = self.getShopHref()
+        for shopHref in shopHrefList:
+            try:
+                page = self.getDetailPage(shopHref)
+                shopInfos = self.getShopInfo(page)
+                for shopInfo in shopInfos:
+                    f.write(str(shopInfo) + '\n')
+                comments = self.getComment(page)
+                for comment in comments:
+                    f.write(str(comment) + '\n')
+                travels = self.getTravel(page)
+                for travel in travels:
+                    f.write(str(travel) + '\n')
+                f.write("------------------------------------------------------------------------" + '\n')
+            except AttributeError, e:
+                continue
 
-         shopHrefList = self.getShopHref()
-         for shopHref in shopHrefList:
-            page = self.getDetailPage(shopHref)
-            shopInfos =self.getShopInfo(page)
-            for shopInfo in shopInfos:
-                print shopInfo
-            comments = self.getComment(page)
-            for comment in comments:
-                print comment
-            travels = self.getTravel(page)
-            for travel in travels:
-                print travel
-            print "------------------------------------------------------"
+
+        f.close()
+
+
 
 
 
