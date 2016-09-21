@@ -76,6 +76,7 @@ class MFW:
         commentContent = []
         for item in commentList:
             commentContent.append(item.find('p').string)
+            commentContent.append(item.find('img').get('src'))
         return  commentContent
 
 
