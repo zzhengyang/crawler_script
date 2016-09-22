@@ -9,10 +9,12 @@ sys.setdefaultencoding('utf-8')
 
 class MFW:
 
+
     def __init__(self,city):
         self.siteURL = 'http://www.mafengwo.cn'
         self.city = city
         self.cityDict = {'曼谷': '11045_518', '清迈': '15284_179', '普吉岛': '11047_858', '苏梅': '14210_686', '芭堤雅': '11046_940'}
+
         self.id = self.cityDict[self.city]
         self.user_agent = "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36"
         self.headers = { 'User-Agent' :self.user_agent}
@@ -23,7 +25,8 @@ class MFW:
             url = self.siteURL+"/baike/"+str(self.id)+".html"
             request = urllib2.Request(url, headers=self.headers)
             response = urllib2.urlopen(request)
-            pageCode = response.read().decode('utf-8')
+            page = response.read()
+            pageCode = re.sub(r'<br[ ]?/?>', '\n', page)
             return pageCode
         except urllib2.URLError, e:
             if hasattr(e, "reason"):
@@ -35,7 +38,8 @@ class MFW:
         try:
             shopURL = "http://www.mafengwo.cn" + detailURL
             response = urllib2.urlopen(shopURL)
-            detailPageCode = response.read().decode('utf-8')
+            detailPage = response.read()
+            detailPageCode = re.sub(r'<br[ ]?/?>', '\n', detailPage)
             return detailPageCode
         except urllib2.URLError, e:
             if hasattr(e, "reason"):
@@ -76,7 +80,7 @@ class MFW:
         commentContent = []
         for item in commentList:
             commentContent.append(item.find('p').string)
-            commentContent.append(item.find('img').get('src'))
+            commentContent.append(item.find('img').get('src'))  #commentContent.append(item.find('div',class_="info").img.get('src'))暂时存在分界线不显示BUG
         return  commentContent
 
 
@@ -89,21 +93,37 @@ class MFW:
             travelHref.append(item.find('a').get('href'))
         return travelHref
 
+    #判断是否存在信息列表
+    def hasAttr(self,page,list):
+        soup = BeautifulSoup(page, 'html.parser')
+        col = soup.find("div", class_="col-main").find("div", class_="bd")
+        str_col = str(col)
+        if list in str_col:
+            return True
+        else:
+            return False
+
     #抓取店铺信息
     def getShopInfo(self,page):
-        soup = BeautifulSoup(page , 'html.parser')
+            shopInfoList = ['brief','localName','location', 'telephone', 'website', 'ticket', 'openTime','shopName','shopScore']
+            infoItem = ['简介', '英文名称', '地址', '电话', '网址', '门票', '开放时间','名字','星评']
+            soup = BeautifulSoup(page, 'html.parser')
+            shopName = soup.find("div", class_="wrapper").h1.string
+            shopScore = soup.find("div", class_="col-main").span.em.string
 
-        shopName = soup.find("div", class_="wrapper").h1.string
-        shopScore = soup.find("div", class_="col-main").span.em.string
-        shopInfoList = []
-        shopInfoList.append(shopName)
-        shopInfoList.append(shopScore)
-        items = soup.find_all("div", class_="bd")
-        for item in items:
-            list = item.find_all('p')
-            for tag in list:
-                shopInfoList.append(tag.getText())
-        return shopInfoList
+            for i in range(6):
+                if self.hasAttr(page, infoItem[i]):
+                        pattern_shopinfo = re.compile(
+                            '<div class="col-main.*?<div class="bd">.*?'+ infoItem[i] +'</h3>.*?>(.*?)</p>', re.S)
+                        shopInfos = re.findall(pattern_shopinfo, page)
+                        for shopInfo in shopInfos:
+                            shopInfoList[i] = shopInfo
+                else:
+                        continue
+
+                shopInfoList[7] = shopName
+                shopInfoList[8] = shopScore
+            return shopInfoList
 
 
 
@@ -135,7 +155,7 @@ class MFW:
                 travels = self.getTravel(page)
                 for travel in travels:
                     f.write(str(travel) + '\n')
-                f.write("------------------------------------------------------------------------" + '\n')
+                f.write("======================================================================================================================" + '\n')
             except AttributeError, e:
                 continue
 
