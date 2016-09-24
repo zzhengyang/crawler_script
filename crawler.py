@@ -19,6 +19,32 @@ class MFW:
         self.user_agent = "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36"
         self.headers = { 'User-Agent' :self.user_agent}
 
+    #获得美食单页店铺链接
+    def getFoodHref(self,pageid):
+        url = "/group/s.php?q="+self.city+"&p=" +str(pageid)+ "&t=cate&kt=1"
+        page = self.getDetailPage(url)
+        soup = BeautifulSoup(page,'html.parser')
+        FoodHref = []
+        FoodLists =  soup.find(name="div",attrs={'data-category':'poi'}).ul
+        FoodHrefList = FoodLists.find_all("h3")
+        for FoodHrefs in FoodHrefList:
+            FoodWebsite = FoodHrefs.a['href']
+            FoodHrefShort = str(FoodWebsite).replace('http://www.mafengwo.cn','')
+            FoodHref.append(FoodHrefShort)
+        return FoodHref
+
+    def getHotelHref(self, pageid):
+        url = "/group/s.php?q=" + self.city + "&p=" + str(pageid) + "&t=hotel&kt=1"
+        page = self.getDetailPage(url)
+        soup = BeautifulSoup(page, 'html.parser')
+        hotelHref = []
+        hotelHrefLists = soup.find_all("div",class_="hot-about clearfix _j_hotel")
+        for hotelHrefList in hotelHrefLists:
+            hotelWebsite= hotelHrefList.a['href']
+            hotelHrefShort = str(hotelWebsite).replace('http://www.mafengwo.cn', '')
+            hotelHref.append(hotelHrefShort)
+        return hotelHref
+
     #获得页面HTML
     def getPage(self):
         try:
@@ -80,7 +106,9 @@ class MFW:
         commentContent = []
         for item in commentList:
             commentContent.append(item.find('p').string)
-            commentContent.append(item.find('img').get('src'))  #commentContent.append(item.find('div',class_="info").img.get('src'))暂时存在分界线不显示BUG
+            commentImas = item.find_all(name='img',attrs={'height':re.compile('.*?')})  #file'+'^((?!gif).)*$')}))  commentContent.append(item.find('div',class_="info").img.get('src'))暂时存在分界线不显示BUG
+            for commentIma in commentImas:
+                commentContent.append(commentIma.get('src'))
         return  commentContent
 
 
@@ -135,10 +163,62 @@ class MFW:
         for i in items:
             print i
 
+    #抓取保存酒店数据
+    def saveHotel(self):
+        #f = open(r'e:/crawlerFood.txt','w')
+        #f.truncate()
+        a=0
+        for i in range(51):
+            try:
+                hotelHrefList = self.getHotelHref(i)
+                for hotelHref in hotelHrefList:
+                    a += 1
+                    print hotelHref
+                    '''
+                    f.write(str(shopInfo) + '\n')
+                    comments = self.getComment(page)
+                    for comment in comments:
+                        f.write(str(comment) + '\n')
+                    travels = self.getTravel(page)
+                    for travel in travels:
+                        f.write(str(travel) + '\n')
+                    f.write("================================================================================="+"\n")
+                    '''
+            except AttributeError, e:
+                continue
+        #f.close()
+        print "抓取完成"+"共"+str(a)+"条"
 
-    def startjob(self):
-        f = open(r'e:/crawler.txt','w')
+    #抓取保存餐厅数据
+    def saveFood(self):
+        f = open(r'e:/crawlerFood.txt','w')
         f.truncate()
+        a=0
+        for i in range(51):
+            try:
+                foodHrefList = self.getFoodHref(i)
+                for foodHref in foodHrefList:
+                    a += 1
+                    page = self.getDetailPage(foodHref)
+                    shopInfos = self.getShopInfo(page)
+                    for shopInfo in shopInfos:
+                        f.write(str(shopInfo) + '\n')
+                    comments = self.getComment(page)
+                    for comment in comments:
+                        f.write(str(comment) + '\n')
+                    travels = self.getTravel(page)
+                    for travel in travels:
+                        f.write(str(travel) + '\n')
+                    f.write("================================================================================="+"\n")
+            except AttributeError, e:
+                continue
+        f.close()
+        print "抓取完成"+"共"+str(a)+"条"
+
+    #抓取保存娱乐信息
+    def saveIntertainment(self):
+        f = open(r'e:/crawler.txt','a')
+        f.write('\n城市:' + self.city + '\n\n\n')
         shopProjects = self.getProject()
         for i in shopProjects.keys():
             f.write(str(i) + str(shopProjects[i]) + '\n')
@@ -161,10 +241,11 @@ class MFW:
 
 
         f.close()
+        print "抓取完成"
 
 
 
 
 
-mfw = MFW('普吉岛')
-mfw.startjob()
+mfw = MFW('清迈')
+mfw.saveHotel()
