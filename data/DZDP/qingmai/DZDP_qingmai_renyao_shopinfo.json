@@ -1,0 +1,270 @@
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.797888", 
+ "name": "Chiangmai Cabaret Show", 
+ "phone": "+66-53-226-916", 
+ "city_id": "2", 
+ "avgprice": 165, 
+ "office_hours": "清迈人妖歌舞秀", 
+ "shop_id": 1000, 
+ "address": "177ChangPuakrd.,T.SriphumA.Muang,Chiangmai50200,THAILAND", 
+ "city_name": "清迈", 
+ "lng": "98.987425", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "18.78258", 
+ "name": "囍火锅(长康路店)", 
+ "phone": "+66-53-0885939068", 
+ "city_id": "2", 
+ "avgprice": 75, 
+ "office_hours": "17:00-00:00", 
+ "shop_id": 1001, 
+ "address": "宁曼路11巷(阿努沙市场(夜市)人妖秀旁)", 
+ "city_name": "清迈", 
+ "lng": "99.001", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.797888", 
+ "name": "Chiangmai Cabaret Show", 
+ "phone": "+66-53-226-916", 
+ "city_id": "2", 
+ "avgprice": 165, 
+ "office_hours": "清迈人妖歌舞秀", 
+ "shop_id": 1002, 
+ "address": "177ChangPuakrd.,T.SriphumA.Muang,Chiangmai50200,THAILAND", 
+ "city_name": "清迈", 
+ "lng": "98.987425", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "18.78258", 
+ "name": "囍火锅(长康路店)", 
+ "phone": "+66-53-0885939068", 
+ "city_id": "2", 
+ "avgprice": 75, 
+ "office_hours": "17:00-00:00", 
+ "shop_id": 1003, 
+ "address": "宁曼路11巷(阿努沙市场(夜市)人妖秀旁)", 
+ "city_name": "清迈", 
+ "lng": "99.001", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "13.747647", 
+ "name": "红色天空", 
+ "phone": "+66-2-1001234", 
+ "city_id": "2", 
+ "avgprice": 101, 
+ "office_hours": "18:00-23:30", 
+ "shop_id": 1000, 
+ "address": "拉玛1路CentaraGrandatCentralWorld999/99号", 
+ "city_name": "曼谷", 
+ "lng": "100.53874", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "13.7474379194", 
+ "name": "Red Sky", 
+ "phone": "+66-2-6621006255", 
+ "city_id": "2", 
+ "avgprice": 190, 
+ "office_hours": "18:00-次日01:00", 
+ "shop_id": 1001, 
+ "address": "CentaraGrandatCentralWorld", 
+ "city_name": "曼谷", 
+ "lng": "100.5406112712", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "13.723435", 
+ "name": "Moon Bar Bangkok", 
+ "phone": "+66-2-6791200", 
+ "city_id": "2", 
+ "avgprice": 336, 
+ "office_hours": "24小时营业", 
+ "shop_id": 1002, 
+ "address": "21/S,100SSathornRd,YanNawa,Sathon", 
+ "city_name": "曼谷", 
+ "lng": "100.539688", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.721706", 
+ "name": "Sirocco Restaurant", 
+ "phone": "+66-2-6249555", 
+ "city_id": "2", 
+ "avgprice": 502, 
+ "office_hours": "18:00-次日01:00", 
+ "shop_id": 1003, 
+ "address": "1055/42SilomRoad", 
+ "city_name": "曼谷", 
+ "lng": "100.516815", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "13.751667", 
+ "name": "Route66 Club", 
+ "phone": "+66-2-22030936", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "20:00-次日02:00", 
+ "shop_id": 1004, 
+ "address": "29/33-48SoiSoonvijaiRama9Rd.|RoyalCityAvenue(RCA),Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.575333", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.759265", 
+ "name": "Roof Bar & Restaurant", 
+ "phone": "+66-2-6292300", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "19:00-次日01:00", 
+ "shop_id": 1005, 
+ "address": "183-5,3rdFloor,CenterPointPlazaHotel,KhaoSanRoad", 
+ "city_name": "曼谷", 
+ "lng": "100.497533", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "13.723256", 
+ "name": "Octave Rooftop Lounge and Bar", 
+ "phone": "2-6627970000", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1006, 
+ "address": "素坤逸57巷2号", 
+ "city_name": "曼谷", 
+ "lng": "100.580363", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.805962", 
+ "name": "Sky Bar @ Sorn&apos;s place", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1007, 
+ "address": "พระนคร,กรุงเทพมหานคร,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.741228", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.723771", 
+ "name": "Vertigo Grill and Moon Bar", 
+ "phone": "+66-2-6791200", 
+ "city_id": "2", 
+ "avgprice": 721, 
+ "office_hours": "17:00-次日01:00", 
+ "shop_id": 1008, 
+ "address": "21/100SouthSathonRoadSathon", 
+ "city_name": "曼谷", 
+ "lng": "100.539629", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "13.74161", 
+ "name": "Horizons at HEAVEN Bangkok", 
+ "phone": "+66-2-6621009000", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "17:30-次日01:00", 
+ "shop_id": 1009, 
+ "address": "Level19,ZENWorld@CentralWorld,4,4/5RajadamriRoad", 
+ "city_name": "曼谷", 
+ "lng": "100.539803", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.741284", 
+ "name": "娜娜广场", 
+ "phone": "66800778288", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "NanaPlazaCandyLand", 
+ "shop_id": 1010, 
+ "address": "4SukhumvitRd", 
+ "city_name": "曼谷", 
+ "lng": "100.553056", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.759803", 
+ "name": "WP wine pub", 
+ "phone": "+66-2-6809999", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "周一-周日18:00-02:00;", 
+ "shop_id": 1011, 
+ "address": "PullmanBangkokKingPower,8-2RangnamRoad,Thanon-Phayathai,Ratchathewi,Bangkok10400,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.537994", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.724768", 
+ "name": "DJ Station", 
+ "phone": "+66-2-2664029", 
+ "city_id": "2", 
+ "avgprice": 58, 
+ "office_hours": "22:30-次日02:00", 
+ "shop_id": 1012, 
+ "address": "2/2SiLom,Silom,BangRak,", 
+ "city_name": "曼谷", 
+ "lng": "100.524017", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "13.72980829290357", 
+ "name": "Jupiter Boys 2002", 
+ "phone": "66891456278", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "21:00-次日01:00", 
+ "shop_id": 1013, 
+ "address": "31/1-33SurawongRoad", 
+ "city_name": "曼谷", 
+ "lng": "100.5329431571813", 
+ "category_id": 1
+}

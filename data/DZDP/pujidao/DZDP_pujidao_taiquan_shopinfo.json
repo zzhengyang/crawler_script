@@ -1,0 +1,60 @@
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.893869877", 
+ "name": "泰拳", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1000, 
+ "address": "198/4Rat-U-Thit200PeeRoad,PatongBeach,AmphurKathu,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.29889679", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.897624", 
+ "name": "芭东泰拳体育馆", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "PatongBoxingStadium", 
+ "shop_id": 1001, 
+ "address": "2/59SaiNamYenRoad,PatongBeachAmphur,KathuPhuket,83150Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.304459", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.893869877", 
+ "name": "泰拳", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1002, 
+ "address": "198/4Rat-U-Thit200PeeRoad,PatongBeach,AmphurKathu,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.29889679", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.897624", 
+ "name": "芭东泰拳体育馆", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "PatongBoxingStadium", 
+ "shop_id": 1003, 
+ "address": "2/59SaiNamYenRoad,PatongBeachAmphur,KathuPhuket,83150Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.304459", 
+ "category_id": 1
+}

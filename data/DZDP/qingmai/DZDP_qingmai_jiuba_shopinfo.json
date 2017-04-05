@@ -1,0 +1,3180 @@
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.782728", 
+ "name": "Colour bar garden", 
+ "phone": "66866559934", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "18:30-次日00:00", 
+ "shop_id": 1000, 
+ "address": "Nightbazaar|Anusarnmarket", 
+ "city_name": "清迈", 
+ "lng": "99.000702", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.795179", 
+ "name": "The North Gate Jazz Club", 
+ "phone": "+66-53-817655246", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1001, 
+ "address": "清迈清迈市SiPhum地区SiPhum路在昌卜门前91/1-2号", 
+ "city_name": "清迈", 
+ "lng": "98.987015", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.79567", 
+ "name": "BeerLab", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "每天08:00-24:00", 
+ "shop_id": 1002, 
+ "address": "SuThepNimmanahaemindaRoad", 
+ "city_name": "清迈", 
+ "lng": "98.96567", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.79047", 
+ "name": "Zoe in Yellow", 
+ "phone": "+66-53-0842229388", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "星期六:下午5点00分-上午2点00分,星期五:下午5点00分-上午2点00分,星期三:下午5点00分-上午2点00分,星期日:下午5点00分-上午2点00分,星期四:下午5点00分-上午2点00分,星期二:下午5点00分-上午2点00分,星期一:下午5点00分-上午2点00分", 
+ "shop_id": 1003, 
+ "address": "40/12RatvithiRd,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992439", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.783405", 
+ "name": "La Provence", 
+ "phone": "0066812465249", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1004, 
+ "address": "MitrpraneeRd,about100mfromtheSouthEastcorneroftheoldcity&apos;swalls", 
+ "city_name": "清迈", 
+ "lng": "98.99171", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.79442", 
+ "name": "BEPPU 居酒屋", 
+ "phone": "82 389 4315", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:00-22:00", 
+ "shop_id": 1005, 
+ "address": "清迈NimmanaHaeminda路17巷", 
+ "city_name": "清迈", 
+ "lng": "98.96761", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.79874", 
+ "name": "H.O.W House of Wine", 
+ "phone": "0066 877273331", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1006, 
+ "address": "Soi15Nimanheaminroad, ChiangMai, Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.96841", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "18.92442339", 
+ "name": "老虎王国酒餐吧", 
+ "phone": "66532768613", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "TigerKindomBar", 
+ "shop_id": 1007, 
+ "address": "MaeRaem,MaeRimDistrict", 
+ "city_name": "清迈", 
+ "lng": "98.93265619", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.784015", 
+ "name": "Lemongrass Thai Cuisine", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1008, 
+ "address": "125LoyKrohRoadMuang,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "99.001133", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.785105", 
+ "name": "Boy Blues Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1009, 
+ "address": "Soi6,ChangklanRd|KalareNightBazaar,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "99.001053", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.796907", 
+ "name": "Beer Republic", 
+ "phone": "081 531 4765", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "星期六:下午4点00分-上午12点00分,星期五:下午4点00分-上午12点00分,星期三:下午4点00分-上午12点00分,星期日:下午4点00分-上午12点00分,星期四:下午4点00分-上午12点00分,星期二:下午4点00分-上午12点00分,星期一:下午4点00分-上午12点00分", 
+ "shop_id": 1010, 
+ "address": "28NimmanaHaemindaLane11|Suthep,ChiangMai50200,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.968628", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.793102", 
+ "name": "Roots Rock Reggae", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1011, 
+ "address": "MoonMaungSoi6,ChiangMai50200,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.990494", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.78252", 
+ "name": "The Roadside Pub & Restaurant", 
+ "phone": "+66-53-0895697469", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1012, 
+ "address": "MueangChiangMaiDistrict", 
+ "city_name": "清迈", 
+ "lng": "99.003", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.782166", 
+ "name": "Moon Pie JP店", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "07:00-次日00:00；周一不营业", 
+ "shop_id": 1013, 
+ "address": "JPboutiquehotelpoolside", 
+ "city_name": "清迈", 
+ "lng": "99.003054", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.778164", 
+ "name": "Loy Kham Bar", 
+ "phone": "+66-53-6653888888", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "09:00-19:00", 
+ "shop_id": 1014, 
+ "address": "51/4Moo1,ChiangMai-SankampaengRoad|TheDharaDheviChiangMai,ChiangMai50000,Thailand", 
+ "city_name": "清迈", 
+ "lng": "99.039024", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.782728", 
+ "name": "Colour bar garden", 
+ "phone": "66866559934", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "18:30-次日00:00", 
+ "shop_id": 1015, 
+ "address": "Nightbazaar|Anusarnmarket", 
+ "city_name": "清迈", 
+ "lng": "99.000702", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.795179", 
+ "name": "The North Gate Jazz Club", 
+ "phone": "+66-53-817655246", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1016, 
+ "address": "清迈清迈市SiPhum地区SiPhum路在昌卜门前91/1-2号", 
+ "city_name": "清迈", 
+ "lng": "98.987015", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.79567", 
+ "name": "BeerLab", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "每天08:00-24:00", 
+ "shop_id": 1017, 
+ "address": "SuThepNimmanahaemindaRoad", 
+ "city_name": "清迈", 
+ "lng": "98.96567", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.79047", 
+ "name": "Zoe in Yellow", 
+ "phone": "+66-53-0842229388", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "星期六:下午5点00分-上午2点00分,星期五:下午5点00分-上午2点00分,星期三:下午5点00分-上午2点00分,星期日:下午5点00分-上午2点00分,星期四:下午5点00分-上午2点00分,星期二:下午5点00分-上午2点00分,星期一:下午5点00分-上午2点00分", 
+ "shop_id": 1018, 
+ "address": "40/12RatvithiRd,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992439", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.783405", 
+ "name": "La Provence", 
+ "phone": "0066812465249", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1019, 
+ "address": "MitrpraneeRd,about100mfromtheSouthEastcorneroftheoldcity&apos;swalls", 
+ "city_name": "清迈", 
+ "lng": "98.99171", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.79442", 
+ "name": "BEPPU 居酒屋", 
+ "phone": "82 389 4315", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:00-22:00", 
+ "shop_id": 1020, 
+ "address": "清迈NimmanaHaeminda路17巷", 
+ "city_name": "清迈", 
+ "lng": "98.96761", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.79874", 
+ "name": "H.O.W House of Wine", 
+ "phone": "0066 877273331", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1021, 
+ "address": "Soi15Nimanheaminroad, ChiangMai, Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.96841", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "18.92442339", 
+ "name": "老虎王国酒餐吧", 
+ "phone": "66532768613", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "TigerKindomBar", 
+ "shop_id": 1022, 
+ "address": "MaeRaem,MaeRimDistrict", 
+ "city_name": "清迈", 
+ "lng": "98.93265619", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.784015", 
+ "name": "Lemongrass Thai Cuisine", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1023, 
+ "address": "125LoyKrohRoadMuang,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "99.001133", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.785105", 
+ "name": "Boy Blues Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1024, 
+ "address": "Soi6,ChangklanRd|KalareNightBazaar,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "99.001053", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.796907", 
+ "name": "Beer Republic", 
+ "phone": "081 531 4765", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "星期六:下午4点00分-上午12点00分,星期五:下午4点00分-上午12点00分,星期三:下午4点00分-上午12点00分,星期日:下午4点00分-上午12点00分,星期四:下午4点00分-上午12点00分,星期二:下午4点00分-上午12点00分,星期一:下午4点00分-上午12点00分", 
+ "shop_id": 1025, 
+ "address": "28NimmanaHaemindaLane11|Suthep,ChiangMai50200,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.968628", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.793102", 
+ "name": "Roots Rock Reggae", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1026, 
+ "address": "MoonMaungSoi6,ChiangMai50200,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.990494", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.78252", 
+ "name": "The Roadside Pub & Restaurant", 
+ "phone": "+66-53-0895697469", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1027, 
+ "address": "MueangChiangMaiDistrict", 
+ "city_name": "清迈", 
+ "lng": "99.003", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.782166", 
+ "name": "Moon Pie JP店", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "07:00-次日00:00；周一不营业", 
+ "shop_id": 1028, 
+ "address": "JPboutiquehotelpoolside", 
+ "city_name": "清迈", 
+ "lng": "99.003054", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.778164", 
+ "name": "Loy Kham Bar", 
+ "phone": "+66-53-6653888888", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "09:00-19:00", 
+ "shop_id": 1029, 
+ "address": "51/4Moo1,ChiangMai-SankampaengRoad|TheDharaDheviChiangMai,ChiangMai50000,Thailand", 
+ "city_name": "清迈", 
+ "lng": "99.039024", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.75721", 
+ "name": "Bistro 1", 
+ "phone": "+66-53-0885357707", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "15:00-次日01:00", 
+ "shop_id": 1030, 
+ "address": "197MahidolRd.", 
+ "city_name": "清迈", 
+ "lng": "99.00373", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "18.782284", 
+ "name": "Le Croissant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1031, 
+ "address": "KamphangdinRd", 
+ "city_name": "清迈", 
+ "lng": "98.99838", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.7964642", 
+ "name": "John&apos;s Place Sports Bar And ResTaurAnt", 
+ "phone": "66053302764", 
+ "city_id": "2", 
+ "avgprice": 37, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1032, 
+ "address": "ThMoonMuangPlaceontheCorner", 
+ "city_name": "清迈", 
+ "lng": "98.6600586", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.76148", 
+ "name": "Horn Bar", 
+ "phone": "+66 53 888 888", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "星期六:下午6点00分-上午12点00分,星期五:下午6点00分-上午12点00分,星期三:下午6点00分-上午12点00分,星期日:下午6点00分-上午12点00分,星期四:下午6点00分-上午12点00分,星期二:下午6点00分-上午12点00分,星期一:下午6点00分-上午12点00分", 
+ "shop_id": 1033, 
+ "address": "51/4Moo1,ChiangMai-SankampaengRoad|TheDharaDheviChiangMai,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.782167940504035", 
+ "name": "Prued Bar Loy Kor St.", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1034, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.9983814691249", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.783907143302383", 
+ "name": "Red Lion English Pub & Restaurant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1035, 
+ "address": "123loykhroroad(Changkhanroad),เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "99.00075530238428", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.786411", 
+ "name": "Sticky Rice Cafe", 
+ "phone": "+66 84 900 2429", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "Sun-Sat,10:00am-1:00am", 
+ "shop_id": 1036, 
+ "address": "33MoonmuangRd.TaPaeGate,Muang,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.993065", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.782827", 
+ "name": "The Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "13:00-次日00:00", 
+ "shop_id": 1037, 
+ "address": "ChangKlan", 
+ "city_name": "清迈", 
+ "lng": "98.998033", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.785995", 
+ "name": "At Khualek", 
+ "phone": "+66-53-0992692623", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1038, 
+ "address": "Chiangmai-LamphunRoad.", 
+ "city_name": "清迈", 
+ "lng": "99.005096", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.77905", 
+ "name": "Doo Dee Pub & Restaurant", 
+ "phone": "66818850322", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "15:00-次日00:00；周日不营业", 
+ "shop_id": 1039, 
+ "address": "6SuriyawongseRd", 
+ "city_name": "清迈", 
+ "lng": "98.98841", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.822643", 
+ "name": "Mai Phai Cafe & Bar", 
+ "phone": "66838647292", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1040, 
+ "address": "9/5MoonMuang,Soi2", 
+ "city_name": "清迈", 
+ "lng": "98.99794", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.796185", 
+ "name": "Baa(n) Din", 
+ "phone": "+66-53-0856181141", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1041, 
+ "address": "16/2,Soi13,NimmanhaeminRoad,SuthepSubdistrict", 
+ "city_name": "清迈", 
+ "lng": "98.96987", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.78454365", 
+ "name": "2Gether Bar & Restaurant", 
+ "phone": "66990374331", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "17:00-次日02:00", 
+ "shop_id": 1042, 
+ "address": "CharoenpratetRd19/1Lane6", 
+ "city_name": "清迈", 
+ "lng": "99.00125742", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.785612", 
+ "name": "Puccini Italian Restaurant", 
+ "phone": "+66-53-053280762", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1043, 
+ "address": "42CharoenPrathetRoad,ChangKhlanSubdistrict", 
+ "city_name": "清迈", 
+ "lng": "99.00282", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "旅拍师david", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "每天09:00-17:00", 
+ "shop_id": 1044, 
+ "address": "清迈古城", 
+ "city_name": "清迈", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.808878", 
+ "name": "Bird of Paradise", 
+ "phone": "+66 89 055 4775", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "星期六:下午4点00分-上午1点00分,星期五:下午4点00分-上午1点00分,星期三:下午4点00分-上午1点00分,星期四:下午4点00分-上午1点00分,星期二:下午4点00分-上午1点00分,星期一:下午4点00分-上午1点00分", 
+ "shop_id": 1045, 
+ "address": "ChiangKhianRoad,ChiangMai50300,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.959763", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.798731", 
+ "name": "Small House Kafe", 
+ "phone": "+66 83 176 3013", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "星期六:下午6点00分-上午12点00分,星期五:下午6点00分-上午12点00分,星期三:下午6点00分-上午12点00分,星期四:下午6点00分-上午12点00分,星期二:下午6点00分-上午12点00分", 
+ "shop_id": 1046, 
+ "address": "18/1SermsukRoad,ChiangMai50200,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.975517", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.794979", 
+ "name": "Why Not? Italian Restaurant & Wine Bar", 
+ "phone": "+66-53-6653289262", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "17:00-23:00", 
+ "shop_id": 1047, 
+ "address": "14,Soi11,NimmanhaeminRd.", 
+ "city_name": "清迈", 
+ "lng": "98.966522", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.782156", 
+ "name": "Imoya居酒屋", 
+ "phone": "+66-53-53 271 451", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1048, 
+ "address": "清迈长卡兰地区Changklan路164/106号", 
+ "city_name": "清迈", 
+ "lng": "98.999809", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.786229", 
+ "name": "3 Rose Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1049, 
+ "address": "长康路夜市,ChangklanRd.", 
+ "city_name": "清迈", 
+ "lng": "99.000714", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "eleven", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1050, 
+ "address": "清邁Nimmanhemin路11巷5区", 
+ "city_name": "清迈", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "18.796292", 
+ "name": "BRIX Bar & ResTaurAnt", 
+ "phone": "+66-53-5321106970", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1051, 
+ "address": "2-6号RatchadamnoenRd.,ThapaeGate,ChiangMai50200,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.9134965", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "18.801216453673817", 
+ "name": "circle pub", 
+ "phone": "+66-53-6653214996", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1052, 
+ "address": "6/9(ChangPhueakRd.),SriPhum,เชียงใหม่50200,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.98551006193262", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "18.787304", 
+ "name": "THC Rooftop Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "18:00后营业", 
+ "shop_id": 1053, 
+ "address": "19/4-5KotchasarnRoad,Onthe3rdFloor", 
+ "city_name": "清迈", 
+ "lng": "98.99382", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "18.785471", 
+ "name": "Funan  Garden", 
+ "phone": "+66-53-8037859", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:00-22:30", 
+ "shop_id": 1054, 
+ "address": "38/10ChiangMaiLamphunRd", 
+ "city_name": "清迈", 
+ "lng": "98.991936", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "18.784192", 
+ "name": "My Place Lounge", 
+ "phone": "66857096851", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "08:00-次日00:00", 
+ "shop_id": 1055, 
+ "address": "80LoiKrohRoad", 
+ "city_name": "清迈", 
+ "lng": "98.997513", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "18.78423893", 
+ "name": "Bus Bar", 
+ "phone": "+66-53-0841733113", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1056, 
+ "address": "IronBridge,PingRiver,ChiangMai", 
+ "city_name": "清迈", 
+ "lng": "99.00377601", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "18.79435", 
+ "name": "bartonggo", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1057, 
+ "address": "SuThepNimmanaHaemindaRoadLane17", 
+ "city_name": "清迈", 
+ "lng": "98.97046", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "18.796464", 
+ "name": "Adam’s Apple Club", 
+ "phone": "+66-53-53220381", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "WeekdayOpening:20:30-01:00", 
+ "shop_id": 1058, 
+ "address": "1,21-22号TanonViengbuaChangphuak", 
+ "city_name": "清迈", 
+ "lng": "98.660058", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "18.78391", 
+ "name": "Rasta Cafe", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1059, 
+ "address": "CharoenPrathet,เมืองเชียงใหม่,เชียงใหม่50100,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "99.003054", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "18.78428", 
+ "name": "The Red Lion English Pub and Restaurant", 
+ "phone": "+66-53-53818847", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "09:30-次日01:00", 
+ "shop_id": 1060, 
+ "address": "LoyKroh路123号清迈夜市", 
+ "city_name": "清迈", 
+ "lng": "99.00071", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "0.0", 
+ "name": "BILL BENTLEY PUB", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1061, 
+ "address": "清迈机场二楼候机室", 
+ "city_name": "清迈", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.79904", 
+ "name": "The Larder Cafe And Bar", 
+ "phone": "+66-53-52001594", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "上午8点30分-下午3点00分", 
+ "shop_id": 1062, 
+ "address": "清迈素帖山地区Sukkasem路333/9号", 
+ "city_name": "清迈", 
+ "lng": "98.96619", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "18.801584", 
+ "name": "The Pub", 
+ "phone": "+66-53-211550", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1063, 
+ "address": "HeuyKew", 
+ "city_name": "清迈", 
+ "lng": "98.96644", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.76148", 
+ "name": "Mix Bar", 
+ "phone": "66 0 5399 9999", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1064, 
+ "address": "100ChangKlanRoad,TambolChangKlan,AmphurMuang|DusitD2Hotel,ChiangMai50100,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.78307857928796", 
+ "name": "Imperial Mae-Ping Hotel", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1065, 
+ "address": "153SridonchaiRd.,เมืองเชียงใหม่,เชียงใหม่50100,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99804698017498", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.78419048475685", 
+ "name": "bar 69", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1066, 
+ "address": "loikroh(soi3a),เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99791210599932", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.788046", 
+ "name": "Barli", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1067, 
+ "address": "111RachadamnoenRoad.|SiPhumSubdistrict,ChiangMai50200,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.98774", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.798370586395578", 
+ "name": "Clubhouse", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1068, 
+ "address": "Nimman,เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.96720456330895", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.788285", 
+ "name": "U Hotel Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1069, 
+ "address": "SriPhum,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.987049", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.798336", 
+ "name": "RAM Bar", 
+ "phone": "+66 84 501 2224", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1070, 
+ "address": "14/1ถ.วังสิงห์คำต.ช้างม่อย,เมือง,จังหวัดเชียงใหม่,เมืองเชียงใหม่,เชียงใหม่50300,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "99.000399", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.79513", 
+ "name": "Pump Up", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1071, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.973151", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.783678", 
+ "name": "The Magic Bus Cafe", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1072, 
+ "address": "111KampangdinRd.|AcrossfromtheImperialMaePingHotel,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.998405", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.796175", 
+ "name": "Little guesthouse", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1073, 
+ "address": "Maneenoparat,SriPhum,เชียงใหม่50200,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.987003", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.79806", 
+ "name": "That&apos;S Wine Restaurant Bar & Club by Penpak", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1074, 
+ "address": "NimmanSoi7,เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.96764", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.796464", 
+ "name": "Circle Pub", 
+ "phone": "+66-53-53214996", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1075, 
+ "address": "161,7-8号SoiArawenChangpueakRd", 
+ "city_name": "清迈", 
+ "lng": "98.660058", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.797514", 
+ "name": "Soho Bar and Guesthouse", 
+ "phone": "+66 53 404 175", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1076, 
+ "address": "20/3HueyKeawRoad,เมืองเชียงใหม่,เชียงใหม่50300,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.974814", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.790499", 
+ "name": "Raggae Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1077, 
+ "address": "สามกษัตริย์,เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.982452", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.799415947059856", 
+ "name": "VooDoo ART", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1078, 
+ "address": "SuThep,เชียงใหม่50200,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.96169752209396", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.784044", 
+ "name": "The Bear Bar", 
+ "phone": "08 27668419", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1079, 
+ "address": "685CharoernPrathetRoad,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "99.002724", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.79140442616231", 
+ "name": "Living Room Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1080, 
+ "address": "ChaiyaphumRd,SiPhum,MueangChiangMai,ChiangMai50200,เมืองเชียงใหม่,เชียงใหม่50200,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.9937365155257", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.798529", 
+ "name": "May Day Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1081, 
+ "address": "สุเทพ,จ.เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.970022", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.781038", 
+ "name": "Wallee Bar", 
+ "phone": "+66 89 039 1227", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1082, 
+ "address": "RatChiangSaenRoad,ChiangMai50100,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.990402", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.78791", 
+ "name": "Pretty Club & Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1083, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "99.00212", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.79660947797514", 
+ "name": "wisasa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1084, 
+ "address": "SuThepNimmanaHaemindaRoadLane5", 
+ "city_name": "清迈", 
+ "lng": "98.96905595946761", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.800179", 
+ "name": "MAA JAI DUM @ NAP", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1085, 
+ "address": "ChangPhuak,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.968964", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.78369", 
+ "name": "Maple Leaf Bar & Massage", 
+ "phone": "+66-53-053-818035", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1086, 
+ "address": "186/1LoiKrohRd,TambonChangklan,,AmphoeMuang", 
+ "city_name": "清迈", 
+ "lng": "99.002587", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.786877096928244", 
+ "name": "Cocktail Cycle", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1087, 
+ "address": "ThaPaeGate,เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99302442136982", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.784119", 
+ "name": "Bus Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1088, 
+ "address": "LoiKrohroad.|NexttoMaePingRiver,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.998245", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.783972", 
+ "name": "Ben&apos;s Cocktail bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1089, 
+ "address": "LoikrohRoad,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "99.00116", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.788575388751084", 
+ "name": "Chiang Mai Writers Club& Wine Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1090, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.9936394113988", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.790277", 
+ "name": "X Center Sports Bar & ResTaurAnt", 
+ "phone": "+66-53-053297700", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "每天10:00-24:00", 
+ "shop_id": 1091, 
+ "address": "ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.984444", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.79730337", 
+ "name": "Grow Up", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1092, 
+ "address": "สุเทพ,จ.เชียงใหม่50200,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.96640304000002", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.783922", 
+ "name": "Downunder Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1093, 
+ "address": "186/1LoiKrohroad,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "99.000656", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.802696", 
+ "name": "Myst Rooftop Bar and Restaurant", 
+ "phone": "(66-61)512676", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1094, 
+ "address": "55Moo5,HuayKaewRd.ChangPhuak,MuangChiangMai,ChiangMai50300", 
+ "city_name": "清迈", 
+ "lng": "98.967286", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.78491788800567", 
+ "name": "Blue 7", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1095, 
+ "address": "ถนนคันคลอง(คันคลอง),SuThep,เชียงใหม่50200,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.95831762943436", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.796464", 
+ "name": "New My Way", 
+ "phone": "+66-53-53404361", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1096, 
+ "address": "3,5-6号HatsadeeSeweeRoadSoi3号", 
+ "city_name": "清迈", 
+ "lng": "98.660058", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.768692", 
+ "name": "เธอ คาราโอเกะ 1", 
+ "phone": "+66-53-053-278646", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1097, 
+ "address": "MuBanChiangMaiLakeLand,Suthep,Mueang", 
+ "city_name": "清迈", 
+ "lng": "98.997333", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.805489", 
+ "name": "Point Cafe", 
+ "phone": "+66 52 001 650", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "星期六:上午7点00分-下午10点00分,星期五:上午7点00分-下午10点00分,星期三:上午7点00分-下午10点00分,星期日:上午7点00分-下午10点00分,星期四:上午7点00分-下午10点00分,星期二:上午7点00分-下午10点00分,星期一:上午7点00分-下午10点00分", 
+ "shop_id": 1098, 
+ "address": "11/6TeWanRoad|ChangPhueaksubdistrict,ChiangMai50300,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.972893", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.780925428719318", 
+ "name": "Mandalay Bar cm", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1099, 
+ "address": "เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "99.03960997586056", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.779741", 
+ "name": "the Arboreal places", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1100, 
+ "address": "อ.เมืองเชียงใหม่,จ.เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99425", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.794342", 
+ "name": "Sax Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1101, 
+ "address": "MoonMuangRoad|ThaPaeGate,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.990585", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.782934", 
+ "name": "Lost Hut", 
+ "phone": "66 87 184 5196", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1102, 
+ "address": "1,MoonMuangSoi1,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992088", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.794253822467734", 
+ "name": "Rattharin&apos;s Love Nest", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1103, 
+ "address": "SirimangklajarnRd.,SuThep,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.97117376327516", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.797966837883", 
+ "name": "@Home Pub&restaurant;", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1104, 
+ "address": "NimmanaHaemindaLane7,SuThep,เชียงใหม่50200,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.969298", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.79576764541481", 
+ "name": "Wine bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1105, 
+ "address": "หน้าปากซอยแคนเทอรรี่ฮิลส์,SuThep,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.96567300555996", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.797973", 
+ "name": "Wine Terminal", 
+ "phone": "+66 53 213 208", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1106, 
+ "address": "25NimmanhaeminRd.,Soi7,เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.969296", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.795757", 
+ "name": "Kitchen Culture @ Kantary Terrace", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1107, 
+ "address": "นิมมานเหมินทร์,สุเทพ,จ.เชียงใหม่50200,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.965586", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.78587119883925", 
+ "name": "Blue Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1108, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99310534083666", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.784058", 
+ "name": "Daxx bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1109, 
+ "address": "119LoiKrohRoad,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "99.000671", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.796433396885952", 
+ "name": "Chadaya", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1110, 
+ "address": "soi13(nimman),เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.9680997833974", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.782634", 
+ "name": "บริษัท โอมาลี่ ไอริส ผับ จำกัด", 
+ "phone": "+66-53-053-271921", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1111, 
+ "address": "BanMaiSamakkhi15,PaDaet", 
+ "city_name": "清迈", 
+ "lng": "99.000452", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.76148", 
+ "name": "The Box Wine Bar", 
+ "phone": "+66-53-053213605", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1112, 
+ "address": "2,Soi5Lane,DeMarcheProject,NimmanhaeminRd.,SuthepSub-District,MueangChiangMaiDistrict,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Pentatonic Rock Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1113, 
+ "address": "ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.82304858116721", 
+ "name": "New Vision Pub&Res.;", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1114, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "99.0129978614474", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.81470732108547", 
+ "name": "THE WESTERN CLUB(CR 12)", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1115, 
+ "address": "รวมโชค,เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "99.00895097054018", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.76148", 
+ "name": "Moisture Pub & Restaurant", 
+ "phone": "+66-53-0813719220", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1116, 
+ "address": "SoiNimmanheymin17Lane,NimmanheyminRd.,SuthepSub-District,MueangChiangMaiDistrict,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.840572570405374", 
+ "name": "OASIS Whisky & Spirit Shop", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1117, 
+ "address": "31(Wongwannasalakrang),ChangPhuak,เชียงใหม่50300,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.97664546966551", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.76148", 
+ "name": "Sud Sa Nan Pub", 
+ "phone": "0-5321-0614", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1118, 
+ "address": "30/1,somedistanceacrossSithanaCommercialSchool,HuaiKaeoRd.,ChangPhuekSub-District,MueangChiangMaiDistrict,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.76148", 
+ "name": "Porn Ping Hot Shot Pub And Restaurant", 
+ "phone": "+66-53-053270099", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1119, 
+ "address": "46-481stFloorPornpingTowerChiangMaiHotelCharoenPrathetRoadChangKlanSubdistrictMueangChiangMaiDistrict,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.805253", 
+ "name": "Voska Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1120, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.993382", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Oasis Rooftop Garden Bar", 
+ "phone": "+(66)08 16 93 50 19", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1121, 
+ "address": "13/1SoiJangSripoom1,SripoomRoad,AmphorMuang,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.860238", 
+ "name": "Lookmee Beer Garden", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1122, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "99.137194", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.806355865868444", 
+ "name": "KafeOtto", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1123, 
+ "address": "Atsadathorn,เมืองเชียงใหม่,เชียงใหม่50000,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.995457436262", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.76148", 
+ "name": "Pussy Cat Beer Bar", 
+ "phone": "+66 89 561 1509", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1124, 
+ "address": "MuayThaiBoxing,Soi3A,LoyKrohRoad,ChiangMai50100,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.808878966691307", 
+ "name": "Dope office bar & alcohol", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1125, 
+ "address": "อยู่ในลานจอดรถตรงสามแยกไฟแดงเข้าโลตัส,ChangPhuak,เชียงใหม่50300,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.9948844909668", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.8070534480658", 
+ "name": "D-fine", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1126, 
+ "address": "ChangPhuak,เชียงใหม่50300,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99527401345657", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.791677", 
+ "name": "The Count", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1127, 
+ "address": "155/12(Suthep),เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.951836", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.767588", 
+ "name": "NEXT BAR", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1128, 
+ "address": "272/1MahidolRd,เมืองเชียงใหม่,เชียงใหม่50100,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.982905", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.776047825813293", 
+ "name": "Update Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1129, 
+ "address": "ThanonSomphotChiangMai700Pi,เมืองเชียงใหม่,เชียงใหม่50000,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "99.04209673404694", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.80137972996654", 
+ "name": "Cafe&apos;17 De&apos; NimmArn", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1130, 
+ "address": "อ.เมืองเชียงใหม่,จ.เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99521467087548", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.80608648738105", 
+ "name": "GiG Club Chiangmai ^^", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1131, 
+ "address": "Muang,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.97429714522134", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.809000837552656", 
+ "name": "Fine Thanks", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": ""Mon–Sun:5:00PM–1:00AM"", 
+ "shop_id": 1132, 
+ "address": "NationalHwy121(atDiamondPlace),เมืองเชียงใหม่,เชียงใหม่50300,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.96255850791933", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.777502", 
+ "name": "Round Table", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1133, 
+ "address": "RedbrickGuesthouse,เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.996322", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.79197", 
+ "name": "Mi Casa Dining Concepts, Chiang Mai", 
+ "phone": "800332825", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1134, 
+ "address": "28NimmanhaeminSoi11", 
+ "city_name": "清迈", 
+ "lng": "98.9538", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.785448", 
+ "name": "Bj karaoke and bar", 
+ "phone": "66846119216", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1135, 
+ "address": "46/7CharoenprathetRoad,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "99.002922", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.797979089252152", 
+ "name": "MuMu", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1136, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.96227024976086", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.794197", 
+ "name": "New Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1137, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.992455", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.767795", 
+ "name": "Parking Lot Of Indecision", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1138, 
+ "address": "PaDaet,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.974171", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.782795", 
+ "name": "New Star Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1139, 
+ "address": "Loikrohroadlane,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.995026", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.79481", 
+ "name": "Room Corner @ Room Nimman", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1140, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.965531", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.803402", 
+ "name": "Malin Sky Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1141, 
+ "address": "HuaykaewRd,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.963966", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "19.400217", 
+ "name": "The Cave Bar", 
+ "phone": "+66 81 892 0531", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "星期六:下午4点00分-上午1点00分,星期五:下午4点00分-上午1点00分,星期三:下午4点00分-上午1点00分,星期日:下午4点00分-上午1点00分,星期四:下午4点00分-上午1点00分,星期二:下午4点00分-上午1点00分,星期一:下午4点00分-上午1点00分", 
+ "shop_id": 1142, 
+ "address": "273/3Moo5|BanTham,ChiangDao50170,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.929054", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.783432", 
+ "name": "Players Music Bar", 
+ "phone": "+66 82 389 1964", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1143, 
+ "address": "Loikhrordandcharoernprathetroad|changklan,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "99.001808", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.797863", 
+ "name": "Chalermkrung Cafe", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1144, 
+ "address": "NimmanaHaemindaRoadLane6,SuThep,เชียงใหม่50200,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.96466", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.79716633895451", 
+ "name": "Singha Beer Garden", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1145, 
+ "address": "ChiangmaiOrchidHotel,ChangPhuak,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.97545068020236", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.795695", 
+ "name": "Winebar @ Nimmanhaemin Rd.", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1146, 
+ "address": "Kantary,Chiangmai,SuThep,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.965628", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.794865", 
+ "name": "So What Garden Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1147, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.968882", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.808603", 
+ "name": "The Steak House Pub & Restaurant By Le Crystal", 
+ "phone": "+66-53-53224123", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "星期六:上午11点30分-下午2点00分  下午6点30分-下午11点00分,星期五:上午11点30分-下午2点00分  下午6点30分-下午11点00分,星期三:上午11点30分-下午2点00分  下午6点30分-下午11点00分,星期日:上午11点30分-下午2点00分  下午6点30分-下午11点00分,星期四:上午11点30分-下午2点00分  下午6点30分-下午11点00分,星期二:上午11点30分-下午2点00分  下午6点30分-下午11点00分,星期一:上午11点30分-下午2点00分  下午6点30分-下午11点00分", 
+ "shop_id": 1148, 
+ "address": "44InsideJJMarket,AtsadathonRoad,PatanSubdistrict,MueangChiangMaiDistrict,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.995346", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.797120300632628", 
+ "name": "Barcode Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1149, 
+ "address": "SuThep,เชียงใหม่50200,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.97045652591488", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.76148", 
+ "name": "At Living Room Bar", 
+ "phone": "08-6115-5913", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1150, 
+ "address": "70/20SomphetGoldPlaceBuilding,oppositeSomphetMarket,ChangMoiSubdistrict,MueangChiangMaiDistrict.,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.811505439695274", 
+ "name": "horn bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1151, 
+ "address": "เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.98354662869572", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.807406", 
+ "name": "Chillin&apos; bar", 
+ "phone": "+66 84 041 1636", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1152, 
+ "address": "NextThaChang,ChangPhuak,เชียงใหม่50300,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.995329", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.828331", 
+ "name": "Dao Drinking ", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1153, 
+ "address": "อ.เมืองเชียงใหม่,จ.เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.987854", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.811271", 
+ "name": "N-Joy Original", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1154, 
+ "address": "อ.เมืองเชียงใหม่,จ.เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.98088", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.80594961205854", 
+ "name": "เบียร์วุ้น", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1155, 
+ "address": "เวียงบัวพลาซ่า,เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.98154009359766", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.76148", 
+ "name": "Red Lion English Restaurant and Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "星期六:上午9点00分-上午1点00分,星期五:上午9点00分-上午1点00分,星期三:上午9点00分-上午1点00分,星期日:上午9点00分-上午1点00分,星期四:上午9点00分-上午1点00分,星期二:上午9点00分-上午1点00分,星期一:上午9点00分-上午1点00分", 
+ "shop_id": 1156, 
+ "address": "ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.80812060749287", 
+ "name": "Beer Garden Tesco Lotus Kamtieng", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1157, 
+ "address": "ChangPhuak,เชียงใหม่50300,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99598073307908", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.799928", 
+ "name": "Season Change Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1158, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "99.024003", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.783755458223716", 
+ "name": "kat bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1159, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99767472800976", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.786232", 
+ "name": "Colour Bar", 
+ "phone": "+66 83 899 3399", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1160, 
+ "address": "Sirorot,เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.970456", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.79610498805305", 
+ "name": "Chill@Pai", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1161, 
+ "address": "หน้าคอมซิตี้,SriPhum,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.97953900327902", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.84661674499512", 
+ "name": "hurtwa/jaren Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1162, 
+ "address": "เจเจมาร์เกตถ.อัษฎาธรต.ป่าตันอ.เมืองเชียงใหม่(อัษฎาธร),เมืองเชียงใหม่,เชียงใหม่50100,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.97488403320312", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.775474", 
+ "name": "On Air", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1163, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.9767", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.799186813221752", 
+ "name": "Bangsaen Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1164, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "99.00350148488025", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.823056002518573", 
+ "name": "HubaHuba", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1165, 
+ "address": "สันทราย,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "99.02386103578894", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.79472", 
+ "name": "Room&apos;s Corner", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1166, 
+ "address": "Nimman,เมืองเชียงใหม่,เชียงใหม่53000,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.96553502220256", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.76148", 
+ "name": "The Peak Wine Pub And Restaurant", 
+ "phone": "+66-53-0533653067", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1167, 
+ "address": "190Moo4BanKlangDoiResortHangdong-SamoengBanPongSubdistrictHangdongDistrict,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.80181782161199", 
+ "name": "Fai Bakery 1964", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1168, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.95189571900656", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.780716", 
+ "name": "Tarabar Pub and Restaurant", 
+ "phone": "053 248059 60", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1169, 
+ "address": "140/1Chiangmai-Lumphum|oppositeKawilaBarracks,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "99.006691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.76148", 
+ "name": "The Bridge Bar", 
+ "phone": "08-1595-0678", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1170, 
+ "address": "38,SoiNimmanhaemin11Lane,NimmanhaeminRd.,SuthepRd.,MueangChiangMaiDistrict,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.808586935553688", 
+ "name": "Horeca Beer Tasting, JJ Market", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1171, 
+ "address": "ChangPhuak,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99548980503664", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.78455924987793", 
+ "name": "Sabai Dee Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": ""Mon–Sun:8:00PM–1:00AM"", 
+ "shop_id": 1172, 
+ "address": "LoiKrohRd.,เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99565887451172", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.797252", 
+ "name": "ITMON", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1173, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.980897", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.785204208737863", 
+ "name": "Jammer Delight", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1174, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99334270508471", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.800378", 
+ "name": "Amadeus Music", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1175, 
+ "address": "KadSuanKaew,เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.659565", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.803895", 
+ "name": "Beer Garden @The Harbour", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1176, 
+ "address": "HuayKaewRoad,เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.963281", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.785120116111408", 
+ "name": "Ba Ba Bo Bo Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1177, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99342362487792", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.817358097758337", 
+ "name": "Minimart", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1178, 
+ "address": "ChangPhuak,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.97569877819548", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.76148", 
+ "name": "Lattitude Bar", 
+ "phone": "+66-53-053.253666", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1179, 
+ "address": "LeMeridienHotel,108ChangKlanRoad,TambolChangKlan,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.800628617941936", 
+ "name": "Play Girl", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1180, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "99.02298002390764", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.799078", 
+ "name": "Foundation Live House", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1181, 
+ "address": "โครงการฟ้าธานี(สิริมังคลาจารย์),เมือง,เชียงใหม่50200,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.970346", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.792689669323124", 
+ "name": "Mad Garden", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1182, 
+ "address": "ซอยประตูหลังมช.(ตรงข้ามขนมจีนหล่มเก่า),SuThep,เชียงใหม่50200,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.9516258239746", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.788437556160822", 
+ "name": "A.U.A Auditorium CM", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1183, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99131973722244", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.78475", 
+ "name": "EveryTing Cafe", 
+ "phone": "+66 89 494 9403", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1184, 
+ "address": "chiangmai,SuThep,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.970036", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.76148", 
+ "name": "Cafe Del Sol", 
+ "phone": "+66-53-0847404079", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1185, 
+ "address": "68/3-4CharoenprathetRoad|PhraSingh,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Angels Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1186, 
+ "address": "Angelsbarrearoflohkrohboxingcomplex,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Cu Corner Chiang Mai Thailand", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1187, 
+ "address": "ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.797120300632628", 
+ "name": "Barcode Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1188, 
+ "address": "SuThep,เชียงใหม่50200,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.97045652591488", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.76148", 
+ "name": "At Living Room Bar", 
+ "phone": "08-6115-5913", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1189, 
+ "address": "70/20SomphetGoldPlaceBuilding,oppositeSomphetMarket,ChangMoiSubdistrict,MueangChiangMaiDistrict.,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.79355035629443", 
+ "name": "DeGaZe", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1190, 
+ "address": "SuThep,เชียงใหม่50200,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99653640256906", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.811505439695274", 
+ "name": "horn bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1191, 
+ "address": "เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.98354662869572", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.807406", 
+ "name": "Chillin&apos; bar", 
+ "phone": "+66 84 041 1636", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1192, 
+ "address": "NextThaChang,ChangPhuak,เชียงใหม่50300,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.995329", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.808586935553688", 
+ "name": "Horeca Beer Tasting, JJ Market", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1193, 
+ "address": "ChangPhuak,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99548980503664", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.78455924987793", 
+ "name": "Sabai Dee Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": ""Mon–Sun:8:00PM–1:00AM"", 
+ "shop_id": 1194, 
+ "address": "LoiKrohRd.,เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99565887451172", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.797252", 
+ "name": "ITMON", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1195, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.980897", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.785204208737863", 
+ "name": "Jammer Delight", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1196, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99334270508471", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.800378", 
+ "name": "Amadeus Music", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1197, 
+ "address": "KadSuanKaew,เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.659565", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.803895", 
+ "name": "Beer Garden @The Harbour", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1198, 
+ "address": "HuayKaewRoad,เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.963281", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.785120116111408", 
+ "name": "Ba Ba Bo Bo Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1199, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99342362487792", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.76148", 
+ "name": "Lattitude Bar", 
+ "phone": "+66-53-053.253666", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1200, 
+ "address": "LeMeridienHotel,108ChangKlanRoad,TambolChangKlan,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.800628617941936", 
+ "name": "Play Girl", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1201, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "99.02298002390764", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.799078", 
+ "name": "Foundation Live House", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1202, 
+ "address": "โครงการฟ้าธานี(สิริมังคลาจารย์),เมือง,เชียงใหม่50200,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.970346", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.792689669323124", 
+ "name": "Mad Garden", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1203, 
+ "address": "ซอยประตูหลังมช.(ตรงข้ามขนมจีนหล่มเก่า),SuThep,เชียงใหม่50200,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.9516258239746", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.78475", 
+ "name": "EveryTing Cafe", 
+ "phone": "+66 89 494 9403", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1204, 
+ "address": "chiangmai,SuThep,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.970036", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.76148", 
+ "name": "Cafe Del Sol", 
+ "phone": "+66-53-0847404079", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1205, 
+ "address": "68/3-4CharoenprathetRoad|PhraSingh,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Angels Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1206, 
+ "address": "Angelsbarrearoflohkrohboxingcomplex,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.788437556160822", 
+ "name": "A.U.A Auditorium CM", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1207, 
+ "address": "เมืองเชียงใหม่,เชียงใหม่,ประเทศไทย", 
+ "city_name": "清迈", 
+ "lng": "98.99131973722244", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.76148", 
+ "name": "Spa Plus And Pool Bar Restaurant", 
+ "phone": "0-5387-9541-8", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1208, 
+ "address": "197/2,bytheswimmingpool,PanvimanChiangMaiSpaResort,MaeRim-SamoengRoad,PongYangSubdistrict,MaeRimDistrict.,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.76148", 
+ "name": "Monkey pub&restaurant;", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1209, 
+ "address": "ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "jack lives here", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1210, 
+ "address": "HuayKaewRD.街边酒吧", 
+ "city_name": "清迈", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "SURER Rich", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1211, 
+ "address": "泰国清迈ChiangMai，LoiKrohRoad酒吧一条街上", 
+ "city_name": "清迈", 
+ "lng": "0.0", 
+ "category_id": 1
+}

@@ -1,0 +1,4290 @@
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "12.943403", 
+ "name": "Hollywood Pattaya", 
+ "phone": "+66-38-424975", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1000, 
+ "address": "78/107Moo7,PhettrakulRd.,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.891985", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "12.94902", 
+ "name": "Mantra餐厅和酒吧", 
+ "phone": "+66-38-6638429591", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "MantraRestaurant&Bar", 
+ "shop_id": 1001, 
+ "address": "PattayaBeachRoad", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88483", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "12.92448", 
+ "name": "Mixx Discotheque", 
+ "phone": "+66-38-6626560382", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "21:00-2:00", 
+ "shop_id": 1002, 
+ "address": "311Bali-HaiPlaza3rdFloor,Nongprue,Banglamung", 
+ "city_name": "芭堤雅", 
+ "lng": "100.868061", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.92713631", 
+ "name": "Candy Shop", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1003, 
+ "address": "Walkingstreet,NaKluea,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8806629", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.9262937", 
+ "name": "Hot Tuna Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1004, 
+ "address": "WalkingStreet,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8729403", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "12.937347", 
+ "name": "Fire and Stone Pizzeria", 
+ "phone": "+66-38-038362186", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "12：00-23：00", 
+ "shop_id": 1005, 
+ "address": "1/13-14PattayaKlangroad", 
+ "city_name": "芭堤雅", 
+ "lng": "100.884852", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.926149", 
+ "name": "Club Insomnia", 
+ "phone": "+66-38-711322", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1006, 
+ "address": "WalkingStreet,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.872604", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.962370644293552", 
+ "name": "Chill Out@Pullman Aisawan", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1007, 
+ "address": "PullmanAisawanPattaya,บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88569719135788", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "12.9088246", 
+ "name": "L&apos;Arc", 
+ "phone": "+66(0)845644626", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1008, 
+ "address": "JomtienComplex", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8972803", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.94578246483682", 
+ "name": "the roof mixology bar", 
+ "phone": "66 38 930 600", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1009, 
+ "address": "24thFloorSiam@SiamDesignHotel", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8887134625497", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.364722", 
+ "name": "Happy Hardcore Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1010, 
+ "address": "BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.364722", 
+ "name": "Sip Bar", 
+ "phone": "0-3822-6070-9", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1011, 
+ "address": "207/1Moo5,SoiNaKluea12,nexttotheswimmingpool,GardenSeaViewResort,Pattaya-NaKlueaRoad,NongPrueSubdistrict,BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.909814", 
+ "name": "Fraser&apos;s Sports bar and pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1012, 
+ "address": "ThapprayaRoad,JomtienBeach,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.868629", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.907654", 
+ "name": "Bruno&apos;s Restaurant and Wine Bar", 
+ "phone": "+66 38 364 6000", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1013, 
+ "address": "306/63ChateauDalePlaza,ThapprayaRd|Nongprue,Pattaya20150,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.869118", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.945845", 
+ "name": "Asian Gay", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1014, 
+ "address": "Pattaya,Chonburi,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.885322", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "12.943403", 
+ "name": "Hollywood Pattaya", 
+ "phone": "+66-38-424975", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1015, 
+ "address": "78/107Moo7,PhettrakulRd.,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.891985", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "12.94902", 
+ "name": "Mantra餐厅和酒吧", 
+ "phone": "+66-38-6638429591", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "MantraRestaurant&Bar", 
+ "shop_id": 1016, 
+ "address": "PattayaBeachRoad", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88483", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "12.92448", 
+ "name": "Mixx Discotheque", 
+ "phone": "+66-38-6626560382", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "21:00-2:00", 
+ "shop_id": 1017, 
+ "address": "311Bali-HaiPlaza3rdFloor,Nongprue,Banglamung", 
+ "city_name": "芭堤雅", 
+ "lng": "100.868061", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.92713631", 
+ "name": "Candy Shop", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1018, 
+ "address": "Walkingstreet,NaKluea,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8806629", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.9262937", 
+ "name": "Hot Tuna Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1019, 
+ "address": "WalkingStreet,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8729403", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "12.937347", 
+ "name": "Fire and Stone Pizzeria", 
+ "phone": "+66-38-038362186", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "12：00-23：00", 
+ "shop_id": 1020, 
+ "address": "1/13-14PattayaKlangroad", 
+ "city_name": "芭堤雅", 
+ "lng": "100.884852", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.926149", 
+ "name": "Club Insomnia", 
+ "phone": "+66-38-711322", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1021, 
+ "address": "WalkingStreet,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.872604", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.962370644293552", 
+ "name": "Chill Out@Pullman Aisawan", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1022, 
+ "address": "PullmanAisawanPattaya,บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88569719135788", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "12.9088246", 
+ "name": "L&apos;Arc", 
+ "phone": "+66(0)845644626", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1023, 
+ "address": "JomtienComplex", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8972803", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.94578246483682", 
+ "name": "the roof mixology bar", 
+ "phone": "66 38 930 600", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1024, 
+ "address": "24thFloorSiam@SiamDesignHotel", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8887134625497", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.364722", 
+ "name": "Happy Hardcore Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1025, 
+ "address": "BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.364722", 
+ "name": "Sip Bar", 
+ "phone": "0-3822-6070-9", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1026, 
+ "address": "207/1Moo5,SoiNaKluea12,nexttotheswimmingpool,GardenSeaViewResort,Pattaya-NaKlueaRoad,NongPrueSubdistrict,BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.909814", 
+ "name": "Fraser&apos;s Sports bar and pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1027, 
+ "address": "ThapprayaRoad,JomtienBeach,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.868629", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.907654", 
+ "name": "Bruno&apos;s Restaurant and Wine Bar", 
+ "phone": "+66 38 364 6000", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1028, 
+ "address": "306/63ChateauDalePlaza,ThapprayaRd|Nongprue,Pattaya20150,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.869118", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.945845", 
+ "name": "Asian Gay", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1029, 
+ "address": "Pattaya,Chonburi,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.885322", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.364722", 
+ "name": "Kra Prow Dang Pub", 
+ "phone": "+66-38-038374268", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1030, 
+ "address": "488/3Soi7PattayaTaiRoadNongPrueSubdistrictBangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.929142", 
+ "name": "Dicey Reilly&apos;s Pub and Resturant", 
+ "phone": "+66-38-411755", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1031, 
+ "address": "PattayaSaiSong|BetweenRoyalGardenandSoiPostOffice,Pattaya,Thailand(BetweenRoyalGardenandSoiPostOffice)", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8774583", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.93094", 
+ "name": "Hooters", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1032, 
+ "address": "Beachroad,Pattaya13Alley", 
+ "city_name": "芭堤雅", 
+ "lng": "100.879319", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.67978", 
+ "name": "Scaner", 
+ "phone": "+66 82 474 3235", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1033, 
+ "address": "9ไร่สาย3(ปลาฉลามสาลตัน),พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.65127", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.442588", 
+ "name": "Bridgestone Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1034, 
+ "address": "พานทอง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "101.0592", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.843666", 
+ "name": "The View Beach Bar & Restaurant", 
+ "phone": "+66-38-038-255678", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1035, 
+ "address": "23/4Moo2SoiNajomtien14,Sattahip20250,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.903503", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.9523665", 
+ "name": "Grappa Restorante & WIne bar", 
+ "phone": "+66-38-898279563", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "3:00pm-11:00pm", 
+ "shop_id": 1036, 
+ "address": "春武里府芭堤雅地区22巷", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8849126", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.927813774636698", 
+ "name": "Narcissus Massage By Men - Pattayaland Soi 1", 
+ "phone": "+66 38 710 863", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1037, 
+ "address": "BoyzTownPattaya(PattayalandSoi1),พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87689706330134", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.91032", 
+ "name": "Beach Boy", 
+ "phone": "+66 86 894 7576", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1038, 
+ "address": "SoiPattayaPark(Thappraya),Pattaya,Chonburi20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.868048", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.901364", 
+ "name": "east tapas lounge", 
+ "phone": "+66-38-0890050012", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1039, 
+ "address": "413/51-53ThapprayaRd", 
+ "city_name": "芭堤雅", 
+ "lng": "100.86895", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.930056", 
+ "name": "The Golf Club Sports Bar & Grill", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1040, 
+ "address": "33/133SoiL.K.Metro", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8842", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.926234", 
+ "name": "The Pier Disco Club", 
+ "phone": "+66 38 710 580", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "18:00–06:00", 
+ "shop_id": 1041, 
+ "address": "190Moo.10Walkingstreet,Nongpreu", 
+ "city_name": "芭堤雅", 
+ "lng": "100.872352", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.931145", 
+ "name": "The Sportsman Pub", 
+ "phone": "66868343729", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "7：00-14：00", 
+ "shop_id": 1042, 
+ "address": "Soi13|MiddleofSoi13", 
+ "city_name": "芭堤雅", 
+ "lng": "100.879693", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.941955", 
+ "name": "Soi 6 Corner Bar Pattaya", 
+ "phone": "66 86 574 3921", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1043, 
+ "address": "soi6beachroad,beachroad", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88781", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.9276082", 
+ "name": "The Lounge", 
+ "phone": "81 863 0201", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1044, 
+ "address": "PratamnakHillSoi3,NexttoHotRod|SouthPattaya,BangLamung,Pattaya20150,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8770813", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.924198", 
+ "name": "Cucumber Inn Pub and Restaurant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1045, 
+ "address": "春武里府芭堤雅地区南芭堤雅路24巷TukCom对面10区111/80-81号", 
+ "city_name": "芭堤雅", 
+ "lng": "100.877846", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.924839", 
+ "name": "Tawaen Beach Resort", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1046, 
+ "address": "NaBaan,KohLarn,BangLamungDistrict", 
+ "city_name": "芭堤雅", 
+ "lng": "100.778856", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "2.927369", 
+ "name": "Airport Club", 
+ "phone": "+66-38-418 888", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "18:00-6:00", 
+ "shop_id": 1047, 
+ "address": "WalkingStreet,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8723932", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.89742", 
+ "name": "2 for the road", 
+ "phone": "+66-38-835955968", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1048, 
+ "address": "Soi4JomtienBeach,JomtienBeach,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.870026", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.925703849160492", 
+ "name": "Viking Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1049, 
+ "address": "WalkingStreet(Soi16),พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8710528165564", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "Shamrock", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1050, 
+ "address": "Soi13/4ConnectsBeachRoadtoSecondRoad,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.404212", 
+ "name": "The Lion Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1051, 
+ "address": "Soi17|SuksabiVilla,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "101.01712", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.894834", 
+ "name": "Aroi Pub/Resto", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1052, 
+ "address": "SukhumvitSoi89|SoiKlongtomtanman,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.903503", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "Zico&apos;s Brazilian Grill and Bar", 
+ "phone": "038 043 516", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1053, 
+ "address": "BeachRoad|CentralFestivalPattaya,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.9204146", 
+ "name": "Walkabout Creek Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1054, 
+ "address": "CornerofPattayaThaiand3rdRoad,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.869868", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "Carlsberg", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "24H", 
+ "shop_id": 1055, 
+ "address": "JomtienBeachRoad,Pattaya,Chonburi20260(乔木提恩海滩棕榈度假村)", 
+ "city_name": "芭堤雅", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.81317", 
+ "name": "Oscar&apos;s Pub and Restaurant", 
+ "phone": "+66-38-848655426", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1056, 
+ "address": "Soi32NaJontien,Pattaya20250,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.912483", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.9588524", 
+ "name": "Acorn Pub and Resturant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1057, 
+ "address": "TheAvenue2ndRoad,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.9122468", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.909162", 
+ "name": "White Horse Pub and Sports Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1058, 
+ "address": "PartofGrandEasternHotelComplex|SoiKhaoTalo,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.901154", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.9276082", 
+ "name": "See Sea Restaurant & Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1059, 
+ "address": "Moo12,JomtienBeachRoad,Pattaya20150,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8770813", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.937672", 
+ "name": "Mirror Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "周二-周日上午10点00分-下午11点00分", 
+ "shop_id": 1060, 
+ "address": "Soi6,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.950149", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "Minus 5 Ice Bar", 
+ "phone": "+66 (0) 3842 6768", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1061, 
+ "address": "254M.9,SoiPetchtrakool|AmariNovaSuites,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "12.925563260465085", 
+ "name": "I Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1062, 
+ "address": "WalkingStreetพัทยาใต้,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87088190531244", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "12.925838", 
+ "name": "Latitude Bar-Sheraton Pattaya", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1063, 
+ "address": "437PhratamnakRoad,Pattaya,Banglamung,Chonburi,Thailand20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.861124", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "12.881790996371809", 
+ "name": "Sissy pool bar & Restaurant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1064, 
+ "address": "SaritaChalet&SpaHotel,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88170051574708", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "12.908817", 
+ "name": "4 - T Bar", 
+ "phone": "+66 89 755 5512", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1065, 
+ "address": "Soi1jomtienComplex,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.897293", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.281038", 
+ "name": "Sailors Bar and Restaurant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1066, 
+ "address": "Soi8,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.936607", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.945183", 
+ "name": "Tamnan Kon E-san", 
+ "phone": "+66-38-38-362-586", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1067, 
+ "address": "98/89,PhettrakulRd,NongPrue,BangLamung,,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.891747", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.942153023121694", 
+ "name": "sky bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1068, 
+ "address": "skybar(soi6),พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88681105003184", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.95674735396324", 
+ "name": "Page 10 Hotel", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1069, 
+ "address": "soi10,NaKluea,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.89828675833525", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.956328", 
+ "name": "T.J. bar beer", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1070, 
+ "address": "พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.889737", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Malibu Bar Pattaya", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1071, 
+ "address": "CornerofSoiPostOfficeand2ndRoad,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Galaxy Pub", 
+ "phone": "+66-38-038390245", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1072, 
+ "address": "1,theentranceofBangSaenBeach,LoengHaadBangSaenRoad,SaenSukSubdistrict,MueangChonBuriDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.930516", 
+ "name": "Cherry Bar Pattaya", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1073, 
+ "address": "SoiDiana,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.887009", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Honey Bar Beer", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1074, 
+ "address": "BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.108162", 
+ "name": "Living Bar Restaurant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1075, 
+ "address": "Sahaphat(Nongkham),Sriracha,Chonburi,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.961749", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Sarita Chalet and Spa", 
+ "phone": "+66-38-0382339525", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1076, 
+ "address": "279/373(inside)SaritaChaletandSpaHotel,JomtienBeachRoad,NongPrueSubdistrict,BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.967879297710024", 
+ "name": "Mai Conner Food&Drink;", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1077, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.89713416201282", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.882718327486751", 
+ "name": "Beach Bar | The Now Jomtien Hotel", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1078, 
+ "address": "JomtienBeachPattaya,บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8821461645653", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.87719808", 
+ "name": "Tequila Sunrise Bar", 
+ "phone": "+66-38-756115", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1079, 
+ "address": "芭提雅131/97Chaiyaphruek,Jomtien ", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8856001", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.94237841244436", 
+ "name": "Chili Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1080, 
+ "address": "Pattayasoi6,NaKluea,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8863147747558", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Differ Pub On The Beach", 
+ "phone": "0-3836-2467", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1081, 
+ "address": "463/98Moo9,PattayaNuea,LiapChaihadRoad,NongPrueSubdistrict,BangLaMungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Bamboo Beer Bar 1", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1082, 
+ "address": "NaklueaRoad|BetweenSoi31and29/1,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "BUB Pub Pattaya", 
+ "phone": "0-3848-8884", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1083, 
+ "address": "225/34Moo9,BetweenSoi5And6,LiapChaihadRoad,NongPrueSubdistrict,BangLaMungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Regge Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1084, 
+ "address": "SiRachaDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Wu Du A Go Go Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1085, 
+ "address": "BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Up To You Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1086, 
+ "address": "BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Basaya", 
+ "phone": "0-3842-0016", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1087, 
+ "address": "137Moo9,Soi7,PattayaSai1Road(BeachRoad),BangLamungSubdistrict,BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.922879162722314", 
+ "name": "All Of Me", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1088, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87526504882145", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.044168", 
+ "name": "Ron&apos;s G.T. (Good Time) Bar - Pattaya", 
+ "phone": "+66 84 930 8117", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1089, 
+ "address": "546/53PattayasaisongMoo10|NongprueSubdistrict,BangLamung20150,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.938316", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.90943", 
+ "name": "Gerry&apos;s Bar", 
+ "phone": "66876137597", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1090, 
+ "address": "PraTamNak4,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.910812", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Silver Star A Go Go", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1091, 
+ "address": "BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.923351464326228", 
+ "name": "Crazy Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1092, 
+ "address": "PattayaSai2Soi17(PattayaTail),NaKluea,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87538634623164", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.923351", 
+ "name": "Mix Bistro", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1093, 
+ "address": "78/140PattayaSai2Road|PattayaSai2Soi4,Nongprie,Banglamung,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.872765", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.75805", 
+ "name": "The Hideaway", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1094, 
+ "address": "สัตหีบ,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.898321", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.070897952679518", 
+ "name": "Cafe&apos; De Beach, Pattaya", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1095, 
+ "address": "JomtienBeachPattaya(JomtienBeachRoad),พัทยา,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.99432088036322", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.931937", 
+ "name": "Black Hoie", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1096, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.89150925076872", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.926294", 
+ "name": "Disco Mixx", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1097, 
+ "address": "WalkingStreet,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87294", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.932704742090118", 
+ "name": "Nuch love bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1098, 
+ "address": "madeinthailand,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8850465274686", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.926275", 
+ "name": "Club/Discotheque Endorphin Pattaya", 
+ "phone": "+66-38-972105280", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1099, 
+ "address": "Walkingstreet,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.872948", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.929483", 
+ "name": "Bodega Bar", 
+ "phone": "(038)423713", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1100, 
+ "address": "183/79-81,Moo10,SoiPostOffice,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.880096", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.839734", 
+ "name": "C&apos;est Si Bon", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1101, 
+ "address": "พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.91224", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.936949145872408", 
+ "name": "Anakonda Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1102, 
+ "address": "Soi7,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8848535347972", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.937014", 
+ "name": "Monkey House Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1103, 
+ "address": "Soi7(SecondRoad),Pattaya,Chonburi,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.883476", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.938965652389626", 
+ "name": "Cocktail Car", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1104, 
+ "address": "BeachFront@MontienHotelPattaya(PattayaBeachRoad),พัทยา,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8838444652002", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.93676830683411", 
+ "name": "Love joys bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1105, 
+ "address": "soi8,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8829567133612", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.936219324298149", 
+ "name": "The Beach Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1106, 
+ "address": "PattayaBeachRoad,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88270307149936", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.936251", 
+ "name": "Red Cat Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1107, 
+ "address": "Beachrd(Soi8),พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88266", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.94241862071718", 
+ "name": "Jack Tar Beer Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1108, 
+ "address": "Soi6(BeachRoad),Pattaya,Chonburi20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88565409183502", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.950732987766456", 
+ "name": "Mr. Cocktail Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1109, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8878366937984", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.94553395272326", 
+ "name": "Yuth Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1110, 
+ "address": "Pattayasaisong,NaKluea,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8890057205938", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.947686978807203", 
+ "name": "Splash", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1111, 
+ "address": "463/68PattayaSai1Rd(atHolidayInn,4thFl),บางละมุง,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88526709100069", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.946064566931511", 
+ "name": "The farang connection", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1112, 
+ "address": "drinkingstreet,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88880169129872", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Madam T Pattaya", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1113, 
+ "address": "325/177,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Fairway Pub And Restaurant", 
+ "phone": "+66-38-38383908", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1114, 
+ "address": "160BangSaenBeachSaenSukSubdistrictMueangChonburiDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "XXO Beach Club", 
+ "phone": "0-3875-7307", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1115, 
+ "address": "131/7LiapHadJomthianRoad,NongPrueSubdistrict,BangLaMungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Relax Pub & Restaurant", 
+ "phone": "+66-38-038191778", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1116, 
+ "address": "1/1BangSaenSai1,SaenSukSubdistrict,MuanChonBuriDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "See Sun Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1117, 
+ "address": "MueangChonBuriDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Bua Khao Bar Beer", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1118, 
+ "address": "BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "The Manchester Bar", 
+ "phone": "+(66)809999999", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1119, 
+ "address": "ActionStreet|SoiBuakhao,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Sandy Brown Pub & Restaurant", 
+ "phone": "+66-38-0813778279", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1120, 
+ "address": "LiapHadBangSaenTai,LongHadBangSaenRoad,SansukSubdistrict,MueangChonBuriDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Candy Shop Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1121, 
+ "address": "BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "X Zyte Pub", 
+ "phone": "0-3842-9337", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1122, 
+ "address": "1/73PattayaSai3Road,NongPrueSubdistrict,BangLaMungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.919073890318035", 
+ "name": "Paradise Bar", 
+ "phone": "+66 89 525 1210", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1123, 
+ "address": "SoiKhaoNoisoi8(soiwatboonsampan),บางละมุง,ชลบุรี20260,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.91217041015624", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "O Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1124, 
+ "address": "BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.044168", 
+ "name": "Jomtien Country Club", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1125, 
+ "address": "Moo12,BeachRoad,Jomtien,BangLamung20150,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.938316", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.274712", 
+ "name": "FreeTime Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1126, 
+ "address": "WonnaphaBeach,แสนสุข,ชลบุรี20130,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.920943", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.923508", 
+ "name": "Tee Off Bar & Restaraunt", 
+ "phone": "+66-38-871432101", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1127, 
+ "address": "99/378Moo5ChokchaiVillage7,SoiKhaoNoi.,Banglamung", 
+ "city_name": "芭堤雅", 
+ "lng": "100.90466", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.167753266578057", 
+ "name": "Haa-Lem", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1128, 
+ "address": "SirachaNakorn2,ศรีราชา,ชลบุรี20110,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.92741511679668", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.36168", 
+ "name": "Bangkok sky restaurant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1129, 
+ "address": "Baiyokeskytower,พระนคร,กรุงเทพมหานคร,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990967", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.307563", 
+ "name": "Chariot Pub & Restaurant", 
+ "phone": "081 356 9192", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1130, 
+ "address": "5RopKhaoSammukRoad|SaensukSubdistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.903122", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.922645278700998", 
+ "name": "La Botte", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1131, 
+ "address": "20/68-69soiDaynightbehindTukcom(m.10NongprueBanglamungChonburi),พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87793914124856", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.920006124925251", 
+ "name": "Cheers Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1132, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.95843407785964", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.92668665599636", 
+ "name": "Buffalo Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1133, 
+ "address": "NaKluea,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88601350784302", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.918685", 
+ "name": "Poolside bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1134, 
+ "address": "NaKluea,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.894795", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.921174", 
+ "name": "Kaffa Pub & Restaurant", 
+ "phone": "+66-38-38756678", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1135, 
+ "address": "Moo12,JomtienBeach|Nongprue,Banglamung,Pattaya20260,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.876488", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.926002", 
+ "name": "The Escobar Pattaya", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1136, 
+ "address": "111/291SoiBukhow,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.881592", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.926540258845288", 
+ "name": "Halo Club", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1137, 
+ "address": "WalkingStreet(Walkin&apos;Street),Pattaya,Chonburi,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87303161621094", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.9006", 
+ "name": "Ace Cafe", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1138, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.870155", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.924762204408855", 
+ "name": "Diff Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1139, 
+ "address": "HiltonHotelPattaya-Pattayaroad(16Fl),NaKluea,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8728281063583", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.89025203377738", 
+ "name": "Market Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1140, 
+ "address": "Watboonkanchanaramrd.425/410,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88659286499023", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.924427947538392", 
+ "name": "Cat&apos;s Corner", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1141, 
+ "address": "Soi15WalkingStreet(Soi14WalkingStreet),Pattaya,Chonburi,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87285995483398", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.925764083862305", 
+ "name": "Bank and Nueang", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1142, 
+ "address": "WalkingStreet,Pattaya,Chonburi,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87226104736328", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.930071063966428", 
+ "name": "Silk Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1143, 
+ "address": "SawasdeeSiam,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88569719135788", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.929192", 
+ "name": "Relax Corner Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1144, 
+ "address": "66/33Moo9,SoiBuakhao,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.885056", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.92364342153286", 
+ "name": "Old fashion", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1145, 
+ "address": "เกาะล้าน(เกาะล้าน),NaKluea,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.78780591301428", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.930758815974915", 
+ "name": "Pj&apos;s bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1146, 
+ "address": "Saisong(Soidiana),พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88171608025218", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.926283836364746", 
+ "name": "Street Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": ""Mon–Sun:2:00PM–4:00AM"", 
+ "shop_id": 1147, 
+ "address": "pattayawalkingstreet,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87263488769533", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.928380471006948", 
+ "name": "Sportscene", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1148, 
+ "address": "พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88664011047808", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.925595807831073", 
+ "name": "Tiger Tiger Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1149, 
+ "address": "SoiB.j.,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87283913310662", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.926294", 
+ "name": "Abbe&apos;s Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1150, 
+ "address": "WalkingStreet,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87294", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.955932526158811", 
+ "name": "beer shop", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1151, 
+ "address": "MuangPattaya2School,NaKluea,BangLamung,ChonBuri20150,บางละมุง,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.89369300041224", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.94215616155376", 
+ "name": "PING!!!!PUB", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1152, 
+ "address": "พัทยาสาย3,เมืองชลบุรี,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.89472974756048", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.93263", 
+ "name": "New Yuth Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1153, 
+ "address": "SecondRoad,|Soi2,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.882858", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.937980090052896", 
+ "name": "Dolphin Beer Garden", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1154, 
+ "address": "PattayaKlang(BeachRoad),พัทยา,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88348054108477", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.941052576506053", 
+ "name": "Tropical Bar Beer", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1155, 
+ "address": "Soi2(SecondRd),พัทยา,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88768229510576", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.936287", 
+ "name": "B.52 Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1156, 
+ "address": "พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.883473", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.94173226437648", 
+ "name": "3 Angels Bar & Guesthouse", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1157, 
+ "address": "Soi6,Pattaya,Chonburi,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88767126663728", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.941074985515066", 
+ "name": "Greg&apos;s Kitchen", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1158, 
+ "address": "PattayaSecondRoad(Soi4),NaKluea,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88781595230104", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.94517520269796", 
+ "name": "Noi One Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1159, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8888678629141", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.945301055908203", 
+ "name": "cherry beer bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1160, 
+ "address": "RegentSoi2,NaKluea,BangLamung,ChonBuri20150,บางละมุง,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8887710571289", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Ozone Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1161, 
+ "address": "MueangChonBuriDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.2842023185998", 
+ "name": "SeaSkyBar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1162, 
+ "address": "ดาดฟ้าคอนโดนอร์ทปาร์ค(ลงหาดบางแสน),แสนสุข,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.9203045729247", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.93475541233954", 
+ "name": "Memory Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1163, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88801314975368", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.9281133413315", 
+ "name": "Maggie May", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1164, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.886802077293", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.943511", 
+ "name": "Seven Stones Wine Bar & Restaurant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1165, 
+ "address": "PattayaSai2,Pattaya,Chonburi,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.90133", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.928358", 
+ "name": "David", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1166, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.876499", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Rolling Stone Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1167, 
+ "address": "BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.284781", 
+ "name": "UTU : UTUNIYOM BS", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1168, 
+ "address": "เมืองชลบุรี,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.918207", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.284881337799892", 
+ "name": "D+one", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1169, 
+ "address": "แสนสุข,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.91871042738036", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.93293130252844", 
+ "name": "five star bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "11:00-00:30周一至周日", 
+ "shop_id": 1170, 
+ "address": "NaKlueaBeachRoad", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8802140411788", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.926197793745828", 
+ "name": "Shakerz Pattaya", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1171, 
+ "address": "WalkingStreet(walkingstreet),พัทยา,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.872503221035", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.928893059803546", 
+ "name": "Open Roof Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1172, 
+ "address": "PattayaLand1,NaKluea,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8767518401146", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.933599223010246", 
+ "name": "Monkey Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1173, 
+ "address": "Soisiamcountryclub,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.90684067162036", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.37215130607534", 
+ "name": "Manny Chill Bar!!", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1174, 
+ "address": "เมืองชลบุรี,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.98634978452472", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Tu Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1175, 
+ "address": "BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "JRBar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1176, 
+ "address": "BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.91388034014662", 
+ "name": "Lanna Blue Restaurant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1177, 
+ "address": "ThapprayaRd.(Soi13),พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87063932213891", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Yoeraman Phattha Ya Beer Hall Country Place", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1178, 
+ "address": "BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.673716", 
+ "name": "BRAVO ZULU", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1179, 
+ "address": "สัตหีบ,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.896316", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.89970482790076", 
+ "name": "Thai Fin", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1180, 
+ "address": "JomtienPlaza,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.86890266522695", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "New Peacocks", 
+ "phone": "+66 82 709 2961", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1181, 
+ "address": "SoiChaiyapoon,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Easy Corner Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1182, 
+ "address": "BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Leelavadee Bar", 
+ "phone": "0-3825-3888", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1183, 
+ "address": "179/201Moo5,MezzanineFloor,FairtexSportsClub&Hotel,PattayaNueaRoad,NaKlueaSubdistrict,BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.220712", 
+ "name": "Crystal Beach Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1184, 
+ "address": "ชายทะเลบางพระ,ศรีราชา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.936284", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.93439", 
+ "name": "Serbian Beer Bar Pattaya", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1185, 
+ "address": "SoiMadeinThailand,Pattaya20150,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.897903", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.922772739044092", 
+ "name": "Pee Tuu Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1186, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.871339507075", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.938716", 
+ "name": "Top10 (siam Country Club)", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1187, 
+ "address": "Nongprue(Pornprapanimit),บางละมุง,ชลบุรี20260,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.925203", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.279839232337435", 
+ "name": "Bang-Saen Soft Rock", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1188, 
+ "address": "Bang-Saen,เมืองชลบุรี,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.93127676635903", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.926525", 
+ "name": "Lee&apos;s Bar Pattaya", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1189, 
+ "address": "NaKluea,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.872896", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Minus 5 Ice Bar & Lounge", 
+ "phone": "+66-38-038489488", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1190, 
+ "address": "254SoiPattaya121stFloor,AmariNovaSuitHotel,PhettrakunRoad,NongPrueSubdistrict,BangLaMungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.27561253640954", 
+ "name": "Mouth 2 Mouth..!!! Bangsaen!!!!", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1191, 
+ "address": "บางแสน(เลียบบางแสน),เมืองชลบุรี,ชลบุรี20000,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.93022858892022", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "New Blue Hawaii", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1192, 
+ "address": "BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.963124", 
+ "name": "Northern Paradise", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1193, 
+ "address": "555/24-25Moo,5,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.905037", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Chonburi Flying Club", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1194, 
+ "address": "SiRachaDistrict(ChonBuri-District.),Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Blue Sky Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1195, 
+ "address": "BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.936306", 
+ "name": "Olala", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1196, 
+ "address": "Soi7,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.884983", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.113628", 
+ "name": "395 Room Service", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1197, 
+ "address": "ศรีราชา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.920033", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.929423986251756", 
+ "name": "Underground Bistro", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1198, 
+ "address": "พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87707901259652", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.935952", 
+ "name": "Best bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1199, 
+ "address": "Soi8,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.883999", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.924497", 
+ "name": "Zee Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1200, 
+ "address": "NaKluea,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.883629", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.275349154344598", 
+ "name": "Chaiyoclub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1201, 
+ "address": "เมืองชลบุรี,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.9229413149257", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Na&apos;s Place", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1202, 
+ "address": "125/16BangSaray,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.930264726877285", 
+ "name": "Nuit Beer Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1203, 
+ "address": "SoiDianaInn,บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87428364819212", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.935951329589168", 
+ "name": "Rolling Live 1", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1204, 
+ "address": "Soi7,บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88587403297424", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.9444056821797", 
+ "name": "Classroom Beer Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1205, 
+ "address": "NaKluea,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88885132000594", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.93439", 
+ "name": "C47 Cafe", 
+ "phone": "+66-38-38411314", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1206, 
+ "address": "225/123-124Soi1,PattayaTai|DuckSquare,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.897903", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.92983", 
+ "name": "3som Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1207, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.884235", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.897719448743016", 
+ "name": "Space Wine Bar & Grill @ Jomtien", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1208, 
+ "address": "Jomtien(Beach),บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87138361338536", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Y-O’Clock Pub&Restaurant;", 
+ "phone": "+66-38-0804460007", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1209, 
+ "address": "40/25Moo3,PhrayaSutjaRoad,SamedSubdistrict,MueangChonBuriDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Alize Bar", 
+ "phone": "0-3825-9333", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1210, 
+ "address": "220/21SoiPattaya-NaKluea16,Pattaya-NaKlueaRoad,NaKlueaSubdistrict,BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Noir Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1211, 
+ "address": "BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Suan Num Pool Bar", 
+ "phone": "0-3842-7120-2", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1212, 
+ "address": "217/27Moo9,SoiLiebChaiHaad8,theswimmingpoolofSunbeamPattayaHotel,LieabChaiHaadRoad,NongPrueSubdistrict,BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.93033416059148", 
+ "name": "Wanky Tanky", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1213, 
+ "address": "Soi13/1,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87942233007504", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Bub Pub", 
+ "phone": "0-3848-8884", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1214, 
+ "address": "254/133-4,insidePatthayaDragon,PatthayaSai2Rd.,NongprueSub-District,BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.908315302867647", 
+ "name": "Z Bar@The Zigh Hotel", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1215, 
+ "address": "TheZighHotel,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.89712313245026", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.285774", 
+ "name": "King Of One Stroke", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1216, 
+ "address": "Bangsaen(Marbmayom),เมืองชลบุรี,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.930722", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Suan Num Pool Bar", 
+ "phone": "0-3842-7120-2", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1217, 
+ "address": "217/27Moo9,SoiLiebChaiHaad8,theswimmingpoolofSunbeamPattayaHotel,LieabChaiHaadRoad,NongPrueSubdistrict,BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.93033416059148", 
+ "name": "Wanky Tanky", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1218, 
+ "address": "Soi13/1,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87942233007504", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Bub Pub", 
+ "phone": "0-3848-8884", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1219, 
+ "address": "254/133-4,insidePatthayaDragon,PatthayaSai2Rd.,NongprueSub-District,BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Pho Thaleluang Seafood", 
+ "phone": "+66-38-038398299", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1220, 
+ "address": "73/1NearAngsila,BangSaen-AngsilaRoad,SaenSukSubdistrict,MueangChonburiDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.928222", 
+ "name": "Sugar Shack Bar", 
+ "phone": "+66-38-425 454", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "08:00–02:00", 
+ "shop_id": 1221, 
+ "address": "13/3PattayalandSoi1，BeachRoad，Pattaya,BangLamungDistrict，ChonBuri20260泰国", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8741903", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.68414", 
+ "name": "The Sun Kafa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1222, 
+ "address": "Sattahip,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.904663", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Ablaze Pub", 
+ "phone": "0-3832-7018-9", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1223, 
+ "address": "1/1SiRachaNakhonRoad,SiRachaSubdistrict,SiRachaDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Ocean 10", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1224, 
+ "address": "BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.044168", 
+ "name": "Voodoo Restaurant & Pub", 
+ "phone": "80 633 9729", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "星期六:上午10点00分-下午10点00分,星期五:上午10点00分-下午10点00分,星期三:上午10点00分-下午10点00分,星期日:上午10点00分-下午10点00分,星期四:上午10点00分-下午10点00分,星期二:上午10点00分-下午10点00分", 
+ "shop_id": 1225, 
+ "address": "131/50Moo12,SoiChaiyapreuk1,BangLamung20150,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.938316", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.933797", 
+ "name": "Italliano", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1226, 
+ "address": "พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.881186", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Hole In One Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1227, 
+ "address": "BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "T Six 5 Pool Bar", 
+ "phone": "0-3822-5800", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1228, 
+ "address": "555/85SoiNaklua12Pattaya-NakluaRoadNakluaSubdistrictBangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Soul Pub & Restaurant", 
+ "phone": "08-9484-3841", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1229, 
+ "address": "NexttoSandyBrown,BangSaenSai1Road,SansukSubdistrict,MueangChonBuriDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.926275", 
+ "name": "Lucifer Disco", 
+ "phone": "+66-38-811756031", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1230, 
+ "address": "WalkingStreet.,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.872948", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.284807666947318", 
+ "name": "Map Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1231, 
+ "address": "แสนสุข,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.91842359432718", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.706534", 
+ "name": "Smile Hut Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1232, 
+ "address": "สุขุมวิท,สัตหีบ,ชลบุรี20180,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8897212", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Kum Punn Pub & Restaurant", 
+ "phone": "+66-38-0383618402", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1233, 
+ "address": "380/5Moo9,SoiPatthaya2Lane,besideSabaiInnHotel,BeachsideRd.,NongprueSub-District,BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Sor Por Chor Pub & Restaurant", 
+ "phone": "+66-38-0804119222", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1234, 
+ "address": "225/34PattayaDragonProject,PattayaSai(Route)2Road,NongPrueSubdistrict,BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Orange Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1235, 
+ "address": "BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "The Bed Pattaya", 
+ "phone": "0-3842-6768", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1236, 
+ "address": "254AmariNovaSuites,PhetchTrakulRoad,NongPrueSubdistrict,BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Bouquet Parlour Lobby Bar", 
+ "phone": "0-3842-7120-2", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1237, 
+ "address": "217/27Moo9,SoiLiebChaiHaad8,LobbyLevel,SunbeamPattayaHotel,LiebChaiHaadRoad(BeachRoad),NongPrueSubdistrict,BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Burdock Pub", 
+ "phone": "0-3874-8937", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1238, 
+ "address": "HadBangSaenRoad,SansukSubdistrict,MueangChonBuriDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Dring Street Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1239, 
+ "address": "BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.305736", 
+ "name": "Asashi Beer @ Relax", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1240, 
+ "address": "เมืองชลบุรี,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.902873", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Fashion Club", 
+ "phone": "+66-38-038489439", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1241, 
+ "address": "225/58-59Moo9,PattayaDragon,PattayaSai2,PattayaSai2Road,NongPrueSubdistrict,BangLaMungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Rainbow Pub", 
+ "phone": "0-3842-2660-3", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1242, 
+ "address": "389Moo9,SandalayResortPattaya,LiebChaiHaadRoad,NongPrueSubdistrict,BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "The Rising Sun Bar & Food", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1243, 
+ "address": "Pattaya7,SoibetweenSoi7&CentralPattayaRd,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.936429039655655", 
+ "name": "Foxy Lady Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1244, 
+ "address": "Soi7,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88458334571452", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.928358", 
+ "name": "David", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1245, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.876499", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Rolling Stone Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1246, 
+ "address": "BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.284781", 
+ "name": "UTU : UTUNIYOM BS", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1247, 
+ "address": "เมืองชลบุรี,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.918207", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.284881337799892", 
+ "name": "D+one", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1248, 
+ "address": "แสนสุข,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.91871042738036", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.93293130252844", 
+ "name": "five star bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "11:00-00:30周一至周日", 
+ "shop_id": 1249, 
+ "address": "NaKlueaBeachRoad", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8802140411788", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.926197793745828", 
+ "name": "Shakerz Pattaya", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1250, 
+ "address": "WalkingStreet(walkingstreet),พัทยา,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.872503221035", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Xylem Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1251, 
+ "address": "MueangChonBuriDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.900472309717976", 
+ "name": "Robinhood Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1252, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8692720467388", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Irish Pub Bolly Bar Lone Pattaya", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1253, 
+ "address": "BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Sea Horse Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1254, 
+ "address": "MueangChonburiDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Satang Pub", 
+ "phone": "+66-38-0817808434", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1255, 
+ "address": "1/3Moo10,SukhumvitRoad,ThungSukhaSubdistrict,SrirachaDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Easyrider Bar Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1256, 
+ "address": "MueangChonBuriDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "I Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1257, 
+ "address": "BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Narcissus Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1258, 
+ "address": "BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Enter By Sonic Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1259, 
+ "address": "MueangChonburiDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Bub Pub", 
+ "phone": "0-3848-8884", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1260, 
+ "address": "254/133-4,insidePatthayaDragon,PatthayaSai2Rd.,NongprueSub-District,BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.908315302867647", 
+ "name": "Z Bar@The Zigh Hotel", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1261, 
+ "address": "TheZighHotel,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.89712313245026", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.283161", 
+ "name": "Fixedsk 8 cafe&apos;", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1262, 
+ "address": "เมืองชลบุรี,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.918199", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Best Friend Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1263, 
+ "address": "BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.93038932", 
+ "name": "Dick Inn Beer Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1264, 
+ "address": "SouthPattaya,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88268791", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.285774", 
+ "name": "King Of One Stroke", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1265, 
+ "address": "Bangsaen(Marbmayom),เมืองชลบุรี,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.930722", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Pho Thaleluang Seafood", 
+ "phone": "+66-38-038398299", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1266, 
+ "address": "73/1NearAngsila,BangSaen-AngsilaRoad,SaenSukSubdistrict,MueangChonburiDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.928222", 
+ "name": "Sugar Shack Bar", 
+ "phone": "+66-38-425 454", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "08:00–02:00", 
+ "shop_id": 1267, 
+ "address": "13/3PattayalandSoi1，BeachRoad，Pattaya,BangLamungDistrict，ChonBuri20260泰国", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8741903", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.68414", 
+ "name": "The Sun Kafa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1268, 
+ "address": "Sattahip,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.904663", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Ablaze Pub", 
+ "phone": "0-3832-7018-9", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1269, 
+ "address": "1/1SiRachaNakhonRoad,SiRachaSubdistrict,SiRachaDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Ocean 10", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1270, 
+ "address": "BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.933797", 
+ "name": "Italliano", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1271, 
+ "address": "พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.881186", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.044168", 
+ "name": "Voodoo Restaurant & Pub", 
+ "phone": "80 633 9729", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "星期六:上午10点00分-下午10点00分,星期五:上午10点00分-下午10点00分,星期三:上午10点00分-下午10点00分,星期日:上午10点00分-下午10点00分,星期四:上午10点00分-下午10点00分,星期二:上午10点00分-下午10点00分", 
+ "shop_id": 1272, 
+ "address": "131/50Moo12,SoiChaiyapreuk1,BangLamung20150,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.938316", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Easy Corner Pub & Restaurant", 
+ "phone": "+66-38-38416675", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1273, 
+ "address": "97/19Moo6,PhetchTrakulRoad,NaKlueaSubdistrict,BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Holland House Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1274, 
+ "address": "BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Orange Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1275, 
+ "address": "BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "The Bed Pattaya", 
+ "phone": "0-3842-6768", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1276, 
+ "address": "254AmariNovaSuites,PhetchTrakulRoad,NongPrueSubdistrict,BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Bouquet Parlour Lobby Bar", 
+ "phone": "0-3842-7120-2", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1277, 
+ "address": "217/27Moo9,SoiLiebChaiHaad8,LobbyLevel,SunbeamPattayaHotel,LiebChaiHaadRoad(BeachRoad),NongPrueSubdistrict,BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Burdock Pub", 
+ "phone": "0-3874-8937", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1278, 
+ "address": "HadBangSaenRoad,SansukSubdistrict,MueangChonBuriDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "The Rising Sun Bar & Food", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1279, 
+ "address": "Pattaya7,SoibetweenSoi7&CentralPattayaRd,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.936429039655655", 
+ "name": "Foxy Lady Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1280, 
+ "address": "Soi7,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88458334571452", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Dring Street Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1281, 
+ "address": "BangLamungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.305736", 
+ "name": "Asashi Beer @ Relax", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1282, 
+ "address": "เมืองชลบุรี,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.902873", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Fashion Club", 
+ "phone": "+66-38-038489439", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1283, 
+ "address": "225/58-59Moo9,PattayaDragon,PattayaSai2,PattayaSai2Road,NongPrueSubdistrict,BangLaMungDistrict,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.364722", 
+ "name": "Rainbow Pub", 
+ "phone": "0-3842-2660-3", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1284, 
+ "address": "389Moo9,SandalayResortPattaya,LiebChaiHaadRoad,NongPrueSubdistrict,BangLamungDistrict.,Chonburi,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.990356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Rollin Live 3", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1285, 
+ "address": "Soi8,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "0.0", 
+ "category_id": 1
+}

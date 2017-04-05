@@ -1,0 +1,2310 @@
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "7.88981", 
+ "name": "Let’s Relax", 
+ "phone": "+66-76-346080", 
+ "city_id": "2", 
+ "avgprice": 188, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1000, 
+ "address": "209/22-24Raj-U-ThidRoad,PatongBeach,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.296018", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "7.89236", 
+ "name": "Let&apos;s Relax按摩店(芭东3街分店)", 
+ "phone": "+66-76-76-366-724", 
+ "city_id": "2", 
+ "avgprice": 205, 
+ "office_hours": "Let'sRelaxSpa(Patong3rdStreet)", 
+ "shop_id": 1001, 
+ "address": "84/14PangmuangSaiKorRd.，Pathong，Krathu，Phuket，Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.30165", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "7.90099", 
+ "name": "东方普吉按摩", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": 97, 
+ "office_hours": "Orientalaspa", 
+ "shop_id": 1002, 
+ "address": "49/145Raj-U-Thid200PeeRd.,PatongBeach,Phuket83150Thailand.", 
+ "city_name": "普吉岛", 
+ "lng": "98.3005", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.88348", 
+ "name": "Kim&apos;s MASSAGE&SPA;", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": 112, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1003, 
+ "address": "PhuketOldTown", 
+ "city_name": "普吉岛", 
+ "lng": "98.39185", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.891115", 
+ "name": "Montra Traditional Thai Massage", 
+ "phone": "+66-76-366164", 
+ "city_id": "2", 
+ "avgprice": 137, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1004, 
+ "address": "JungceylonShoppingCentre(Basement)", 
+ "city_name": "普吉岛", 
+ "lng": "98.299824", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.819847", 
+ "name": "绿洲水疗馆(卡塔店)", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": 461, 
+ "office_hours": "OasisSkyBreezeSpa", 
+ "shop_id": 1005, 
+ "address": "26SoiPlukjaeKaron,Muang,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.313873", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.999907", 
+ "name": "绿洲水疗馆(邦涛店)", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "OasisSecretGardenSpa", 
+ "shop_id": 1006, 
+ "address": "47Moo1SrisoonthornRd.Cherngtalay,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.30323", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.951223", 
+ "name": "The Oasis SPA", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "绿洲水疗中心", 
+ "shop_id": 1007, 
+ "address": "128Moo3,Kamala,Kathuภูเก็ต83150泰国‎", 
+ "city_name": "普吉岛", 
+ "lng": "98.283237", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.86354", 
+ "name": "SUKKO SPA", 
+ "phone": "+66-76-76-263-222", 
+ "city_id": "2", 
+ "avgprice": 461, 
+ "office_hours": "周一至周日9:00-22:00。", 
+ "shop_id": 1008, 
+ "address": "5ThanonChaoFa,TalatNuea,Muang,Phuket83000", 
+ "city_name": "普吉岛", 
+ "lng": "98.346046", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.863552", 
+ "name": "Cenvaree Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": 419, 
+ "office_hours": "周一至周日10:00-20:00。", 
+ "shop_id": 1009, 
+ "address": "701patakRoad,KaronBeach,Muang,Phuket83100,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.286751", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.90105", 
+ "name": "Oriental de Phuket", 
+ "phone": "+66-76-76290387-8", 
+ "city_id": "2", 
+ "avgprice": 100, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1010, 
+ "address": "普吉岛芭东卡图地区Raj-U-Thid.200Pee路49/145号", 
+ "city_name": "普吉岛", 
+ "lng": "98.300555", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.881523", 
+ "name": "So Thai Spa", 
+ "phone": "+66-76-5688876", 
+ "city_id": "2", 
+ "avgprice": 128, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1011, 
+ "address": "34/50-57PrachanukhroRoad,CitinPlazaHotel,Patong,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.292605", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.815545641870287", 
+ "name": "Big Smile Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1012, 
+ "address": "KataBeach", 
+ "city_name": "普吉岛", 
+ "lng": "98.30162390306106", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.853578903", 
+ "name": "Hotel Novotel Phuket Karon Beach Resort And Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1013, 
+ "address": "568PatakRoadKaron,MuangPhuket,MueangPhuketDistrict,Phuket83100", 
+ "city_name": "普吉岛", 
+ "lng": "98.29382489", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.812832", 
+ "name": "Fine Massage", 
+ "phone": "+66-76-897287649", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1014, 
+ "address": "TropicalGardenResort,KataBeach", 
+ "city_name": "普吉岛", 
+ "lng": "98.299248", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "7.88981", 
+ "name": "Let’s Relax", 
+ "phone": "+66-76-346080", 
+ "city_id": "2", 
+ "avgprice": 188, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1015, 
+ "address": "209/22-24Raj-U-ThidRoad,PatongBeach,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.296018", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "7.89236", 
+ "name": "Let&apos;s Relax按摩店(芭东3街分店)", 
+ "phone": "+66-76-76-366-724", 
+ "city_id": "2", 
+ "avgprice": 205, 
+ "office_hours": "Let'sRelaxSpa(Patong3rdStreet)", 
+ "shop_id": 1016, 
+ "address": "84/14PangmuangSaiKorRd.，Pathong，Krathu，Phuket，Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.30165", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "7.90099", 
+ "name": "东方普吉按摩", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": 97, 
+ "office_hours": "Orientalaspa", 
+ "shop_id": 1017, 
+ "address": "49/145Raj-U-Thid200PeeRd.,PatongBeach,Phuket83150Thailand.", 
+ "city_name": "普吉岛", 
+ "lng": "98.3005", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.88348", 
+ "name": "Kim&apos;s MASSAGE&SPA;", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": 112, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1018, 
+ "address": "PhuketOldTown", 
+ "city_name": "普吉岛", 
+ "lng": "98.39185", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.891115", 
+ "name": "Montra Traditional Thai Massage", 
+ "phone": "+66-76-366164", 
+ "city_id": "2", 
+ "avgprice": 137, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1019, 
+ "address": "JungceylonShoppingCentre(Basement)", 
+ "city_name": "普吉岛", 
+ "lng": "98.299824", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.819847", 
+ "name": "绿洲水疗馆(卡塔店)", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": 461, 
+ "office_hours": "OasisSkyBreezeSpa", 
+ "shop_id": 1020, 
+ "address": "26SoiPlukjaeKaron,Muang,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.313873", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.999907", 
+ "name": "绿洲水疗馆(邦涛店)", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "OasisSecretGardenSpa", 
+ "shop_id": 1021, 
+ "address": "47Moo1SrisoonthornRd.Cherngtalay,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.30323", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.951223", 
+ "name": "The Oasis SPA", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "绿洲水疗中心", 
+ "shop_id": 1022, 
+ "address": "128Moo3,Kamala,Kathuภูเก็ต83150泰国‎", 
+ "city_name": "普吉岛", 
+ "lng": "98.283237", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.86354", 
+ "name": "SUKKO SPA", 
+ "phone": "+66-76-76-263-222", 
+ "city_id": "2", 
+ "avgprice": 461, 
+ "office_hours": "周一至周日9:00-22:00。", 
+ "shop_id": 1023, 
+ "address": "5ThanonChaoFa,TalatNuea,Muang,Phuket83000", 
+ "city_name": "普吉岛", 
+ "lng": "98.346046", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.863552", 
+ "name": "Cenvaree Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": 419, 
+ "office_hours": "周一至周日10:00-20:00。", 
+ "shop_id": 1024, 
+ "address": "701patakRoad,KaronBeach,Muang,Phuket83100,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.286751", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.90105", 
+ "name": "Oriental de Phuket", 
+ "phone": "+66-76-76290387-8", 
+ "city_id": "2", 
+ "avgprice": 100, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1025, 
+ "address": "普吉岛芭东卡图地区Raj-U-Thid.200Pee路49/145号", 
+ "city_name": "普吉岛", 
+ "lng": "98.300555", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.881523", 
+ "name": "So Thai Spa", 
+ "phone": "+66-76-5688876", 
+ "city_id": "2", 
+ "avgprice": 128, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1026, 
+ "address": "34/50-57PrachanukhroRoad,CitinPlazaHotel,Patong,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.292605", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.815545641870287", 
+ "name": "Big Smile Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1027, 
+ "address": "KataBeach", 
+ "city_name": "普吉岛", 
+ "lng": "98.30162390306106", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.853578903", 
+ "name": "Hotel Novotel Phuket Karon Beach Resort And Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1028, 
+ "address": "568PatakRoadKaron,MuangPhuket,MueangPhuketDistrict,Phuket83100", 
+ "city_name": "普吉岛", 
+ "lng": "98.29382489", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.812832", 
+ "name": "Fine Massage", 
+ "phone": "+66-76-897287649", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1029, 
+ "address": "TropicalGardenResort,KataBeach", 
+ "city_name": "普吉岛", 
+ "lng": "98.299248", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.891819", 
+ "name": "Pimnara jungceylon 江西冷", 
+ "phone": "+66-76-0869422226", 
+ "city_id": "2", 
+ "avgprice": 215, 
+ "office_hours": "10:00-23:00", 
+ "shop_id": 1030, 
+ "address": "195RatUthit200yearsRd", 
+ "city_name": "普吉岛", 
+ "lng": "98.29878", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.888132857", 
+ "name": "NUMBER ONE RELAXATION MASSAGE", 
+ "phone": "+66-76-76342515", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "每天10:00-23:00", 
+ "shop_id": 1031, 
+ "address": "227/9RAT-U-THIT200PEERD,PATONGBEACH", 
+ "city_name": "普吉岛", 
+ "lng": "98.29584288", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.834462", 
+ "name": "Phuket Orchid Resort & Spa", 
+ "phone": "+66-76-076-396520", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1032, 
+ "address": "34,LuangporchuanRd,TambonKaron,,MuangDistrict", 
+ "city_name": "普吉岛", 
+ "lng": "98.297", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.891115", 
+ "name": "Christine Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1033, 
+ "address": "ThanonRatuthitSongroipi,PaTong,Kathu,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.299824", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "8.011658", 
+ "name": "Banyan Tree Spa", 
+ "phone": "+66-76-76-324374", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:00-22:00", 
+ "shop_id": 1034, 
+ "address": "33/27หมู่4ถ.ศรีสุนทร.เชิงทะเลอ.ถลางจ.ภูเก็ต83110;33/27Moo4,SrisoonthornRd.,CherngTalay,Thalang,Phuket83110", 
+ "city_name": "普吉岛", 
+ "lng": "98.295296", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.82944", 
+ "name": "Sontaya Spa", 
+ "phone": "+66-76-076-333608", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1035, 
+ "address": "3Soi2,KaronStrand,KaronBeach", 
+ "city_name": "普吉岛", 
+ "lng": "98.294724", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.889659", 
+ "name": "Banthai Beach Resort & Spa", 
+ "phone": "+66-76-076-340850", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1036, 
+ "address": "135/23Rat-U-Thit200YearsRoad,PatongBeach", 
+ "city_name": "普吉岛", 
+ "lng": "98.296363", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.848276455545217", 
+ "name": "@Relax", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1037, 
+ "address": "MueangPhuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.2957862573074", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.83431314065507", 
+ "name": "relax massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "09:00-23:00周一至周日", 
+ "shop_id": 1038, 
+ "address": "ThanonLuangPhorChuan", 
+ "city_name": "普吉岛", 
+ "lng": "98.29763160108767", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "8.147834", 
+ "name": "Wanandara Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1039, 
+ "address": "MaiKhao,ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.299257", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.98431", 
+ "name": "Oasis Spa Kata", 
+ "phone": "+66-76-76 337 777", 
+ "city_id": "2", 
+ "avgprice": 451, 
+ "office_hours": "OpenDaily10.00am-10.00pm", 
+ "shop_id": 1040, 
+ "address": "普吉岛普吉镇卡隆地区Plukjae巷26号", 
+ "city_name": "普吉岛", 
+ "lng": "98.330746", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.88596", 
+ "name": "兰花泰式按摩", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "每天12:00-24:00", 
+ "shop_id": 1041, 
+ "address": "Phangmueang", 
+ "city_name": "普吉岛", 
+ "lng": "98.29718", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.88864", 
+ "name": "Phannara Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1042, 
+ "address": "75/,Wichit,ภูเก็ต83000,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.36568", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.952987", 
+ "name": "绿洲水疗馆(马拉店)", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "OasisRoyalThaiSpa", 
+ "shop_id": 1043, 
+ "address": "128Moo3RimhadRd.Kamala,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.283165", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.891167", 
+ "name": "泰国普吉岛Sukko素可spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1044, 
+ "address": "5/10Moo3,ChaofaRd.,AmphurMuang,Phuket83000,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.385304", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.844049", 
+ "name": "Body & Mind Day Spa", 
+ "phone": "+66-76-076-398274", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1045, 
+ "address": "558/7-12,PatakRoad,Karon,Muang,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.294312", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.98431", 
+ "name": "Kim&apos;s MASSAGE&SPA;", 
+ "phone": "81 979 0020", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "选择日期选择时间", 
+ "shop_id": 1046, 
+ "address": "普吉岛普吉镇Taladyai地区Thavornvongvhong路13号", 
+ "city_name": "普吉岛", 
+ "lng": "98.330746", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.990965895", 
+ "name": "Angsana Spa Outrigger Laguna Phuket Beach Resort", 
+ "phone": "+66-76-76 325 405", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "每天10:00-22:00", 
+ "shop_id": 1047, 
+ "address": "普吉岛Srisoonthorn路普吉岛OutriggerLaguna度假村。2区323/2号", 
+ "city_name": "普吉岛", 
+ "lng": "98.30352982", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.9058734836853874", 
+ "name": "Amora Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1048, 
+ "address": "PrabamareeRoad,ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29872640596848", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.888041853593045", 
+ "name": "Let&apos;s Lelax Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1049, 
+ "address": "RachUThai200Years,หาดป่าตอง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.2996886618007", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.81622955228009", 
+ "name": "Baan Thai Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1050, 
+ "address": "Capepanwa", 
+ "city_name": "普吉岛", 
+ "lng": "98.3002980969627", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.893182", 
+ "name": "Escentika Spa at Millennium Resort Patong Phuket", 
+ "phone": "+66 76 601 944", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1051, 
+ "address": "199199Rat-Uthit200PeeRoad,Patong,ตำบลกะทู้,ภูเก็ต83150,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.295005", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.8923508449487905", 
+ "name": "萨拉娜SPA", 
+ "phone": "8 1 683 1741", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1052, 
+ "address": "普吉岛卡图地区芭东地区Rat-U-Thit200Pee路181号江西冷购物中心2楼", 
+ "city_name": "普吉岛", 
+ "lng": "98.29795486606496", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.939413", 
+ "name": "COCO Life TROPICAL SPA", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:00-22:00周一至周日", 
+ "shop_id": 1053, 
+ "address": "10/15Moo6T.Kamala,AKathu,Phuket83150", 
+ "city_name": "普吉岛", 
+ "lng": "98.280386", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.891507", 
+ "name": "Vayo按摩和美容沙龙", 
+ "phone": "+66-76-857944959", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "VayoMassageandBeautySalon", 
+ "shop_id": 1054, 
+ "address": "104/12SoiPostOffice,PatongBeach,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.294594", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.891012928", 
+ "name": "Nium Massage & Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1055, 
+ "address": "181Rat-U-Thit200PeeRd,Patong,Phuket83130Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.29977408", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.891486668091358", 
+ "name": "Paris Thai spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1056, 
+ "address": "JungceylonPatong", 
+ "city_name": "普吉岛", 
+ "lng": "98.29919149472585", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.848652", 
+ "name": "Tarn Tara Spa and Health Cuisine", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1057, 
+ "address": "ถนนเมืองทอง-เขาขาดตำบลวิชิตจังหวัดภูเก็ตไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.33798", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.900158", 
+ "name": "KOPUNA", 
+ "phone": "+66 81 894 1968", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1058, 
+ "address": "5/9.Aroonsom(200PeeRd.),หาดป่าตอง,ภูเก็ต83150,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.299661", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.886141", 
+ "name": "古式按摩店", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1059, 
+ "address": "Rat-U-ThitSongroiPeeRoad,Patong,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.293549", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "8.035548", 
+ "name": "Anantara Phuket Layan Resort & Spa", 
+ "phone": "66 (0) 7631 7200", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1060, 
+ "address": "168Moo6,LayanBeachSoi4,Cherngtalay,Thalang,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.284289", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.844890118", 
+ "name": "鱼SPA", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1061, 
+ "address": "卡伦", 
+ "city_name": "普吉岛", 
+ "lng": "98.3030014", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "8.108455767952817", 
+ "name": "Foot Massage & Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1062, 
+ "address": "HKTAirport,ถลาง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.30556403948428", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.60757", 
+ "name": "拉查酒店spa中心", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1063, 
+ "address": "普吉岛市区拉崴地区5区42/12-13号", 
+ "city_name": "普吉岛", 
+ "lng": "98.368965", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.898011425294584", 
+ "name": "season massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:00-22:00周一至周日", 
+ "shop_id": 1064, 
+ "address": "ThanonRatuthitSongroipiRoad", 
+ "city_name": "普吉岛", 
+ "lng": "98.29992345299152", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.88129", 
+ "name": "Sweet Lemongrass Massage", 
+ "phone": "+66-76-5379099", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:00-22:00。", 
+ "shop_id": 1065, 
+ "address": "162/5NanaiSoi8,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.298195", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.805223", 
+ "name": "Jasmina Spa", 
+ "phone": "+66-76-076-294470", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "周一~周日9:30-00:00", 
+ "shop_id": 1066, 
+ "address": "Address:2,Meun-NgernRd.,Kathu,Kathu", 
+ "city_name": "普吉岛", 
+ "lng": "98.304933", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.890566", 
+ "name": "livia massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1067, 
+ "address": "Patong,ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.296938", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.857047172138554", 
+ "name": "Mantra Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1068, 
+ "address": "PacificClubResort,ตำบลกะรน,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29560985210136", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "8.00043258917014", 
+ "name": "Chaba Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1069, 
+ "address": "NearLaguna,ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.2969462656495", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "0.002728458322254793", 
+ "name": "绿洲水疗馆(kamala海滩店)", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:00-22:00周一至周日", 
+ "shop_id": 1070, 
+ "address": "71/10Moo5（SoiFantasea）,KamalaBeach,Kathu,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "0.015498497079753525", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.808716", 
+ "name": "Cool Spa Phuket", 
+ "phone": "+66-76371000", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1071, 
+ "address": "88Moo8,SakdidejRoad,TumbonVichitMuangPhuket,Phuket,CapePanwa,Phuket83000,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.403603", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.894653222722786", 
+ "name": "Big and Bouncy Massage Parlour", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1072, 
+ "address": "PaTong,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.30043174569518", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.893948", 
+ "name": "Spacare (Thailand) Co.,Ltd", 
+ "phone": "+66-76-076-342351", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1073, 
+ "address": "52THAWEEWONGRoad,PatongBeachPhuket83150Phuket,83150", 
+ "city_name": "普吉岛", 
+ "lng": "98.295363", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.816192", 
+ "name": "The Essence Massage & Spa", 
+ "phone": "+66 86 947 3773", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1074, 
+ "address": "1KhoktanodSoi3TambonKaron,AmphoeMueangPhuketChangWat", 
+ "city_name": "普吉岛", 
+ "lng": "98.303265", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.861849", 
+ "name": "海岛草药古法按摩馆", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "IslandHerbSpa", 
+ "shop_id": 1075, 
+ "address": "1/1moo3tambolvichit,muang,phuket83000", 
+ "city_name": "普吉岛", 
+ "lng": "98.343956", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.864001389", 
+ "name": "Island herb&SPA;", 
+ "phone": "076281437转9", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1076, 
+ "address": "普吉岛市区tambolvichit地区3区1/1号", 
+ "city_name": "普吉岛", 
+ "lng": "98.36955672", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.899027", 
+ "name": "皇家水疗中心", 
+ "phone": "+66-76-236663", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "TheRoyalSpa", 
+ "shop_id": 1077, 
+ "address": "HongYokUthitRd.MueangPhuket,AmphoeMueangPhuketPhuket83000", 
+ "city_name": "普吉岛", 
+ "lng": "98.38162", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.884147", 
+ "name": "The Belle Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1078, 
+ "address": "Patong,KathuDistrictPhuket83150", 
+ "city_name": "普吉岛", 
+ "lng": "98.302035", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.886142", 
+ "name": "Thai Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1079, 
+ "address": "Centralpattanaphuket,Wichit,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.388147", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.953622", 
+ "name": "绿洲绿松石海湾水疗按摩馆", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1080, 
+ "address": "71/10Moo5SoiFantaSeaKamala10,KamalaBeach,KathuDistrictPhuket83120泰国", 
+ "city_name": "普吉岛", 
+ "lng": "98.289121", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.843495518650937", 
+ "name": "Spa Phuket", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1081, 
+ "address": "MueangPhuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.3020034728872", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.886056", 
+ "name": "Sukko Cultural Spa & Wellness", 
+ "phone": "+66-76-263222", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1082, 
+ "address": "5/10Moo3,ChaofaWestRoad,TumbonVichit,AmphurMuang,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.385534", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.866783", 
+ "name": "素可水疗", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "Sukko", 
+ "shop_id": 1083, 
+ "address": "5/10Moo.3Tumbon,VichitAmphur,MuangPhuket83000,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.34539", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.896131", 
+ "name": "柚木宫按摩馆", 
+ "phone": "+66-76-249676", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "CheraimSpaVillage", 
+ "shop_id": 1084, 
+ "address": "16WichitsongkramRoad,Wichit,Muang,Phuket83000,Thailand.", 
+ "city_name": "普吉岛", 
+ "lng": "98.368138", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "Refresh Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "每天09:00-24:00", 
+ "shop_id": 1085, 
+ "address": "Amaya酒店旁边(位于芭东海滩前面的路，经过酒吧街路口一直往前走，店在右手边)", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.879867", 
+ "name": "The Raintree Spa", 
+ "phone": "+66-76-076-232054", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1086, 
+ "address": "1MontreeRd.,T.Talad-Yai,A.Muang,83000", 
+ "city_name": "普吉岛", 
+ "lng": "98.404048", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.885767", 
+ "name": "泰有运正宗泰式按摩", 
+ "phone": "+66 910149598", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:00-00:00周一至周日", 
+ "shop_id": 1087, 
+ "address": "162/89-90PhungmeungSaiGorA.KathuT.PatongPhuketThailand83150", 
+ "city_name": "普吉岛", 
+ "lng": "98.297751", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "Deep Relax", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:00-22:00周一至周日", 
+ "shop_id": 1088, 
+ "address": "14Bandon-CherntalayRoad,Cherntalay,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "deep relax", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:00-22:00周一至周日", 
+ "shop_id": 1089, 
+ "address": "ChoengThaleThalangDistrictPhuket", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.9519331", 
+ "name": "绿色花园按摩馆", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "GreenGradenMessage", 
+ "shop_id": 1090, 
+ "address": "普吉岛", 
+ "city_name": "普吉岛", 
+ "lng": "98.3380884", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "Diamond Beach Resort &Spa;", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1091, 
+ "address": "KhaoLak,53/10Moo5Khukkhak.,Takuapa,", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.891879", 
+ "name": "906 Lanna Spa @ Central Festival Phuket", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1092, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.367167", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.806003", 
+ "name": "Baan Thai Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1093, 
+ "address": "SoiAonui,ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.407121", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "HI_SO massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "09:00-23:00周一至周日", 
+ "shop_id": 1094, 
+ "address": "假日酒店对面，letsrelax隔壁", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.899048", 
+ "name": "皇家SPA俱乐部", 
+ "phone": "+66-76-236663", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1095, 
+ "address": "普吉岛市区耀华力路367/63-64号", 
+ "city_name": "普吉岛", 
+ "lng": "98.381619", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.88964", 
+ "name": "通博按摩", 
+ "phone": "+66-76-9406612", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "每天10:00-24:00", 
+ "shop_id": 1096, 
+ "address": "普吉岛芭东地区RatUThit200Pee路209/16号", 
+ "city_name": "普吉岛", 
+ "lng": "98.29584", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.98431", 
+ "name": "Cheraim Spa Village", 
+ "phone": "+66-76-76249670", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1097, 
+ "address": "16WichitsongkramRoad,Wichit,Muang,Phuket(近CentralFestival)", 
+ "city_name": "普吉岛", 
+ "lng": "98.330746", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.92595", 
+ "name": "At Relex", 
+ "phone": "+66-76-866892542", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "每天10:00-24:00", 
+ "shop_id": 1098, 
+ "address": "KathuDistrictKathuRuralPhuket3030号", 
+ "city_name": "普吉岛", 
+ "lng": "98.34034", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "0.0", 
+ "name": "Sira grande spa & resort hotel", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "每天08:00-24:00", 
+ "shop_id": 1099, 
+ "address": "123PhangMuangSaiKorRd.,巴东海滩,普吉岛,泰国83150", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.879876", 
+ "name": "Coco Spa", 
+ "phone": "+66 91 229 6655", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1100, 
+ "address": "100(ChoaFah),ภูเก็ต,ภูเก็ต8300,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.355643", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "8.158157", 
+ "name": "SALA Phuket Resort and Spa", 
+ "phone": "66 (0) 7633 8888", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1101, 
+ "address": "333Moo3,Maikhao,Thalang,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.297084", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.821641", 
+ "name": "巴莱水疗", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "周一至周日10:00-22:00。", 
+ "shop_id": 1102, 
+ "address": "38KatekwanRd.,T.Karon,A.Muang,Phuket83100", 
+ "city_name": "普吉岛", 
+ "lng": "98.301498", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.894031", 
+ "name": "SalaSpa Massage", 
+ "phone": "+66-76-076-293014", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1103, 
+ "address": "Banglaroad(fewstepstothebeach),BetweenStarbucksandMcDonald,PaTong", 
+ "city_name": "普吉岛", 
+ "lng": "98.295589", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.846023168554834", 
+ "name": "Healthy Massage 4", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1104, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29472248683572", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "8.086462", 
+ "name": "Coqoon", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1105, 
+ "address": "NaiYangBeach,ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.296817", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.894", 
+ "name": "Morradok Spa", 
+ "phone": "+66-76-076-344940", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1106, 
+ "address": "64/39ThaveewongRoad,SoiKepsup,PatongBeach", 
+ "city_name": "普吉岛", 
+ "lng": "98.2967", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.817340942732037", 
+ "name": "Lang Chang Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1107, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.3015009442388", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.824787703677701", 
+ "name": "Kata Day Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1108, 
+ "address": "ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.2975342952545", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.823509", 
+ "name": "Dive space", 
+ "phone": "+66-76-805213343", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1109, 
+ "address": "98/35,KataBeachCenter", 
+ "city_name": "普吉岛", 
+ "lng": "98.30123", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.856540460339364", 
+ "name": "Siam Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1110, 
+ "address": "ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29577556607082", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.865628774547637", 
+ "name": "Massage House", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1111, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.28323580917122", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.905797882254326", 
+ "name": "Sow Thai Massage Pathong Beach", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1112, 
+ "address": "Prabharamee,ตำบลกะทู้,ภูเก็ต83150,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29864621854696", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.899716040230193", 
+ "name": "Viking Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1113, 
+ "address": "หาดป่าตอง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.30082200137451", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.864413", 
+ "name": "sukko精油按摩", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1114, 
+ "address": "5/10Moo3,TumbonVichit,AmphurMuang,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.345456", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.813769", 
+ "name": "Yinbee", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1115, 
+ "address": "ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.299132", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.874998165274926", 
+ "name": "SK Thai Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1116, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.38732760441346", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.893309", 
+ "name": "RarinJinda Wellness Spa Resort", 
+ "phone": "+66-76-366724", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1117, 
+ "address": "184/14PangmuangSaiKorRd.Pathong,Krathu,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.299204", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.829832553863525", 
+ "name": "Best Massage&Salon;", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1118, 
+ "address": "214/7(oppLaeLaySuites)ใกล้ปั๊มปตท.(PatukRoad.),ภูเก็ต,ภูเก็ต83100,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.3011474609375", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.890769", 
+ "name": "Takashi Facial Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1119, 
+ "address": "ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.299377", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.97827", 
+ "name": "Spatique @ Double Tree By Hilton", 
+ "phone": "+66 86 780 7803", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1120, 
+ "address": "SurinBeach(Phuket),ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.281498", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.89504434542136", 
+ "name": "Precious Massage & Nails Studio", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1121, 
+ "address": "ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.2960214649028", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "8.031434776214246", 
+ "name": "Evason Hideaway & Six Senses Spa at Yao Noi Phuket", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1122, 
+ "address": "55Moo5TambolKohYaoNoiAmphurKohYaoPhang-N,ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.3333540957552", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.879027079244981", 
+ "name": "THE SKY MASSAGE", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1123, 
+ "address": "TalatYai,ภูเก็ต83000,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.39036236735458", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.881443", 
+ "name": "Le Jardin Bungalows", 
+ "phone": "+66 76 340 391", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1124, 
+ "address": "168NanaiRoad,หาดป่าตอง,ภูเก็ต82150,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.296914", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.825905949885034", 
+ "name": "Lilada traditional thai massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1125, 
+ "address": "ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.33967447280884", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.903878", 
+ "name": "Montra Thai Massage and Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1126, 
+ "address": "B1，JungceylonShoppingComplex，Patong，Phuket，Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.303368", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.901513", 
+ "name": "Emotion Day Spa", 
+ "phone": "+66-76-15990502", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1127, 
+ "address": "RathUthit200yearsRd.PatongKathuPhuketThailand83150", 
+ "city_name": "普吉岛", 
+ "lng": "98.300593", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.895253", 
+ "name": "Mint Massage(Mint1)", 
+ "phone": "+66 87 177 5313", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1128, 
+ "address": "170Rat-U-Thit200PeeRoad,หาดป่าตอง,ภูเก็ต83150,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29884", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.851925", 
+ "name": "Profection Spa @ Nabon Chalong", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1129, 
+ "address": "บ้านฉลอง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.354865", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.926109", 
+ "name": "THE NAPA SPA", 
+ "phone": "+66 76 337 999", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1130, 
+ "address": "1/18,Moo6(Kamala,Kathu),ภูเก็ต,ภูเก็ต83150,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.268694", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.985431", 
+ "name": "Cheng Talay Spa 1", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1131, 
+ "address": "ถลาง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.302676", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.893523", 
+ "name": "The Life Thai Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1132, 
+ "address": "ThanonRatuthitSongroipiRoadPatong,KathuDistrictPhuket83150", 
+ "city_name": "普吉岛", 
+ "lng": "98.298595", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.794201", 
+ "name": "The Mangosteen Resort and Ayurveda Spa", 
+ "phone": "66 (0) 7628 9399", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1133, 
+ "address": "99/4Moo7,Rawai,Muang,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.329262", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.894071260138346", 
+ "name": "Leelawadee Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1134, 
+ "address": "ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29640635167112", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.807328035134632", 
+ "name": "Cape Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1135, 
+ "address": "ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.40890546697077", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.978357089537036", 
+ "name": "Lemongrass House", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1136, 
+ "address": "SurinBeach,ถลาง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.28020007519169", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.891761", 
+ "name": "Shiseido Face Massage Room", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1137, 
+ "address": "CentralPhuket,Wichit,ภูเก็ต83000,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.367152", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.925", 
+ "name": "Banana Herbal Sauna & Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1138, 
+ "address": "ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.3798", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.950347672573896", 
+ "name": "The Local Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1139, 
+ "address": "KamalaBeach(Beachroad),ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.28079866075656", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.984586", 
+ "name": "Cannaceae Spa", 
+ "phone": "+66-76-076-524608", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1140, 
+ "address": "51/17SoiThep-Anusorn,Chao-faRd.,Whichit,Muang83000", 
+ "city_name": "普吉岛", 
+ "lng": "98.330791", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.890248", 
+ "name": "Cheraim Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1141, 
+ "address": "ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.366199", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.809961459262687", 
+ "name": "Talay Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1142, 
+ "address": "RadissonBluPlazaResortPhuketPanwaBeach,เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.40285597089016", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.806708796721736", 
+ "name": "Massage Parlor", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1143, 
+ "address": "ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.3326909060442", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.896752526590141", 
+ "name": "Mahogany Nuad Thai & Medical Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1144, 
+ "address": "ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.38331890920765", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.950187524933259", 
+ "name": "Tang massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1145, 
+ "address": "Beachroad,Kamalabeach,ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.28459872324594", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.95080690335849", 
+ "name": "Dalar massage at Print resort Kamala beach", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1146, 
+ "address": "Kamalabeach(Beachroad),ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.28253565523876", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.901507", 
+ "name": "Reflexology", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1147, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.379709", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "butterfly  massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "09:00-21:00周一至周日", 
+ "shop_id": 1148, 
+ "address": "pp岛", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.800868486510635", 
+ "name": "Senses By Serenity", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1149, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.337253129203", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "cocolife", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1150, 
+ "address": "4233กมลา普吉府83150泰国", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "纤西子足道spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "每天14:00-24:00", 
+ "shop_id": 1151, 
+ "address": "中雅大厦", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "建军盲人按摩", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1152, 
+ "address": "山西省临汾市尧都区鼓楼南大街傻二电脑城斜对面钟楼巷内", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.834024", 
+ "name": "在一起餐厅", 
+ "phone": "+66-76-852925652", 
+ "city_id": "2", 
+ "avgprice": 151, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1153, 
+ "address": "普吉岛普吉府卡隆海滩卡隆海滩泰式按摩", 
+ "city_name": "普吉岛", 
+ "lng": "98.29854", 
+ "category_id": 1
+}

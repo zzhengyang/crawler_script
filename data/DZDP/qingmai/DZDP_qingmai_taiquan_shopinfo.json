@@ -1,0 +1,60 @@
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.002728458322254793", 
+ "name": "泰拳", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "19:00-23:30周一至周日", 
+ "shop_id": 1000, 
+ "address": "177ChangPuakrd.,T.SriphumA.Muang,Chiangmai50200,THAILAND", 
+ "city_name": "清迈", 
+ "lng": "0.015498497079753525", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.787766", 
+ "name": "清迈塔佩泰拳表演", 
+ "phone": "+66-53-1648784", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "ThaiBoxingThaphaeShow", 
+ "shop_id": 1001, 
+ "address": "ThaPhaeGate,SriPoomRd,MueangChiangMaiDistrict", 
+ "city_name": "清迈", 
+ "lng": "98.993262", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.002728458322254793", 
+ "name": "泰拳", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "19:00-23:30周一至周日", 
+ "shop_id": 1002, 
+ "address": "177ChangPuakrd.,T.SriphumA.Muang,Chiangmai50200,THAILAND", 
+ "city_name": "清迈", 
+ "lng": "0.015498497079753525", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "18.787766", 
+ "name": "清迈塔佩泰拳表演", 
+ "phone": "+66-53-1648784", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "ThaiBoxingThaphaeShow", 
+ "shop_id": 1003, 
+ "address": "ThaPhaeGate,SriPoomRd,MueangChiangMaiDistrict", 
+ "city_name": "清迈", 
+ "lng": "98.993262", 
+ "category_id": 1
+}

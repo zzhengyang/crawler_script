@@ -1,6 +1,6 @@
 #encoding=utf8
 import urllib2
-import BeautifulSoup
+from bs4 import BeautifulSoup
 
 User_Agent = 'Mozilla/5.0 (Windows NT 6.3; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0'
 header = {}
@@ -10,9 +10,9 @@ url = 'http://www.xicidaili.com/nn/1'
 req = urllib2.Request(url,headers=header)
 res = urllib2.urlopen(req).read()
 
-soup = BeautifulSoup.BeautifulSoup(res)
+soup = BeautifulSoup(res,'html.parser')
 ips = soup.findAll('tr')
-f = open("e:/ips.txt","w")
+f = open("ips.txt","w")
 
 for x in range(1,len(ips)):
     ip = ips[x]

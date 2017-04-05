@@ -1,0 +1,1980 @@
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "13.742863", 
+ "name": "Up & Above Restaurant and Bar", 
+ "phone": "+66-2-2 687 9000", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "14:00-17:00", 
+ "shop_id": 1000, 
+ "address": "曼谷帕度万地区仑披尼地区无线路园区创业投资曼谷大仓新颐饭店57号", 
+ "city_name": "曼谷", 
+ "lng": "100.547798", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "13.733658", 
+ "name": "Bellino Wine Room", 
+ "phone": "+66-2-27125446", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1001, 
+ "address": "MPlacmall,Thonglorsoi13,Bangkok10110,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.581223", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.736217", 
+ "name": "The Offshore Fish & Chips", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1002, 
+ "address": "Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.562622", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.755389", 
+ "name": "Cinema Winehouse", 
+ "phone": "+(66)964656526", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1003, 
+ "address": "59/61Samsen|Samphraya,Bangkok10200,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.557083", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.762833", 
+ "name": "Wunderbar", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1004, 
+ "address": "Samensoi2,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.499756", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.727551", 
+ "name": "Maison Blanche", 
+ "phone": "02 634 7939", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "11am-11pm", 
+ "shop_id": 1005, 
+ "address": "曼谷挽叻是隆地区那拉提瓦路2巷38号", 
+ "city_name": "曼谷", 
+ "lng": "100.527206", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.745119", 
+ "name": "Ad Lib, Restaurant", 
+ "phone": "+66-2-22057600", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1006, 
+ "address": "曼谷瓦塔纳区素坤逸1巷230/5号", 
+ "city_name": "曼谷", 
+ "lng": "100.552247", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.861947", 
+ "name": "Lobster & Oyster", 
+ "phone": "+66 85 364 6419", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1007, 
+ "address": "126/88WatcharaphonRoad|ThaRaeng,BangKhen,,Bangkok10220,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.645821", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.741008", 
+ "name": "Beergarden", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1008, 
+ "address": "SukhumvitRoad,Soi7,Bangkok10200,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.55558", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "Parking Toys Pub & Restaurant", 
+ "phone": "02-907-2228", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1009, 
+ "address": "17/22SoiMaiLarp,Kaset-NawaminRoad|JorakayBuaSubdistrict,LatPhraoDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "SALADee", 
+ "phone": "02-635-0350", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1010, 
+ "address": "491/14-15SilomPlazaGF|SilomRoad,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.733147", 
+ "name": "Brew Beers & Ciders", 
+ "phone": "+66 2 185 2366", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1011, 
+ "address": "SoiThonglor13,Sukhumvit55(Thonglor)Road,Bangkok10110,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.581711", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.90755", 
+ "name": "Elephant Bar & Restaurant", 
+ "phone": "02-629-3573", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1012, 
+ "address": "曼谷帕纳肯地区Taladyod地区考山路当登酒店2楼", 
+ "city_name": "曼谷", 
+ "lng": "100.615623", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "13.743611", 
+ "name": "Yaki Ten Japanese Style Bar & Restaurant", 
+ "phone": "+66-2-026522527", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1013, 
+ "address": "95/3LangsuanRoad,Lumphini,PathumWan|LangsuanColonnade,Bangkok10330,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.543762", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "13.742863", 
+ "name": "Up & Above Restaurant and Bar", 
+ "phone": "+66-2-2 687 9000", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "14:00-17:00", 
+ "shop_id": 1014, 
+ "address": "曼谷帕度万地区仑披尼地区无线路园区创业投资曼谷大仓新颐饭店57号", 
+ "city_name": "曼谷", 
+ "lng": "100.547798", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "13.733658", 
+ "name": "Bellino Wine Room", 
+ "phone": "+66-2-27125446", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1015, 
+ "address": "MPlacmall,Thonglorsoi13,Bangkok10110,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.581223", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.736217", 
+ "name": "The Offshore Fish & Chips", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1016, 
+ "address": "Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.562622", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.755389", 
+ "name": "Cinema Winehouse", 
+ "phone": "+(66)964656526", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1017, 
+ "address": "59/61Samsen|Samphraya,Bangkok10200,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.557083", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.762833", 
+ "name": "Wunderbar", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1018, 
+ "address": "Samensoi2,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.499756", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.727551", 
+ "name": "Maison Blanche", 
+ "phone": "02 634 7939", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "11am-11pm", 
+ "shop_id": 1019, 
+ "address": "曼谷挽叻是隆地区那拉提瓦路2巷38号", 
+ "city_name": "曼谷", 
+ "lng": "100.527206", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.745119", 
+ "name": "Ad Lib, Restaurant", 
+ "phone": "+66-2-22057600", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1020, 
+ "address": "曼谷瓦塔纳区素坤逸1巷230/5号", 
+ "city_name": "曼谷", 
+ "lng": "100.552247", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.861947", 
+ "name": "Lobster & Oyster", 
+ "phone": "+66 85 364 6419", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1021, 
+ "address": "126/88WatcharaphonRoad|ThaRaeng,BangKhen,,Bangkok10220,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.645821", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.741008", 
+ "name": "Beergarden", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1022, 
+ "address": "SukhumvitRoad,Soi7,Bangkok10200,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.55558", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "Parking Toys Pub & Restaurant", 
+ "phone": "02-907-2228", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1023, 
+ "address": "17/22SoiMaiLarp,Kaset-NawaminRoad|JorakayBuaSubdistrict,LatPhraoDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "SALADee", 
+ "phone": "02-635-0350", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1024, 
+ "address": "491/14-15SilomPlazaGF|SilomRoad,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.733147", 
+ "name": "Brew Beers & Ciders", 
+ "phone": "+66 2 185 2366", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1025, 
+ "address": "SoiThonglor13,Sukhumvit55(Thonglor)Road,Bangkok10110,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.581711", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.90755", 
+ "name": "Elephant Bar & Restaurant", 
+ "phone": "02-629-3573", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1026, 
+ "address": "曼谷帕纳肯地区Taladyod地区考山路当登酒店2楼", 
+ "city_name": "曼谷", 
+ "lng": "100.615623", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "13.743611", 
+ "name": "Yaki Ten Japanese Style Bar & Restaurant", 
+ "phone": "+66-2-026522527", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1027, 
+ "address": "95/3LangsuanRoad,Lumphini,PathumWan|LangsuanColonnade,Bangkok10330,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.543762", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.728875", 
+ "name": "吻酒吧", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1028, 
+ "address": "Patpong1,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.531746", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.745279", 
+ "name": "曼谷Q酒吧", 
+ "phone": "66 82 308 3246", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1029, 
+ "address": "34SukhumvitSoi11|Klongtoey,Bangkok10110,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.556274", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.728588", 
+ "name": "塔帕斯酒吧", 
+ "phone": "+66-2-2344737", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "TapasRoom", 
+ "shop_id": 1030, 
+ "address": "114/17Soi4,ThSilom", 
+ "city_name": "曼谷", 
+ "lng": "100.53299", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.7335", 
+ "name": "Twist Eat&Drink;", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1031, 
+ "address": "251/1SeenSpaceMall3rdFloor|ThonglorSoi13,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.581665", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "Smooth Restaurant", 
+ "phone": "+66-2-899678414", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1032, 
+ "address": "498ThanonSrinakarinda,Bangkok(NearSoi8Srinakarinda),Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "The Porch", 
+ "phone": "+(66)6623095000", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1033, 
+ "address": "8thFl,SivatelBangkok,53WittayuRd,Lumpini,Patumwan,Bangkok10330,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "O&apos;s Ros", 
+ "phone": "+662-669-7574", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1034, 
+ "address": "317RatchasimaRoad,DusitSubdistrict,DusitDistrict.,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.70665", 
+ "name": "工厂酒吧", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1035, 
+ "address": "SukhumvitRoad(ThanonSukhumvit)betweenSoi5andSoi7acrossfromtheLandmarkHotel,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.600433", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "hippopotamus No.1 Steak From France", 
+ "phone": "+(66)2 105 2029", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1036, 
+ "address": "MegabangnaL1FloorandCentralFestivalPattaya6thFloor,Seaview,Bangkok10270,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.82322", 
+ "name": "New Land Pub", 
+ "phone": "081-563-4398", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1037, 
+ "address": "ChokeChai4Soi78LadpraoDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.599472", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.65984", 
+ "name": "Long Dang Pub and Restaurant", 
+ "phone": "02-416-6814-5", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1038, 
+ "address": "45/600SoiThakham,Praram2Road,Bangkhuntien,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.441772", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.709811", 
+ "name": "La Galerie de Patisserie", 
+ "phone": "+66 83 160 7770", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1039, 
+ "address": "SoiThonglor12|2F,TheGrassThonglor,Bangkok10110,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.575592", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.72583", 
+ "name": "Amapola Bar and Steak House", 
+ "phone": "0-2258-7077", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1040, 
+ "address": "72/1SoiSukhumvit51,SukhumvitRoad,KhlongTanNueaSubdistrict,WatthanaDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.576378", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Warmup Nongkhai", 
+ "phone": "+66 85 187 7337", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1041, 
+ "address": "RimKhongRoad,Bangkok43000,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.760264769280328", 
+ "name": "VillaChaCha", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1042, 
+ "address": "ถนนข้าวสาร(Rambutri),กรุงเทพมหานคร,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.4972104047906", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.735453", 
+ "name": "Zanzibar", 
+ "phone": "+66-2-6512700", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "周一-周日20:00-02:00;", 
+ "shop_id": 1043, 
+ "address": "139,Sukhumvit11,Watthana,Bangkok", 
+ "city_name": "曼谷", 
+ "lng": "100.566167", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.696908", 
+ "name": "红太阳德国啤酒屋", 
+ "phone": "+66-2-6781114", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "TawandaengGermanBrewhouse", 
+ "shop_id": 1044, 
+ "address": "462/61ThNarathiwatRatchanakharin", 
+ "city_name": "曼谷", 
+ "lng": "100.545822", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.758651345560308", 
+ "name": "The Crown", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1045, 
+ "address": "KhaoSan,กรุงเทพมหานคร,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.49738063230448", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.803611", 
+ "name": "Brother’s Bar N&apos; Restaurant", 
+ "phone": "+(66)809053053", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1046, 
+ "address": "12/1-2ChongKhoSsamosonBuilding,Silonroad|Suriyawong,Bangkok10500,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.607498", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "Factory Cafe & Brew Bar", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1047, 
+ "address": "地址：35/18PhayaThaiRd，Bankok", 
+ "city_name": "曼谷", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.86147", 
+ "name": "De&apos; TAPS - Beer House Bangkok", 
+ "phone": "+66-2-920908915", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1048, 
+ "address": "345/22NgamWongWan47Yaek39,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.547112", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.724193", 
+ "name": "Telephone Pub", 
+ "phone": "+66-2-22343279", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "Daily", 
+ "shop_id": 1049, 
+ "address": "SilomSoi4,OppositeCaliforniaFitnessCentre", 
+ "city_name": "曼谷", 
+ "lng": "100.522877", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.717", 
+ "name": "Sen Yai Cocktail Bar", 
+ "phone": "08-1633-3567", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1050, 
+ "address": "106SoiSaenSabai,Rama4Road,PhraKhanongSubdistrict,KhlongToeiDistrict.,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.57618", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.83685", 
+ "name": "Mini bar", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1051, 
+ "address": "ramintra,พระนคร,กรุงเทพมหานคร10230,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.632386", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.803611", 
+ "name": "Roadhouse Saloon", 
+ "phone": "+66-2-2-636-8690", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1052, 
+ "address": "SilomSoi3,SilomRoad.,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.607498", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.75371226", 
+ "name": "Castro RCA", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1053, 
+ "address": "อาคารRCAโซนB,ถนนพระราม9,แขวงบางกะปิเขตห้วยขวางกรุงเทพฯ", 
+ "city_name": "曼谷", 
+ "lng": "100.5852365", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.803611", 
+ "name": "The Roof Bar", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1054, 
+ "address": "KhaoSanRoad,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.607498", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.6935", 
+ "name": "Goodview Bar and Restaurant", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1055, 
+ "address": "2525CharoenKrungRoad,KhetBangKhoLaem,Bangkok", 
+ "city_name": "曼谷", 
+ "lng": "100.4923", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.730833", 
+ "name": "Pink Panther", 
+ "phone": "0-2234-3998", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1056, 
+ "address": "SoiPhatPhong2,SurawongRoad,SuriyawongSubdistrict,BangRakDistrict.,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.52417", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.730833", 
+ "name": "Thai Bar", 
+ "phone": "+66-2-18499035", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1057, 
+ "address": "SoiPatpong1,SurawongRoad,SuriyawongSubdistrict,BangRakDistrict.", 
+ "city_name": "曼谷", 
+ "lng": "100.52417", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.730833", 
+ "name": "Happy Beer Garden", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1058, 
+ "address": "MonthianPlazaThailand,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.52417", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.759255", 
+ "name": "Oxxi&apos;s Place", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "12:00-次日2:00", 
+ "shop_id": 1059, 
+ "address": "46/1KhaosanRoad,Bangkok10100,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.496292", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "13.742863", 
+ "name": "Up & Above Restaurant and Bar", 
+ "phone": "+66-2-2 687 9000", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "14:00-17:00", 
+ "shop_id": 1060, 
+ "address": "曼谷帕度万地区仑披尼地区无线路园区创业投资曼谷大仓新颐饭店57号", 
+ "city_name": "曼谷", 
+ "lng": "100.547798", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.751214", 
+ "name": "Plaza Entertainment Complex", 
+ "phone": "+66-2-022531502", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1061, 
+ "address": "1543/1-5SoiPhetchaburiTatMai39,PhetchaburiTatMaiRoad,MakkasanSubdistrict,RatchatheviDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.555931", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.740651", 
+ "name": "Smiles Jazz & Bistro", 
+ "phone": "+66 2 116 8361", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1062, 
+ "address": "20-20/1SoiRuamrudee(RuamrudeeVillage),Ploenjit,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.549202", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "Authong Travel Bar", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1063, 
+ "address": "曼谷考山路中段", 
+ "city_name": "曼谷", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.72126", 
+ "name": "Wongs Place", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1064, 
+ "address": "27/3SoiSiBamphen,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.546806", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.745017", 
+ "name": "Flow Bar", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1065, 
+ "address": "33/33SoiSukhumvit11,SukhumvitRoad,KhlongTonNueaSubdistrict,VadhanaDistrict|LeFenixHotel,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.556389", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.76218", 
+ "name": "Pure Bar", 
+ "phone": "08-1713-0415", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1066, 
+ "address": "58/18SoiRatchadaphisek4,RatchadaphisekRoad,HuaiKhwangSubdistrict,HuaiKhawngDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.56839", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.745714", 
+ "name": "Charcoal Tandoor Grill & Mixology", 
+ "phone": "+66-2-3071111", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "18:00-次日00:00", 
+ "shop_id": 1067, 
+ "address": "FraserSuitesSukhumvit,38/8SukhumvitRd.Soi11", 
+ "city_name": "曼谷", 
+ "lng": "100.556211", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.764444", 
+ "name": "Rolling Bar", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1068, 
+ "address": "RatchadamnoenKlang(BowonNiwet)Rd.,BowonNiwetSub-District,PhraNakhonDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.499168", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.784699", 
+ "name": "Color Bar", 
+ "phone": "+66-2-029490977", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1069, 
+ "address": "242,SoiLatPhrao94,LatPhraoRoad|WangThonglangSubdistrict,WangThonglangDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.611687", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.742222", 
+ "name": "Glow Bar", 
+ "phone": "+66-2-022614446", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1070, 
+ "address": "96/4-5SoiSukhumvit23,OppositeShinnawatMaiThai,SukhumvitRoad,KhlongTanNueaSubdistrict,WatthanaDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.585831", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.701872", 
+ "name": "Grand Cafe Green Parrot", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1071, 
+ "address": "3229SukhumvitRoad,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.602921", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.7555", 
+ "name": "The Rock Pub", 
+ "phone": "0-2251-9980", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1072, 
+ "address": "121/78PhayaThaiRoad,ThanonPhetchaburiSubdistrict,RatchatheviDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.52549", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.75409", 
+ "name": "Royal Salute", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1073, 
+ "address": "SilomSubdistrict,BangRakDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.573318", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.72334", 
+ "name": "Charming Bar", 
+ "phone": "0-2656-7566", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1074, 
+ "address": "5/10,SoiSukhumwit4Lane,SukhumwitRd.,KhlongToeiSub-District,KhlongToeiDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.579712", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.731389", 
+ "name": "Cotton Jazz Bar", 
+ "phone": "0-2221-2121", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1075, 
+ "address": "3rdFloor,ShanghaiMansionBangkok,YaoWaratRd.,SamphanthawongSub-District,SamphanthawongDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.514168", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.748091", 
+ "name": "The Pent Exclusive Club", 
+ "phone": "0-2655-3890-2", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1076, 
+ "address": "31/1WitthayuRoad,LumphiniSubdistrict,PathumwanDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.548607", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.717680501405145", 
+ "name": "Nang Len", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1077, 
+ "address": "Ekkamai,Bangkok,Thailand(Wattana)(Wattana)", 
+ "city_name": "曼谷", 
+ "lng": "100.58593590763714", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.742094", 
+ "name": "Hillara Bar", 
+ "phone": "+66-2-022523069", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1078, 
+ "address": "18SoiSukhumvit4,SukhumvitRoad|KhlongToeiSubdistrict,KhlongToeiDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.552971", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.744801", 
+ "name": "To Sit Siam Square", 
+ "phone": "+66-2-26584001", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1079, 
+ "address": "262/4-5SoiSiamSquare3,Rama1Road,PathumWanSubdistrict,PathumwanDistrict", 
+ "city_name": "曼谷", 
+ "lng": "100.532659", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.742737", 
+ "name": "S23 Pub", 
+ "phone": "0-2664-0944-5", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1080, 
+ "address": "112SoiSukhumvit23,SukhumvitRoad,KhlongToeiNueaSubdistrict,WatthanaDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.563614", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.7245837", 
+ "name": "Q Bar", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1081, 
+ "address": "34SukhumvitSoi11,KhlongToei,Bangkok10110", 
+ "city_name": "曼谷", 
+ "lng": "100.5754492", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.810467", 
+ "name": "Lat Maprao", 
+ "phone": "+66-2-0815051406", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1082, 
+ "address": "1128/1HaYakLatPhrao,NearSt.JohnUniversity,LatPhraoRoad,LatYaoSubdistrict,ChatuchakDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.565643", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.73679", 
+ "name": "Shades of Retro", 
+ "phone": "+66-2-027149450", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1083, 
+ "address": "808/12SoiThararom2,NearJ-AvenueThonglor,Sukhumvit55(Thonglor)Road,KhlongTanNueaSubdistrict,WatthanaDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.584381", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.77265", 
+ "name": "The Fish", 
+ "phone": "+66-2-7311180", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1084, 
+ "address": "3358,SoiLatPhrao130Lane,KhlongChanSub-District,BangKapiDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.63311", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.74126", 
+ "name": "Wine Bibber Sangria Bar -Restaurant", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1085, 
+ "address": "WatthanaDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.560257", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.781704", 
+ "name": "Chakran Sauna", 
+ "phone": "+66-2-2 279 1359", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "WeekdayOpening:Mon-Thu15:00-24:00WeekendOpening:Fri-Sat14:00-dawn(Sun24:00)", 
+ "shop_id": 1086, 
+ "address": "曼谷Ari4巷Paholyothin7巷32号Chakran大厦", 
+ "city_name": "曼谷", 
+ "lng": "100.54136", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.6731", 
+ "name": "Zeus Entertainment Gay Bar", 
+ "phone": "89-224-8591", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1087, 
+ "address": "SoiTwilight,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.641083", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.72746", 
+ "name": "Banyan Tree 52/F", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1088, 
+ "address": "SathonThungMahaMek", 
+ "city_name": "曼谷", 
+ "lng": "100.53692", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.724895672590335", 
+ "name": "Sauna Mania", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1089, 
+ "address": "SoiPhiphat2,บางรัก,กรุงเทพมหานคร10500,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.53243398666382", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.745902", 
+ "name": "RCA Bar Shogun", 
+ "phone": "+66-2-6415296", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "18:00–01:00", 
+ "shop_id": 1090, 
+ "address": "21/68BuildingRCABlockC,SoiSunwijai|Bangkapi,HuaiKwang,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.587395", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.65513180424471", 
+ "name": "MUSE", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1091, 
+ "address": "ThonglorMassage,KhlongToeiNuea,Vadhana,Bangkok10110,พระนคร,กรุงเทพมหานคร10110,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.44285268342097", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.744722", 
+ "name": "Concept CM2", 
+ "phone": "+66 (0) 2209 8888", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1092, 
+ "address": "SiamSquaresoi6|NovotelBangkokonSiamSquare,Bangkok10330,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.535126", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.325931530578792", 
+ "name": "RCA Bkk @ SLIM PUB", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1093, 
+ "address": "พระนคร,กรุงเทพมหานคร,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.94995831661588", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.765833", 
+ "name": "Ick Pub", 
+ "phone": "+66-2-0871071267", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1094, 
+ "address": "89/2SoiRamkhamhaeng89/2,RamkhamhaengRoad,HuaMakSubdistrict,BangKapiDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.647781", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.7568709539776", 
+ "name": "Havaianas Store", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1095, 
+ "address": "พระนคร,กรุงเทพมหานคร,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.526340391178", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.6841829", 
+ "name": "Albury Men’s Club", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "13.00-22.00", 
+ "shop_id": 1096, 
+ "address": "66,2号Soi26,SukhumvitRoad,Wattana,Bangkok", 
+ "city_name": "曼谷", 
+ "lng": "100.6103282", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.73075", 
+ "name": "X MAN CLUB", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1097, 
+ "address": "พระนคร,กรุงเทพมหานคร,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.532375", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.73693", 
+ "name": "Vault Bangkok", 
+ "phone": "+(66)82-308-3246", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1098, 
+ "address": "34SukhumvitSoi11,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.561157", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.699502618376904", 
+ "name": "The 50th Gay Bar", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1099, 
+ "address": "SukumvitRoad,พระนคร,กรุงเทพมหานคร10260,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.59555016843522", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.754068", 
+ "name": "roof bar", 
+ "phone": "+66-2-2173000", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1100, 
+ "address": "130RajpraropRoad,Rajthevee,Bangkok,10400Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.5404", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.740168", 
+ "name": "22 STEPS Bar", 
+ "phone": "+66 2 207 4999", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "星期六:上午11点00分-上午1点00分,星期五:上午11点00分-上午1点00分,星期三:上午11点00分-上午1点00分,星期日:上午11点00分-上午1点00分,星期四:上午11点00分-上午1点00分,星期二:上午11点00分-上午1点00分,星期一:上午11点00分-上午1点00分", 
+ "shop_id": 1101, 
+ "address": "81WirelessRoad.|Lumpini,Patumwan,Bangkok10330,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.547188", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.745279", 
+ "name": "曼谷Q酒吧", 
+ "phone": "66 82 308 3246", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1102, 
+ "address": "34SukhumvitSoi11|Klongtoey,Bangkok10110,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.556274", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.746293", 
+ "name": "sigha@paragon", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1103, 
+ "address": "ปทุมวัน,กรุงเทพมหานคร,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.533777", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.744013", 
+ "name": "Bar&apos;s Room", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1104, 
+ "address": "@PernodRicardThailand,พระนคร,กรุงเทพมหานคร,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.541649", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.759147", 
+ "name": "999 West Bar", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1105, 
+ "address": "108/5-6KhaoSAnRoad.|TalatYot,PhraNakhon,Bangkok10200,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.498192", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.760916", 
+ "name": "Raintree Pub and Restaurant", 
+ "phone": "02 245 7230", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1106, 
+ "address": "116/63-64SoiRangnam,offPhyaThaiRoad|PhyaThai,Rangnam,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.537941", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.740329", 
+ "name": "My Sky Bar de Pradu", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1107, 
+ "address": "SoiCharoenkrung107,พระนคร,กรุงเทพมหานคร,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.512307", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.75000922357752", 
+ "name": "Taksula Hua-chang", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1108, 
+ "address": "ถนนเพชรบุรี,กรุงเทพมหานคร,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.53053710255936", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.803611", 
+ "name": "Snop Pub & Restaurant", 
+ "phone": "+66-2-822449922", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1109, 
+ "address": "29/29Moo9,Kaset-NawaminRoad,KhlongKumSubdistrict,BuengKumDistrict.,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.607498", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Fullmoon Terrace & Bar", 
+ "phone": "+66-2-025398015", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1110, 
+ "address": "39/543Moo13,PlazaLagoonProject,WangHinRd.,LatPhraoSub-District,LatPhraoDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.805785025920065", 
+ "name": "good bar", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1111, 
+ "address": "เกษตรนวมินทร์ตอม่อ232,KhlongKum,กรุงเทพมหานคร10240,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.6446686561874", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Jersey Pub", 
+ "phone": "08-7977-7188", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1112, 
+ "address": "SoiNanaLane,SukhumwitRd.,KhlongToeiSub-District,KhlongToeiDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Beer Capital Bangkok", 
+ "phone": "+66-2-0900083833", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1113, 
+ "address": "335/31stFloor,TheFourWingsResidentCondo,SinakharinRoad,HuaMakSubdistrict,BangKapiDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.830417989849352", 
+ "name": "F Bar Studio @ Intercontinental H.", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1114, 
+ "address": "ลุมพินี,กรุงเทพมหานคร,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.6190696859391", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.803611", 
+ "name": "Muzik Cafe", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1115, 
+ "address": "81-83SoiPatpong1,SilomRoad,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.607498", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.801337", 
+ "name": "Wine Room 1920s", 
+ "phone": "+66-2-0818441920", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1116, 
+ "address": "522SoiYothinPhatthana,PraditmanuthamRoad,KhlongChanSubdistrict,BangKapiDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.615692", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.733766", 
+ "name": "Wolf Grill & Wine Bar", 
+ "phone": "+66 2 258 8808", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "星期一:下午5点00分-上午12点00分", 
+ "shop_id": 1117, 
+ "address": "533SukhumvitRoad,Bangkok10110,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.565323", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.7306", 
+ "name": "THE MEXICAN Bar & Restaurant", 
+ "phone": "+66 2 663 7712", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": ""Mon–Sun:3:00PM–Midnight"", 
+ "shop_id": 1118, 
+ "address": "106Sukhumvit18(atTownLodge),คลองเตย,กรุงเทพมหานคร10110,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.562837", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.733238", 
+ "name": "Rendezvous Bar", 
+ "phone": "+66 (0) 2252 4222", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1119, 
+ "address": "138SukhumvitRoad|TheLandmarkHotelBangkok,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.56588", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.737101", 
+ "name": "Five Star", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1120, 
+ "address": "SoiCowboySukhumvit,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.562172", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.795541", 
+ "name": "Girl Gang @ Home ", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1121, 
+ "address": "พระนคร,กรุงเทพมหานคร,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.565526", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.762285", 
+ "name": "Bangrak Pub And Restaurant", 
+ "phone": "+66-2-0870104554", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1122, 
+ "address": "58SoiRatchadaphisek4,RatchadaphisekRoad,HuaiKhwangSubdistrict,HuaiKhawngDistrict,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.567619", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.668721808665378", 
+ "name": "JP MUSIC Central Bangna", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1123, 
+ "address": "พระนคร,กรุงเทพมหานคร,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.63364730938984", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.762538", 
+ "name": "Adhere the 13th", 
+ "phone": "089-7694613", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1124, 
+ "address": "13SamsenRoad,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.497437", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.74587315731583", 
+ "name": "Aa", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1125, 
+ "address": "พระนคร,กรุงเทพมหานคร,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.52133644838706", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.7285928690041", 
+ "name": "Atessa", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1126, 
+ "address": "พระนคร,กรุงเทพมหานคร,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.5339429518554", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.781443", 
+ "name": "KA-LA-SE", 
+ "phone": "+66 81 617 0518", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1127, 
+ "address": "325Ratchdapiesek14,ห้วยขวาง,กรุงเทพมหานคร10310,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.57589", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.802147", 
+ "name": "Foot Massage@JJ Mall", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1128, 
+ "address": "จตุจักร,กรุงเทพมหานคร,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.548982", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.728685", 
+ "name": "Oh Really!", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1129, 
+ "address": "Silom,กรุงเทพมหานคร,ประเทศไทย", 
+ "city_name": "曼谷", 
+ "lng": "100.534233", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.74074", 
+ "name": "BeerVault", 
+ "phone": "(66)(2)(309-3000)", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1130, 
+ "address": "SukhumvitSoi15|FourPointsbySheratonBangkok,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.559387", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.76238", 
+ "name": "Papillo Restaurant And Bar", 
+ "phone": "0-2629-4020", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1131, 
+ "address": "PhraArthitRoad,ChanaSongkramSubdistrict,PhraNakhonDistrict.,Bangkok,Thailand", 
+ "city_name": "曼谷", 
+ "lng": "100.493927", 
+ "category_id": 1
+}

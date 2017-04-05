@@ -1,0 +1,4725 @@
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "7.80933", 
+ "name": "卡塔山顶餐厅", 
+ "phone": "+66-76-943750", 
+ "city_id": "2", 
+ "avgprice": 100, 
+ "office_hours": "AfterBeachBar", 
+ "shop_id": 1000, 
+ "address": "KataBeachPhuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.3022", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.893049", 
+ "name": "老虎酒吧", 
+ "phone": "+66-76-345112", 
+ "city_id": "2", 
+ "avgprice": 70, 
+ "office_hours": "22:00-次日03:00", 
+ "shop_id": 1001, 
+ "address": "49BanglaRoad,PatongBeach", 
+ "city_name": "普吉岛", 
+ "lng": "98.29741", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.89351", 
+ "name": "芭东酒吧街", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "全天开放", 
+ "shop_id": 1002, 
+ "address": "Bangla,Patong,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.296854", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.81432", 
+ "name": "船坞酒吧", 
+ "phone": "+66-76-330015", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "11:00-23:00", 
+ "shop_id": 1003, 
+ "address": "182,KoktanodeRd,Kata", 
+ "city_name": "普吉岛", 
+ "lng": "98.298861", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.887294863", 
+ "name": "Hard Rock Cafe Phuket", 
+ "phone": "+66-76-366381", 
+ "city_id": "2", 
+ "avgprice": 83, 
+ "office_hours": "周一-周六11:00-次日02:00；周日11:00–次日00:00", 
+ "shop_id": 1004, 
+ "address": "48/1,RuamjaiRoad,TambobPatong,AmphoeKathu", 
+ "city_name": "普吉岛", 
+ "lng": "98.29424788", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.848163", 
+ "name": "Ocean Beach Club", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1005, 
+ "address": "PatakRoad|KaronBeach,PhuketTown", 
+ "city_name": "普吉岛", 
+ "lng": "98.295303", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.89363", 
+ "name": "Monsoon Bar", 
+ "phone": "+66-76-884730497", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1006, 
+ "address": "27BanglaRoad,Patong,Kathu,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.29759", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.88672", 
+ "name": "猫头鹰", 
+ "phone": "+66-76-76 349939", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:00am-2:00am", 
+ "shop_id": 1007, 
+ "address": "普吉岛卡图地区芭东地区Ruamjai路", 
+ "city_name": "普吉岛", 
+ "lng": "98.29504", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.893541", 
+ "name": "Illuzion", 
+ "phone": "+66-76-6676683059", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "22:00-次日04:00", 
+ "shop_id": 1008, 
+ "address": "31BanglaRoad,Patong,Kathu", 
+ "city_name": "普吉岛", 
+ "lng": "98.296783", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.823236", 
+ "name": "Wine Connection Bar & Grill - Kata", 
+ "phone": "+66-76-330209", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "11:00-23:00", 
+ "shop_id": 1009, 
+ "address": "KataRoad,Patong,Kathu", 
+ "city_name": "普吉岛", 
+ "lng": "98.30031", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.893125", 
+ "name": "Gossip Boutiq Supperclub", 
+ "phone": "66935809028", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1010, 
+ "address": "29Banglaroad,Patong,Kathu", 
+ "city_name": "普吉岛", 
+ "lng": "98.296692", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.893764844", 
+ "name": "红磨坊", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1011, 
+ "address": "Soi1,BanglaRoad,Patong,Kathu", 
+ "city_name": "普吉岛", 
+ "lng": "98.29784187", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.9055", 
+ "name": "Le Versace", 
+ "phone": "+66-76-4484887", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "周一、周三至周日17:00至深夜，周二休息", 
+ "shop_id": 1012, 
+ "address": "206/5-6PrabarameeRoad,Patong,Kathu,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.301498", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "7.80933", 
+ "name": "卡塔山顶餐厅", 
+ "phone": "+66-76-943750", 
+ "city_id": "2", 
+ "avgprice": 100, 
+ "office_hours": "AfterBeachBar", 
+ "shop_id": 1013, 
+ "address": "KataBeachPhuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.3022", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.893049", 
+ "name": "老虎酒吧", 
+ "phone": "+66-76-345112", 
+ "city_id": "2", 
+ "avgprice": 70, 
+ "office_hours": "22:00-次日03:00", 
+ "shop_id": 1014, 
+ "address": "49BanglaRoad,PatongBeach", 
+ "city_name": "普吉岛", 
+ "lng": "98.29741", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.89351", 
+ "name": "芭东酒吧街", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "全天开放", 
+ "shop_id": 1015, 
+ "address": "Bangla,Patong,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.296854", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.81432", 
+ "name": "船坞酒吧", 
+ "phone": "+66-76-330015", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "11:00-23:00", 
+ "shop_id": 1016, 
+ "address": "182,KoktanodeRd,Kata", 
+ "city_name": "普吉岛", 
+ "lng": "98.298861", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.887294863", 
+ "name": "Hard Rock Cafe Phuket", 
+ "phone": "+66-76-366381", 
+ "city_id": "2", 
+ "avgprice": 83, 
+ "office_hours": "周一-周六11:00-次日02:00；周日11:00–次日00:00", 
+ "shop_id": 1017, 
+ "address": "48/1,RuamjaiRoad,TambobPatong,AmphoeKathu", 
+ "city_name": "普吉岛", 
+ "lng": "98.29424788", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.848163", 
+ "name": "Ocean Beach Club", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1018, 
+ "address": "PatakRoad|KaronBeach,PhuketTown", 
+ "city_name": "普吉岛", 
+ "lng": "98.295303", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.89363", 
+ "name": "Monsoon Bar", 
+ "phone": "+66-76-884730497", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1019, 
+ "address": "27BanglaRoad,Patong,Kathu,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.29759", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.88672", 
+ "name": "猫头鹰", 
+ "phone": "+66-76-76 349939", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:00am-2:00am", 
+ "shop_id": 1020, 
+ "address": "普吉岛卡图地区芭东地区Ruamjai路", 
+ "city_name": "普吉岛", 
+ "lng": "98.29504", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.893541", 
+ "name": "Illuzion", 
+ "phone": "+66-76-6676683059", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "22:00-次日04:00", 
+ "shop_id": 1021, 
+ "address": "31BanglaRoad,Patong,Kathu", 
+ "city_name": "普吉岛", 
+ "lng": "98.296783", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.823236", 
+ "name": "Wine Connection Bar & Grill - Kata", 
+ "phone": "+66-76-330209", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "11:00-23:00", 
+ "shop_id": 1022, 
+ "address": "KataRoad,Patong,Kathu", 
+ "city_name": "普吉岛", 
+ "lng": "98.30031", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.893125", 
+ "name": "Gossip Boutiq Supperclub", 
+ "phone": "66935809028", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1023, 
+ "address": "29Banglaroad,Patong,Kathu", 
+ "city_name": "普吉岛", 
+ "lng": "98.296692", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.893764844", 
+ "name": "红磨坊", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1024, 
+ "address": "Soi1,BanglaRoad,Patong,Kathu", 
+ "city_name": "普吉岛", 
+ "lng": "98.29784187", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.9055", 
+ "name": "Le Versace", 
+ "phone": "+66-76-4484887", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "周一、周三至周日17:00至深夜，周二休息", 
+ "shop_id": 1025, 
+ "address": "206/5-6PrabarameeRoad,Patong,Kathu,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.301498", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.994666", 
+ "name": "Siam Supper Club", 
+ "phone": "+66 76 270 936", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1026, 
+ "address": "36_40LagoonRoad,ChoengThale,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.305832", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.883154", 
+ "name": "Brasserie Phuket", 
+ "phone": "+66-76-7621 0511", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1027, 
+ "address": "普吉岛Ratsada路18号", 
+ "city_name": "普吉岛", 
+ "lng": "98.387794", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.883", 
+ "name": "Pinky画廊咖啡", 
+ "phone": "89 103 7000", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1028, 
+ "address": "普吉岛Taladyai地区耀华力路19号", 
+ "city_name": "普吉岛", 
+ "lng": "98.39005", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.98282", 
+ "name": "丹尼尔酒吧", 
+ "phone": "+66-76-764 6753", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1029, 
+ "address": "普吉岛Srisoonthorn路邦道巷100/19号", 
+ "city_name": "普吉岛", 
+ "lng": "98.36623", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "0.0", 
+ "name": "狄丽施", 
+ "phone": "+66-76-76 340 375", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1030, 
+ "address": "普吉岛卡图地区芭东地区Ratuthitsongroipi路5/6号", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.886373", 
+ "name": "Phuket Island Lager Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1031, 
+ "address": "WalkingStreet(DJPlaza),หาดป่าตอง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.292163", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "0.0", 
+ "name": "Wine Connection Deli & Bistro - Central Phuket", 
+ "phone": "6676 307 064", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1032, 
+ "address": "普吉岛普吉镇Vichitsongkram路5区74-75号中央百货普吉购物中心1stFl.", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.82165", 
+ "name": "MOOK", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1033, 
+ "address": "clubmed对面", 
+ "city_name": "普吉岛", 
+ "lng": "98.29753", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.891203", 
+ "name": "Molly Malone’s Irish Pub Phuket", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "09:00-21:00周一至周日", 
+ "shop_id": 1034, 
+ "address": "PhuketRuamchaiRoad", 
+ "city_name": "普吉岛", 
+ "lng": "98.293779", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.893129067602906", 
+ "name": "Oscar Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1035, 
+ "address": "ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29834150713732", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.888121", 
+ "name": "FAMOUS PHUKET", 
+ "phone": "+66-76-76-366-717", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "13:00开门，到很晚才关门。", 
+ "shop_id": 1036, 
+ "address": "JungceylonShoppingCentre|Unit2306,3rdFloorandrooftop,193,Rat-U-Thit(200-Year-Road),Kathu,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.29644", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.890912", 
+ "name": "The Port @ BanThai", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1037, 
+ "address": "ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.293835", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.887223654596954", 
+ "name": "nina kangaroo bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1038, 
+ "address": "ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.2955350136561", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.886586312533159", 
+ "name": "Blondies Bar 2", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1039, 
+ "address": "ShoppingParadise(Patong),ตำบลกะทู้,ภูเก็ต83150,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29544948409703", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "8.032003", 
+ "name": "Naithon Beach Club", 
+ "phone": "(66) 076.205.407", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1040, 
+ "address": "28/5NaithonBeachRoad,Phuket83110,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.333466", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "0.0", 
+ "name": "莫莉白龙的爱尔兰酒吧", 
+ "phone": "+66-76-76 292 771", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "MollyMalone'sIrishPub", 
+ "shop_id": 1041, 
+ "address": "68ThaweewongRoad(BeachRoad),Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.895641", 
+ "name": "My Way Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1042, 
+ "address": "Soi5ParadiseComplex,PatongBeach,AmphoeKathu,PhuketThailand83150", 
+ "city_name": "普吉岛", 
+ "lng": "98.300069", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.814", 
+ "name": "Re Ka Ta Beach Club", 
+ "phone": "+66-76-330421", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "08:00-次日00:00", 
+ "shop_id": 1043, 
+ "address": "184,KoktanodeRoad,Kata", 
+ "city_name": "普吉岛", 
+ "lng": "98.299004", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.893541", 
+ "name": "New York Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1044, 
+ "address": "BanglaRd,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.296783", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.889319", 
+ "name": "Finnegan&apos;s Wake", 
+ "phone": "+66-76-805572", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1045, 
+ "address": "普吉岛卡图地区芭东地区海滩路", 
+ "city_name": "普吉岛", 
+ "lng": "98.293442", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.8331362", 
+ "name": "迪诺酒吧", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1046, 
+ "address": "KaronBeach,MueangPhuketDistrict,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.2961109", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "8.108071855574037", 
+ "name": "Phuket Wine Lounge", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1047, 
+ "address": "HKTAirport,ถลาง,ภูเก็ต83110,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.30582066350878", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.801740726705162", 
+ "name": "Baba nest", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1048, 
+ "address": "SakdidejRoad", 
+ "city_name": "普吉岛", 
+ "lng": "98.41133966386558", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.960704", 
+ "name": "Baan Mai", 
+ "phone": "081-273-6978", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "11:00-23:00", 
+ "shop_id": 1049, 
+ "address": "普吉岛卡图地区卡马娜区12巷3区110/16号", 
+ "city_name": "普吉岛", 
+ "lng": "98.285995", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.893394", 
+ "name": "Le Charolais SteakHouse", 
+ "phone": "+66-76-8442458", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "7:30-12:00", 
+ "shop_id": 1050, 
+ "address": "普吉岛卡图地区芭东地区Phetchaku路西柔恩酒店西柔恩酒店17号", 
+ "city_name": "普吉岛", 
+ "lng": "98.29547", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.824266", 
+ "name": "Bacco Perbacco", 
+ "phone": "+66-76-76330415", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "17:00-23:30", 
+ "shop_id": 1051, 
+ "address": "普吉岛卡塔海滩Patak路86/33号", 
+ "city_name": "普吉岛", 
+ "lng": "98.301871", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.893463", 
+ "name": "Club Tiger Patong", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1052, 
+ "address": "Banglaroad,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.29747", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.950017", 
+ "name": "Red Z", 
+ "phone": "+66 76 385 860", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1053, 
+ "address": "BeachRoad,Kamala,Kathu,Phuket83000,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.280563", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "0.0", 
+ "name": "树屋", 
+ "phone": "+66-76-7633-6100", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1054, 
+ "address": "普吉岛塔朗地区迈考海滩3区安纳塔拉普吉岛度假村888号", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.984935", 
+ "name": "MEZZO酒吧", 
+ "phone": "+66-76-76620017", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "11:00-22:00", 
+ "shop_id": 1055, 
+ "address": "普吉岛Srisoonthorn路177/23号", 
+ "city_name": "普吉岛", 
+ "lng": "98.30114", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.893898", 
+ "name": "Scruffy Murphy&apos;s", 
+ "phone": "+66-76-292590", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:00-次日02:00", 
+ "shop_id": 1056, 
+ "address": "普吉岛巴东海滩", 
+ "city_name": "普吉岛", 
+ "lng": "98.296069", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.824365", 
+ "name": "After Beach Bar", 
+ "phone": "081 8943750", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1057, 
+ "address": "KataBeach,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.293274", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.885878", 
+ "name": "Bimi Beach Club", 
+ "phone": "+66 (0) 76 316580", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1058, 
+ "address": "SurinBeachRoad,ChoengThale,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.398972", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.848924", 
+ "name": "徒步旅行运动酒吧", 
+ "phone": "83 522 2286", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "11:00am-2:00am", 
+ "shop_id": 1059, 
+ "address": "普吉岛卡隆地区", 
+ "city_name": "普吉岛", 
+ "lng": "98.294237", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "8.159962", 
+ "name": "Vero Italian Trattoria and Wine Bar", 
+ "phone": "0 76 303 299", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1060, 
+ "address": "22/2Moo4,Phuket83110,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.337395", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.89304", 
+ "name": "Red Hot club", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1061, 
+ "address": "ThanonRatuthitSongroipiRoad", 
+ "city_name": "普吉岛", 
+ "lng": "98.29833", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.887826", 
+ "name": "James & Joyce Irish Pub Patong", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1062, 
+ "address": "186/11-12ThaweewongRoad,PatongBeach,PhuketTown,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.390678", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "8.168275641231235", 
+ "name": "Tree House Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1063, 
+ "address": "888Moo3,MaiKhao", 
+ "city_name": "普吉岛", 
+ "lng": "98.29636358637582", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.982652", 
+ "name": "Chef Daniel&apos;s Gastro Bar Phuket", 
+ "phone": "+66 93 764 6753", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1064, 
+ "address": "100/19BangTaoSoi,SrisoonthornRoad,ChoengThale,Phuket83110,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.290352", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.820747", 
+ "name": "快乐时光", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1065, 
+ "address": "普吉岛查龙查龙墩路9区1/18号", 
+ "city_name": "普吉岛", 
+ "lng": "98.343956", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "8.032003", 
+ "name": "Peppers Bar and Restaurant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1066, 
+ "address": "lagunaroad|laguna,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.333466", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.822375", 
+ "name": "Art Space Gallery and Music Bar", 
+ "phone": "+66-76-1560677", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "11:00-次日01:00", 
+ "shop_id": 1067, 
+ "address": "7KetkwanRoad,KataBeach", 
+ "city_name": "普吉岛", 
+ "lng": "98.302513", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.948907", 
+ "name": "Elvis Rock & Roll Bar Kamala", 
+ "phone": "+66 85 158 7638", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1068, 
+ "address": "MainroadinKamalabetweenredlights,Kamala,Kathu,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.284271", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.823132", 
+ "name": "The Green Man Pub", 
+ "phone": "+66 76 281 445", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1069, 
+ "address": "82/15Moo4PatakRoad,,Rawai,PhuketTown,Phuket83130,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.335823", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.882525", 
+ "name": "粉红女郎", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1070, 
+ "address": "普吉岛普吉府", 
+ "city_name": "普吉岛", 
+ "lng": "98.39099", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.892685", 
+ "name": "冠军酒吧", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1071, 
+ "address": "普吉岛卡图地区芭东地区Sansabai巷", 
+ "city_name": "普吉岛", 
+ "lng": "98.299934", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.978672", 
+ "name": "The Bistro Lounge", 
+ "phone": "92 753 8808", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "5:00pm-2:00am", 
+ "shop_id": 1072, 
+ "address": "普吉岛邦涛海滩3区69/93号", 
+ "city_name": "普吉岛", 
+ "lng": "98.29818", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.885217", 
+ "name": "Saneha Restaurant", 
+ "phone": "+66-76-76218515", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1073, 
+ "address": "普吉岛普吉府TalatYai地区耀华力路8385号", 
+ "city_name": "普吉岛", 
+ "lng": "98.387535", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "海豚酒吧", 
+ "phone": "7639-1123-5", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1074, 
+ "address": "普吉市区Vichit地区沙地得路8区攀瓦角普吉岛酒店27号2楼", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.82021", 
+ "name": "O2沙滩俱乐部(O2沙滩俱乐部)", 
+ "phone": "+66-76-818948002", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:00-19:00", 
+ "shop_id": 1075, 
+ "address": "普吉岛市区Wiset路", 
+ "city_name": "普吉岛", 
+ "lng": "98.344043", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.84115", 
+ "name": "Manohra Cozy Restaurant", 
+ "phone": "+66 (0)76 398 422", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1076, 
+ "address": "10PatakSoi16,Karon,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.302292", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "8.013166", 
+ "name": "The Beach Bar 2", 
+ "phone": "+66-76-835039001", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1077, 
+ "address": "LayanBeach,PhuketTown,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.292", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.880448", 
+ "name": "The Orange Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1078, 
+ "address": "MueangPhuketDistrict.,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.39225", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.801848", 
+ "name": "Exo Wine Bar", 
+ "phone": "+66 76 613 679", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1079, 
+ "address": "29/87WisetRoadMoo2,Rawai,PhuketTown,Phuket83100,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.335754", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.887225", 
+ "name": "Offshore Bar & Grill", 
+ "phone": "083-3922944", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1080, 
+ "address": "卡图地区芭东地区", 
+ "city_name": "普吉岛", 
+ "lng": "98.30265", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.887826", 
+ "name": "香蕉迪斯科", 
+ "phone": "0-7634-0304-5", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "22:00-2:00", 
+ "shop_id": 1081, 
+ "address": "普吉岛卡图地区芭东地区Thaweewong路124号芭东海滩酒店前面", 
+ "city_name": "普吉岛", 
+ "lng": "98.390678", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "8.034449", 
+ "name": "Fat Boy Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1082, 
+ "address": "NanaiRoad5,Patong,Kathu,Phuket83150NanaiRoad5Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.335732", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.82323", 
+ "name": "Sky Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1083, 
+ "address": "普吉岛卡隆海滩504号", 
+ "city_name": "普吉岛", 
+ "lng": "98.30296", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "Vanilla Sky Bar and Lounge", 
+ "phone": "+66-76-076-337300", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "5pm-12pm", 
+ "shop_id": 1084, 
+ "address": "普吉岛卡马拉海滩西恩纳角3楼", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.849059", 
+ "name": "Paradise Grill", 
+ "phone": "+66 76 286 400", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1085, 
+ "address": "528/7PatakRoad,Karon,PhuketTown,Phuket83100,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.29464", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.829146", 
+ "name": "Tamarind Restaurant and Bar", 
+ "phone": "+(66)849394177", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1086, 
+ "address": "44/2M.9|T.Chalong,A.MuangPhuket,Chalong,PhuketTown,Phuket83130,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.346031", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.818104", 
+ "name": "O2 Beach Club", 
+ "phone": "+(66)76304000", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1087, 
+ "address": "43/19Moo5,Rawai,PhuketTown,Phuket83130,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.343513", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.901146", 
+ "name": "Sigi&apos;s and Treffs German Restaurant and Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1088, 
+ "address": "52Thanonratuthitsongroipi,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.300468", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.94976", 
+ "name": "Sands Beach Club Kamala", 
+ "phone": "+66 93 795 3991", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1089, 
+ "address": "BanKamala,Kamalabeach|บ้านกมลาหาดกมลา,Kamala,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.284653", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.792677", 
+ "name": "The Stoned Crab Pub", 
+ "phone": "+(66)0887524540", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1090, 
+ "address": "79/79SaiYuanRoad,Rawai,PhuketTown,Phuket83130,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.32518", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.880448", 
+ "name": "Molly Malone Irish Pub", 
+ "phone": "+66-76-762927712", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1091, 
+ "address": "94/1ThawiwongRoadPatongSubdistrictKatooDistrict,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.39225", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "Globe", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "全天周一至周日", 
+ "shop_id": 1092, 
+ "address": "SoiSansabai", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.773167", 
+ "name": "Paradise Beach Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1093, 
+ "address": "SoiLamPromtep1,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.323502", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.896915", 
+ "name": "76 Bar Drink and Dine", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1094, 
+ "address": "5/55HaadPatongRoad,Patong,Kathu,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.30201", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "7.880448", 
+ "name": "Sukishi Bar B Q", 
+ "phone": "+66-76-76307110", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1095, 
+ "address": "74-75(Fl.3)CentralFestivalPhuket,VichitRoad,VichitSubdistrict,MueangPhuketDistrict|AlsoinTesco,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.39225", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "等待", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1096, 
+ "address": "灌河路", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.8996", 
+ "name": "The Surface Bar and Restaurant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1097, 
+ "address": "PatongBeachRoad,NorthofBanglaRoadandBeachRoad", 
+ "city_name": "普吉岛", 
+ "lng": "98.297768", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.893626", 
+ "name": "Tigger酒吧", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1098, 
+ "address": "普吉卡图芭东芭东酒吧街", 
+ "city_name": "普吉岛", 
+ "lng": "98.298059", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.891141", 
+ "name": "D wine Italian Bistro & Wine Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1099, 
+ "address": "181Rat-U-Thit,Jungceylonshoppingmall,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.299846", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.950652", 
+ "name": "Danny&apos;s Place Kamala", 
+ "phone": "+66-76-6683414900", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1100, 
+ "address": "普吉岛卡图地区卡马娜区RimHad路3区74/13号", 
+ "city_name": "普吉岛", 
+ "lng": "98.2819", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "8.124982", 
+ "name": "比尔宾利酒吧", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1101, 
+ "address": "迈考海滩特特尔村", 
+ "city_name": "普吉岛", 
+ "lng": "98.310751", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "8.146768", 
+ "name": "Bill Bentley Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1102, 
+ "address": "TheTurtleVillage|TurtleVillage,MaiKhao,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.319794", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.890371", 
+ "name": "Swedenglish Bar", 
+ "phone": "+66-76-344714", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1103, 
+ "address": "80/19-20,SoiDr.Wattana,ThaweewongRoad", 
+ "city_name": "普吉岛", 
+ "lng": "98.293297", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.905732", 
+ "name": "B-Hive Gallery, Bar and Restaurant", 
+ "phone": "+66-76-5190556", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "06:30-23:00", 
+ "shop_id": 1104, 
+ "address": "198TaveewongRoad,", 
+ "city_name": "普吉岛", 
+ "lng": "98.29731", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.886148", 
+ "name": "Komma Pub & Restaurant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1105, 
+ "address": "20ThaweewongRoad,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.277565", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "0.0", 
+ "name": "英雄酒吧", 
+ "phone": "94 585 9612", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1106, 
+ "address": "普吉岛卡图地区芭东地区BanglaRoad路", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.824365", 
+ "name": "44 Thai Kitchen Danny&apos;s Bar", 
+ "phone": "+(66)818081827", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1107, 
+ "address": "40/13SoiMalisa.KataRd.,KataBeach|T.Karon,KataBeach,Phuket83100,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.293274", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.904020386", 
+ "name": "蜥蜴海滩俱乐部", 
+ "phone": "+66-76-1942459", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1108, 
+ "address": "普吉岛卡图地区芭东卡林海滩Prabaramee路", 
+ "city_name": "普吉岛", 
+ "lng": "98.30888438", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.880465", 
+ "name": "Havana Bar & Restaurant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1109, 
+ "address": "63/244Moo4,WiratHongYok3Road,Wichit,PhuketTown,Phuket83000,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.377846", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.892681742", 
+ "name": "ELLA Bar & Bistro", 
+ "phone": "+66-76-7850996", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "11:00-23:00", 
+ "shop_id": 1110, 
+ "address": "Thaweewong路Permpongpattana巷邮局巷子100/19-20号", 
+ "city_name": "普吉岛", 
+ "lng": "98.29522862", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.899666832965644", 
+ "name": "Ban Marksong", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1111, 
+ "address": "Kathu,ตำบลกะทู้,ภูเก็ต83120,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.35019788958682", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.886759", 
+ "name": "Grizzly&apos;s Sports Bar", 
+ "phone": "+66 76 322 166", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1112, 
+ "address": "7/9Moo6,VichitSongkramRoad,Kathu,Phuket83120,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.374077", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 2.0, 
+ "lat": "8.091233", 
+ "name": "Sun Set Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1113, 
+ "address": "NaiYangBeachRoad,NaiYang,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.298759", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.905998", 
+ "name": "Le Versace", 
+ "phone": "+66-76-76 346 005", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1114, 
+ "address": "普吉岛芭东海滩Prabaramee路206/5-6号", 
+ "city_name": "普吉岛", 
+ "lng": "98.301704", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.894276", 
+ "name": "Suzy Wong&apos;s Saloon", 
+ "phone": "+66-76-4764700", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1115, 
+ "address": "โรงแรมป่าตองบีชลอร์จเทศบาลนครภูเก็ตจังหวัดภูเก็ตไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.296812", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.89378", 
+ "name": "Monjo-Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1116, 
+ "address": "23/8Soi-Seadragon,Patong,Kathu,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.29718", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.8938", 
+ "name": "Red Hot Club", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1117, 
+ "address": "86BanglaRoad,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.296028", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.849764", 
+ "name": "Chicken Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1118, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.294925", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "8.034448", 
+ "name": "海滩屋运动酒吧", 
+ "phone": "+66-76-842426952", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1119, 
+ "address": "普吉岛卡图地区芭东地区那乃路103号", 
+ "city_name": "普吉岛", 
+ "lng": "98.33573", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.979008", 
+ "name": "Blue Marlin Restaurant & Bar", 
+ "phone": "+66 89 909 0588", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1120, 
+ "address": "14/1Moo3ChoengThalae|SurinBeach,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.280067", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.987635", 
+ "name": "Drift Beach Bar", 
+ "phone": "+66 76 314 361", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1121, 
+ "address": "ArinaraBangtaoBeachResort,ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.289037", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.80326", 
+ "name": "Small Place", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1122, 
+ "address": "Moo8SakdideshRoad,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.409187", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.917423870294685", 
+ "name": "Lima rock", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1123, 
+ "address": "KalimaResort&Spa,ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.2845399303556", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.834113553046555", 
+ "name": "Karma lounge", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1124, 
+ "address": "ตำบลกะรน,ภูเก็ต83100,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29849653559252", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.81736", 
+ "name": "Club 44", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1125, 
+ "address": "Kata(offKataRoad),ตำบลกะรน,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.30126", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.902939", 
+ "name": "Tai Pan Disco", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1126, 
+ "address": "Rat-U-ThitRd,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.298813", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.883393759441982", 
+ "name": "Lawoe Club", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1127, 
+ "address": "Patong,ตำบลกะทู้,ภูเก็ต83150,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29482793807983", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.8063", 
+ "name": "Russell Sunset Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1128, 
+ "address": "SoiAonui,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.407318", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.887293", 
+ "name": "at surakul Be Local Be In Style", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1129, 
+ "address": "Wichit,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.368171", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.889634239714438", 
+ "name": "Full Moon", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1130, 
+ "address": "ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.2966255241974", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.892662677899589", 
+ "name": "Stumble In Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1131, 
+ "address": "Sansabai,PaTong,Kathu,Phuket83150,ตำบลกะทู้,ภูเก็ต83150,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.30021256190054", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.899480498732488", 
+ "name": "Baramee Resortel", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1132, 
+ "address": "ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.30011098914252", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.815735206605009", 
+ "name": "The Griffin Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1133, 
+ "address": "KoktanodeRoad,KataBeach,Karon,MueangPhuket,ภูเก็ต,ภูเก็ต83100,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.30161855702109", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.887826", 
+ "name": "Phuket Bar", 
+ "phone": "076340301-2", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1134, 
+ "address": "124GFloorPatongBeachHotelThawiwongRoadPatongSubdistrictKatooDistrict,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.390678", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Seduction Beach Club and Disco", 
+ "phone": "+66 76 343 173", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1135, 
+ "address": "70/1SoiBangla,RattU-Thit200PeeRoad|PatongBeach,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.831785364522743", 
+ "name": "Yodsane Sauna & Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1136, 
+ "address": "SoiYodsane,Chalong,ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.33072811313616", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.824374141341158", 
+ "name": "snacks &cocktails;", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1137, 
+ "address": "HomeProVillaMarket(ChalongChowFhaTawanook),ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.33947283498873", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.870607", 
+ "name": "Garden Villa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1138, 
+ "address": "35/355ChaoFaGardenHome,ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.351689", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "8.090324", 
+ "name": "SandBar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1139, 
+ "address": "NaiYangBeach,ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.298632", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.827508", 
+ "name": "运动酒吧", 
+ "phone": "085 470 7073", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "8AM-2AM", 
+ "shop_id": 1140, 
+ "address": "普吉岛卡隆地区泰纳路11号", 
+ "city_name": "普吉岛", 
+ "lng": "98.299372", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.892436753346772", 
+ "name": "Hell Boy Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1141, 
+ "address": "ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29703714264691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.886731", 
+ "name": "Barcode Phuket Patong", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1142, 
+ "address": "32/3Prachanukhro|FuturePlaza,Patong,Kathu,Phuket83130,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.291725", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.887018", 
+ "name": "Blue Coral Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1143, 
+ "address": "หาดป่าตอง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.291513", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.824859383278617", 
+ "name": "Orchid Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1144, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29744341764672", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.8984451800639475", 
+ "name": "Civilian The Reggae Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1145, 
+ "address": "ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29763051872548", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.898096", 
+ "name": "WS Patong Beach Jiok Jiok Club", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1146, 
+ "address": "Chuwong1PhuketPaTong‎83150Thailand,PaTong,ภูเก็ต83150,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.301362", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.89096127947434", 
+ "name": "Pupe Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1147, 
+ "address": "ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.30178963049237", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.813736", 
+ "name": "Kata Night Bazaar Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1148, 
+ "address": "KataBeachPhuketThailand83100,Thailand‎", 
+ "city_name": "普吉岛", 
+ "lng": "98.298347", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.886436", 
+ "name": "DuZz", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1149, 
+ "address": "TalatYai,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.387347", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.882789", 
+ "name": "迈克尔 酒吧", 
+ "phone": "076 256 562", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1150, 
+ "address": "普吉岛直辖镇达瓜巴路12号", 
+ "city_name": "普吉岛", 
+ "lng": "98.388319", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.887826", 
+ "name": "Infinity Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1151, 
+ "address": "AnantaraPhuketResort&SpaBuilding,MaiKhaoSubdistrict,ThalangDistrict.,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.390678", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.882525", 
+ "name": "Angel Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1152, 
+ "address": "MueangPhuketDistrict,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.390991", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.973514730680522", 
+ "name": "Burger Bar & Beach Club", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1153, 
+ "address": "SurinBeach,ถลาง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.278999", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.953456", 
+ "name": "white bar", 
+ "phone": "+66 89 592 6059", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1154, 
+ "address": "Thailand(Kamala),ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.287046", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.796049", 
+ "name": "Phuket Dance Studio", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1155, 
+ "address": "84/10SoiMangosteen,SaiyuanRd,PhuketTown,Phuket83130,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.326195", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.791211302658167", 
+ "name": "Baan Sabai", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1156, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.31731619271136", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.86361", 
+ "name": "NB Drinking Water", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1157, 
+ "address": "ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.359207", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.894", 
+ "name": "scopion bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1158, 
+ "address": "soicrocodile(banglard),หาดป่าตอง,ภูเก็ต83150,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.2963", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.822351902930515", 
+ "name": "Sabai Sabai Thai Cooking School & Restaurant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1159, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.33710871690724", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.894258", 
+ "name": "Island Bar", 
+ "phone": "+66 84 379 6654", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1160, 
+ "address": "SoiFreedom1,BanglaRoad,Patong,Kathu,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.296661", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "8.088517", 
+ "name": "Bill Bentleys", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1161, 
+ "address": "phuketintlairport,ถลาง,ภูเก็ต83110,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.3031461", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.893995", 
+ "name": "Tweety Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1162, 
+ "address": "Patong,ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.296312", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "8.057900353394684", 
+ "name": "Coconut Tree Beach Bar & Restaurant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1163, 
+ "address": "NaithonBeach,ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.2779019792188", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.904249", 
+ "name": "Craft Beer Bar", 
+ "phone": "+66 76 231 999", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1164, 
+ "address": "1SoiRatuthit200Pi2,Ratuthit200PiRoad|AtGrandMercurePhuketPatong,Patong,Kathu,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.300934", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.847850545740181", 
+ "name": "Kat Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1165, 
+ "address": "ตำบลกะรน,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29783900334166", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.895746", 
+ "name": "Spartacus", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1166, 
+ "address": "ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.299717", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.896678087119774", 
+ "name": "Starfish", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1167, 
+ "address": "หาดป่าตอง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.30053866485484", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.893022", 
+ "name": "Bliss Lounge + Massage & Spa", 
+ "phone": "66805203612", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1168, 
+ "address": "58/6BanglaRoad,Patong,Kathu,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.296745", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.893367", 
+ "name": "Phuket Entertainment Group Co Ltd.", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1169, 
+ "address": "37BanglaRoad,Patong,Kathu,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.297813", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "8.156776", 
+ "name": "Blue Lotus Pub & Restuarant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1170, 
+ "address": "12/39Moo1VisetRd|NaiHarnBeach,Rawaisubdistrict,NaiHarn,PhuketTown,Phuket83130,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.310623", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.893532629269659", 
+ "name": "Chokdee Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1171, 
+ "address": "RatUThitRd,หาดป่าตอง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.2986729476778", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.814122581154685", 
+ "name": "Escape Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1172, 
+ "address": "ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29825062853864", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Cocktails & Dreams", 
+ "phone": "+66-76-83 5974001", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1173, 
+ "address": "HappyRoad|SoiBangla,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.919824", 
+ "name": "Mayden&apos;s Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1174, 
+ "address": "10/36Moo6KamalaSubdistrict,Kathu,Phuket83120,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.331688", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.903583853365256", 
+ "name": "Mm", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1175, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.3883712920336", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.90024", 
+ "name": "Kata Beer Garden", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1176, 
+ "address": "TalatYai,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.380283", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.887103", 
+ "name": "Glastnost", 
+ "phone": "+66-76-40580288", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1177, 
+ "address": "14SoiRommani", 
+ "city_name": "普吉岛", 
+ "lng": "98.387286", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.899011343465068", 
+ "name": "AbuDhabi Restaurant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1178, 
+ "address": "ข้างโรงแรมหมากสงแยกเก๊ตโฮ้,ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.35205955287442", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.918059", 
+ "name": "The Secret Cove", 
+ "phone": "66856366865", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1179, 
+ "address": "AoYonBeach,Phuket81000,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.346466", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.784975963886344", 
+ "name": "The Cafe&apos; Racer Club", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1180, 
+ "address": "ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.32976545437954", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.886386", 
+ "name": "Wonderland Phuket", 
+ "phone": "+(66)860241907", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1181, 
+ "address": "104YaowarajRoad|BanTalatYai,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.387711", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.954095", 
+ "name": "Kamala Lawn Bowls", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1182, 
+ "address": "ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.289867", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.876679", 
+ "name": "Vinyl Cafe", 
+ "phone": "+66-76-076 264675", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1183, 
+ "address": "23/14ChaoFaEastRoad,PhuketTown,Phuket83000,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.379662", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.794507", 
+ "name": "Laguna Rawai Plaza", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1184, 
+ "address": "178/15Moo2,VisetRoad,PhuketTown,Phuket83130,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.33181", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.985476", 
+ "name": "Loy Krathong Bar", 
+ "phone": "+66 76 324 101", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1185, 
+ "address": "10Moo4,SrisoonthornRd.|AngsanaLagunaPhuket,ChoengThale,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.301926", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.884115695953369", 
+ "name": "champs bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1186, 
+ "address": "NanaiRd(Patong),ตำบลกะทู้,ภูเก็ต83150,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.30191040039062", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.778482", 
+ "name": "Enigma Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1187, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.32842", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.93485229879303", 
+ "name": "Tin Mine Restaurant by The Escape De Phuket", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1188, 
+ "address": "EscapeDePhuket,ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.38150463064196", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.918744", 
+ "name": "The Blue Room Sports Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1189, 
+ "address": "SoiSaiyuan1,PhuketTown,Phuket83130,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.383636", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.828505", 
+ "name": "Zugar Bar & Kitchen", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1190, 
+ "address": "Karon,MueangPhuketDistrict,Karon,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.300964", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.774986570272656", 
+ "name": "Monkey House", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1191, 
+ "address": "SoiTaveesaman,ราไวย์,ภูเก็ต83130,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.3182893844612", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.977651723935687", 
+ "name": "Bree En Shauny&apos;s Partyroom", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1192, 
+ "address": "ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.28157896707462", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.89378", 
+ "name": "Pirates Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1193, 
+ "address": "BanglaRoad(SoiCrocodile),หาดป่าตอง,ภูเก็ต83150,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.296471", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.783707", 
+ "name": "奈哈林拳击俱乐部", 
+ "phone": "083-3167589", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1194, 
+ "address": "普吉岛拉崴地区奈函海滩路90/6号", 
+ "city_name": "普吉岛", 
+ "lng": "98.317551", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.821868", 
+ "name": "Australia Bar & Grill", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1195, 
+ "address": "100/12-13KataRoad,KataBeach,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.296677", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.821999", 
+ "name": "Naga Sala", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1196, 
+ "address": "ChalongportRd.,เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.341137", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.827882170677185", 
+ "name": "Jungle Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1197, 
+ "address": "TainaRd,ตำบลกะรน,ภูเก็ต83100,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.2999187707901", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.902939", 
+ "name": "Hemingway&apos;s Pub & Restaurant", 
+ "phone": "076366200-3", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1198, 
+ "address": "188/17-20PhangmuangSaiKorRoad,(Saisam),KathuDistrict|NearJungceylonShoppingCenterPatong,Patong,Kathu,Phuket83120,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.298813", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.902939", 
+ "name": "Le Patong Pub and Karaoke", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1199, 
+ "address": "LeMeridienPhuketBeachResort|29SoiKaronNui,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.298813", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.828202452266535", 
+ "name": "Tuk&apos;s Bike Shop", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1200, 
+ "address": "Kata,ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.3003836321237", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.902939", 
+ "name": "Moulin Rouge", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1201, 
+ "address": "Soi1BanglaRoad,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.298813", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.904244", 
+ "name": "Australia 1 Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1202, 
+ "address": "B3/12OtopShopping,Rat-U-Thit200PeeRd,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.301071", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.885286084286165", 
+ "name": "Angry Babes", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1203, 
+ "address": "ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29760987522153", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.886994", 
+ "name": "DURTY MUNGER&apos;S BAR", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1204, 
+ "address": "ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.291478", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.845535", 
+ "name": "Bar With No Name", 
+ "phone": "+66-76-937730274", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1205, 
+ "address": "538PatakRoad,Karon,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.298965", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.902939", 
+ "name": "Hollywood Patong", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1206, 
+ "address": "7SoiEasy,BanglaRd,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.298813", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.902939", 
+ "name": "The Drunken Clam", 
+ "phone": "+(66)0612472035", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1207, 
+ "address": "RatUThit200PeeRoad|OTOPShoppingPlaza,Patong,Kathu,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.298813", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.887082", 
+ "name": "Cockatoo Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1208, 
+ "address": "OtopMarkets,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.295692", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.851556", 
+ "name": "Newfriend bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1209, 
+ "address": "631,PatakRoad,KaronBeach,MueangPhuket,Phuket,83100,Karon,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.295036", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.893418", 
+ "name": "Lucky7", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1210, 
+ "address": "PaTong,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.297765", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.846647", 
+ "name": "Sharkys Bar", 
+ "phone": "+(66)083127711693", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1211, 
+ "address": "SoiTiger|Bangalard,Patong,Kathu,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.292191", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.893523327905569", 
+ "name": "the 19th hole pub&res.;", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1212, 
+ "address": "bang-lawalkingstreet(บางลา),ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.2979940307446", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.8472474420982365", 
+ "name": "Bemboo Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1213, 
+ "address": "Rawai,ภูเก็ต,ภูเก็ต83000,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29456746628462", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.849017869296426", 
+ "name": "Original VW BAR since 1999", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1214, 
+ "address": "KaronBeach,เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29342887701564", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.893551", 
+ "name": "Atlas Hotel & Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1215, 
+ "address": "232/1-2PhangMuangRoad,PatongBeach,PaTong,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.301743", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.89395", 
+ "name": "Pepelopez", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1216, 
+ "address": "ThanonRatuthitsongroipi,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.298553", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.893209403731463", 
+ "name": "Lone Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1217, 
+ "address": "BanglaRoad,PaTong,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29802075963998", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.891372585569162", 
+ "name": "No Money No Honey Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1218, 
+ "address": "ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29751825802148", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.893413", 
+ "name": "Captain Kirk&apos;s Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1219, 
+ "address": "Banglaroad,PaTong,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.298107", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.890237", 
+ "name": "Sin City Bar", 
+ "phone": "+66-76-869436574", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1220, 
+ "address": "SoiTiger,BanglaRoad,Patong,Kathu,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.298851", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.816225", 
+ "name": "Cocktail Take Away", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1221, 
+ "address": "ตำบลกะรน,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.300679", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.81381", 
+ "name": "Reggae music and station", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1222, 
+ "address": "ตำบลกะรน,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.298356", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.816218623515567", 
+ "name": "Yellow Trunk", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1223, 
+ "address": "22KataRoad,ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.30087011523084", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.890747", 
+ "name": "ABSOLUTE CEYLON PUB @ JUNGCEYLON", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1224, 
+ "address": "PaTong,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.30083", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.83369", 
+ "name": "Titty Twister Patong", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1225, 
+ "address": "30,BanglaRoad,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.306267", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.887826", 
+ "name": "Sabye Beach Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1226, 
+ "address": "7/26Moo3,inthefrontbythebeach,BanRayaResortandSpa,RassadaNusornRoad,RassadaSubdistrict,MueangPhuketDistrict.,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.390678", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.902939", 
+ "name": "Honky Tonk Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1227, 
+ "address": "BanglaRd,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.298813", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.830271757401807", 
+ "name": "Freedom Bar, Rawaii", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1228, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.30293904062468", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.89373495218461", 
+ "name": "Butterfly Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1229, 
+ "address": "BanglaRd,หาดป่าตอง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29681796890188", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.895746", 
+ "name": "Knud&apos;s Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1230, 
+ "address": "ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.299717", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.794507", 
+ "name": "Aussie Pub Rawai Co.,Ltd", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1231, 
+ "address": "5/8Moo6WisetRd,PhuketTown,Phuket83110,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.33181", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.887826", 
+ "name": "Dirty Monstera - Wine bar and Live music in Phuket", 
+ "phone": "+66 76 327 006", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1232, 
+ "address": "116Moo1,TambonSakoo,AmphurTalang,|IndigoPearlResort,PhuketTown,Phuket83110,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.390678", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.893797892926255", 
+ "name": "Malibu Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1233, 
+ "address": "BanglaRd.,หาดป่าตอง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29639434814452", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.943891", 
+ "name": "White Sun Bar", 
+ "phone": "+66-76-837266262", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1234, 
+ "address": "121Moo.3BeachRoad,Kamala,Kathu,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.288986", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.779565", 
+ "name": "Manhattan Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1235, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.329053", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.977588065239048", 
+ "name": "Kafana kod Debelog", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1236, 
+ "address": "SuringateHotel,ภูเก็ต,ภูเก็ต83000,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.28713220674516", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.893541", 
+ "name": "Tazmania Pool Lounge", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1237, 
+ "address": "31BanglaRoad,Patong,Kathu,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.296783", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.887826", 
+ "name": "Aqua Pool Bar", 
+ "phone": "+(66)76338000", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1238, 
+ "address": "231Moo3MaiKhaoBeach|Thalang,PhuketTown,Phuket83110,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.390678", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.900001664644167", 
+ "name": "Ton Soul", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1239, 
+ "address": "TalatYai,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.38215219993326", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.902939", 
+ "name": "Por&apos;s Harbour Bar and Grill", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1240, 
+ "address": "OtopShoppingArea,Patong,Kathu,PhuketPhuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.298813", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.821105724227804", 
+ "name": "Coconut Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1241, 
+ "address": "บ้านฉลอง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.34260193045525", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.918059", 
+ "name": "摇滚城市", 
+ "phone": "66 78 855 101", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1242, 
+ "address": "Rat-U-ThitRoad|PatongBeach,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.346466", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.943891", 
+ "name": "Vanilla Sky Bar&Lounge;", 
+ "phone": "+66 76 337 300", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1243, 
+ "address": "18/40Moo6,NakalayRoad,Kamala,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.288986", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.887826", 
+ "name": "Dilligaf Garden Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1244, 
+ "address": "83/21Moo2SoiHua-PruViseteRoad|Rawai,PhuketTown,Phuket83130,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.390678", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.887826", 
+ "name": "Chai Nam Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1245, 
+ "address": "323,LobbyLevel,LagunaBeachResort,SriSuntornRoad,ChoengTalaySubdistrict,ThalangDistrict.,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.390678", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.887826", 
+ "name": "Captain Bar", 
+ "phone": "+66-76-76212866", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1246, 
+ "address": "158/1YaowaRajRoad,TaladYaiSubdistrict,MueangPhuketDistrict.,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.390678", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.800820915372125", 
+ "name": "East 88 Beach Lounge", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": ""Mon–Sun:7:00AM–Midnight"", 
+ "shop_id": 1247, 
+ "address": "SerenityResort(14Moo5),ราไวย์,ภูเก็ต83130,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.3374670738608", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.887826", 
+ "name": "Ron Gfin Pub", 
+ "phone": "+66-76-76211333", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1248, 
+ "address": "74(infrontof)TavornHotel,RassadaRoad,,TalatYaiSubdistrict,MueangPhuketDistrict,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.390678", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.887329", 
+ "name": "Mickey&apos;s bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1249, 
+ "address": "ThanonNanai,PaTong,ภูเก็ต83150,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.30319", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.902939", 
+ "name": "Honky Tonk Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1250, 
+ "address": "BanglaRd,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.298813", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.830271757401807", 
+ "name": "Freedom Bar, Rawaii", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1251, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.30293904062468", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.89373495218461", 
+ "name": "Butterfly Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1252, 
+ "address": "BanglaRd,หาดป่าตอง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29681796890188", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.895746", 
+ "name": "Knud&apos;s Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1253, 
+ "address": "ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.299717", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.794507", 
+ "name": "Aussie Pub Rawai Co.,Ltd", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1254, 
+ "address": "5/8Moo6WisetRd,PhuketTown,Phuket83110,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.33181", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.887826", 
+ "name": "Dirty Monstera - Wine bar and Live music in Phuket", 
+ "phone": "+66 76 327 006", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1255, 
+ "address": "116Moo1,TambonSakoo,AmphurTalang,|IndigoPearlResort,PhuketTown,Phuket83110,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.390678", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.893797892926255", 
+ "name": "Malibu Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1256, 
+ "address": "BanglaRd.,หาดป่าตอง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29639434814452", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.943891", 
+ "name": "White Sun Bar", 
+ "phone": "+66-76-837266262", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1257, 
+ "address": "121Moo.3BeachRoad,Kamala,Kathu,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.288986", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.779565", 
+ "name": "Manhattan Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1258, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.329053", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.977588065239048", 
+ "name": "Kafana kod Debelog", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1259, 
+ "address": "SuringateHotel,ภูเก็ต,ภูเก็ต83000,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.28713220674516", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.893541", 
+ "name": "Tazmania Pool Lounge", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1260, 
+ "address": "31BanglaRoad,Patong,Kathu,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.296783", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.887826", 
+ "name": "Aqua Pool Bar", 
+ "phone": "+(66)76338000", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1261, 
+ "address": "231Moo3MaiKhaoBeach|Thalang,PhuketTown,Phuket83110,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.390678", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.900001664644167", 
+ "name": "Ton Soul", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1262, 
+ "address": "TalatYai,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.38215219993326", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.902939", 
+ "name": "Por&apos;s Harbour Bar and Grill", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1263, 
+ "address": "OtopShoppingArea,Patong,Kathu,PhuketPhuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.298813", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.821105724227804", 
+ "name": "Coconut Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1264, 
+ "address": "บ้านฉลอง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.34260193045525", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "暹罗海滩酒吧", 
+ "phone": "87 888 1921", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1265, 
+ "address": "普吉岛NaiYang地区塔朗地区3区66/2号", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.821868", 
+ "name": "Sea Shell Bar", 
+ "phone": "66 76 333-568", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1266, 
+ "address": "12KataNoiRoad|MomTri&apos;sVillaRoyale,KataBeach,Phuket83100,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.296677", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Aussie Bar", 
+ "phone": "(0) 8-48478469", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1267, 
+ "address": "9/1BanglaRd,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.902939", 
+ "name": "Bella Vita Ristorante E Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1268, 
+ "address": "TaweewongRoadPatongBeach|BananaWalkMallPatong,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.298813", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.87162", 
+ "name": "The Level Pub & Restaurant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1269, 
+ "address": "445/1PhuketRoad,TaladYaiSubdistrict,MueangPhuketDistrict.,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.393913", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Bar Funk 3", 
+ "phone": "+66 85 159 0597", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1270, 
+ "address": "SoiTiger1|BanglaRoad,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.902939", 
+ "name": "Oatto Bar", 
+ "phone": "+66 86 743 9385", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1271, 
+ "address": "PhangMueangSaiKorRoad,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.298813", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.88222871264988", 
+ "name": "Suatalay Hang Out", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1272, 
+ "address": "50PeeRd.,หาดป่าตอง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.3068845934259", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.892163822207808", 
+ "name": "Bellagio", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1273, 
+ "address": "Patong,ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29778019992894", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.887826", 
+ "name": "The Roof Bar", 
+ "phone": "076271261-4", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1274, 
+ "address": "106/52BenyadaLodgeHotel,SriSuntornRoad,CherngTalaySubdistrict,ThalangDistrict.,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.390678", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.893125", 
+ "name": "Jaguar Bar & Ice Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1275, 
+ "address": "ThanonBangla,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.296692", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.883325", 
+ "name": "Zimplex Bar", 
+ "phone": "084 003 6664", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1276, 
+ "address": "156/48PangngaRd.|TalatYaiSubdistrict,PhuketTown,Phuket83000,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.393623", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.849104992828877", 
+ "name": "Absolut Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1277, 
+ "address": "CentaraKaronResortPhuket,ตำบลกะรน,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29606423000044", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.779255757869193", 
+ "name": "Candy Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1278, 
+ "address": "RawaiBeach,ราไวย์,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.32672781303349", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Karon Aussie Bar", 
+ "phone": "+66-76-918305526", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1279, 
+ "address": "PatakRoad,SoiOneMan,Karon,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Lilly&apos;s Aussie Bar", 
+ "phone": "+66-76-888215991", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1280, 
+ "address": "LocatedinroadoppositeHardRockCafe,50meterswalklefthandside.,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.882525", 
+ "name": "Hollywood Cafe", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1281, 
+ "address": "MueangPhuketDistrict.,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.390991", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.910639047622681", 
+ "name": "Rivergarden", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1282, 
+ "address": "PrachaUthit1Rd,Ratsada,ภูเก็ต83000,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.37131917476654", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.887329", 
+ "name": "Mickey&apos;s bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1283, 
+ "address": "ThanonNanai,PaTong,ภูเก็ต83150,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.30319", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.799875", 
+ "name": "Wet Dreams Bar", 
+ "phone": "+(66)896511611", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1284, 
+ "address": "SoiTiger,BanglaRoad,Patongbeach,Kathu,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.318817", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.893795", 
+ "name": "Rock In Dice Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1285, 
+ "address": "SoiSeaDragon,หาดป่าตอง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.296804", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.900378717520106", 
+ "name": "Lullaby (ลัลลาบาย)(ลัลลาบาย)", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1286, 
+ "address": "HongyokUtisRd,เมืองภูเก็ต,ภูเก็ต83000,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.3805486559868", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.779672", 
+ "name": "Green Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1287, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.329053", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.943983", 
+ "name": "Sunset Grill", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1288, 
+ "address": "6/12Moo6,TambonKamala,Kamala,Kathu,Phuket83150,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.288376", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "8.034133", 
+ "name": "Relax Live Music", 
+ "phone": "080 390 9498", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1289, 
+ "address": "63/4Moo5,ThepkasattriRoad|SiSoontorn,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.333069", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.85881441765196", 
+ "name": "Ann", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1290, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.35161018160822", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.781805023452675", 
+ "name": "Kraitar Rawai", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1291, 
+ "address": "78/16Moo2(Wisetroad),ราไวย์,ภูเก็ต83130,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.3237598152461", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.9519331", 
+ "name": "Moon Club Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1292, 
+ "address": "普吉岛", 
+ "city_name": "普吉岛", 
+ "lng": "98.3380884", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "潮州酒吧", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1293, 
+ "address": "潮州庵埠", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Gig&apos;s Jam Club", 
+ "phone": "+66 81 607 9467", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1294, 
+ "address": "49/40Moo7,Rawai,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.975824", 
+ "name": "The Quarter Phuket", 
+ "phone": "+66 76 521 693", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1295, 
+ "address": "92/5Moo3,ถลาง,ภูเก็ต83110,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.283599", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.860543820384962", 
+ "name": "Italasia Group - Phuket Branch", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1296, 
+ "address": "ภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.35404965825212", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Star Bar", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1297, 
+ "address": "SoiCrocodile|OffBanglaRoadPatongBeach,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.885359", 
+ "name": "P&J; Drinking Shop", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1298, 
+ "address": "เมืองภูเก็ต,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.393168", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "暹罗海滩酒吧", 
+ "phone": "87 888 1921", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1299, 
+ "address": "普吉岛NaiYang地区塔朗地区3区66/2号", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Bar Funk 3", 
+ "phone": "+66 85 159 0597", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1300, 
+ "address": "SoiTiger1|BanglaRoad,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.821868", 
+ "name": "Sea Shell Bar", 
+ "phone": "66 76 333-568", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1301, 
+ "address": "12KataNoiRoad|MomTri&apos;sVillaRoyale,KataBeach,Phuket83100,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.296677", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Aussie Bar", 
+ "phone": "(0) 8-48478469", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1302, 
+ "address": "9/1BanglaRd,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.902939", 
+ "name": "Oatto Bar", 
+ "phone": "+66 86 743 9385", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1303, 
+ "address": "PhangMueangSaiKorRoad,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.298813", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.88222871264988", 
+ "name": "Suatalay Hang Out", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1304, 
+ "address": "50PeeRd.,หาดป่าตอง,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.3068845934259", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.892163822207808", 
+ "name": "Bellagio", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1305, 
+ "address": "Patong,ตำบลกะทู้,ภูเก็ต,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.29778019992894", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.902939", 
+ "name": "Bella Vita Ristorante E Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1306, 
+ "address": "TaweewongRoadPatongBeach|BananaWalkMallPatong,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.298813", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.87162", 
+ "name": "The Level Pub & Restaurant", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1307, 
+ "address": "445/1PhuketRoad,TaladYaiSubdistrict,MueangPhuketDistrict.,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.393913", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.883549", 
+ "name": "The Route", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1308, 
+ "address": "165PhangNgaRoad,TalatYai,PhuketTown,Phuket830000,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.393059", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.887826", 
+ "name": "Mon Li Mon Lon Islish Pub", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1309, 
+ "address": "KathuDistrict.,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.390678", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Karon Aussie Bar", 
+ "phone": "+66-76-918305526", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1310, 
+ "address": "PatakRoad,SoiOneMan,Karon,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Lilly&apos;s Aussie Bar", 
+ "phone": "+66-76-888215991", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1311, 
+ "address": "LocatedinroadoppositeHardRockCafe,50meterswalklefthandside.,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.882525", 
+ "name": "Hollywood Cafe", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1312, 
+ "address": "MueangPhuketDistrict.,PhuketTown,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.390991", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "7.910639047622681", 
+ "name": "Rivergarden", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1313, 
+ "address": "PrachaUthit1Rd,Ratsada,ภูเก็ต83000,ประเทศไทย", 
+ "city_name": "普吉岛", 
+ "lng": "98.37131917476654", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "老城往事啤酒广场", 
+ "phone": "0451.86708228", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "每天10:00-24:00", 
+ "shop_id": 1314, 
+ "address": "南岗区文成街7号与文林街交口", 
+ "city_name": "普吉岛", 
+ "lng": "0.0", 
+ "category_id": 1
+}

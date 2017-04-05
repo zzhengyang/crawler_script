@@ -1,0 +1,345 @@
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "7.879973", 
+ "name": "西蒙人妖秀", 
+ "phone": "+66-76-342011", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "18:00-22:30", 
+ "shop_id": 1000, 
+ "address": "8SirirachRd.PatongBeach,Kathu", 
+ "city_name": "普吉岛", 
+ "lng": "98.29319", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "7.909506", 
+ "name": "西蒙之星人妖秀", 
+ "phone": "+66-76-5231926", 
+ "city_id": "2", 
+ "avgprice": 55, 
+ "office_hours": "SimonStarShow", 
+ "shop_id": 1001, 
+ "address": "52/11Moo6,Rassada,PhuketTown(芭东滩滩和卡伦海滩中间)", 
+ "city_name": "普吉岛", 
+ "lng": "98.380359", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.903489", 
+ "name": "阿佛洛狄忒人妖歌舞秀", 
+ "phone": "+66-76-6676612888", 
+ "city_id": "2", 
+ "avgprice": 221, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1002, 
+ "address": "普吉岛ChaloemPhrakiatRatchakan氏9路1区99/100号", 
+ "city_name": "普吉岛", 
+ "lng": "98.36714", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.882237513155267", 
+ "name": "Home Dining cafe and lounge", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "每天08:00-24:00", 
+ "shop_id": 1003, 
+ "address": "ThanonPrachanukhro", 
+ "city_name": "普吉岛", 
+ "lng": "98.29331712718442", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.878829", 
+ "name": "腰果店", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1004, 
+ "address": "人妖馆后面", 
+ "city_name": "普吉岛", 
+ "lng": "98.292095", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.002728458322254793", 
+ "name": "中国东北手工水饺", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "11:00-22:30周一至周日", 
+ "shop_id": 1005, 
+ "address": "班赞市场和江西冷往西蒙人妖秀方向步行十分钟，江西冷同排，0868142666（江西冷班赞希拉兰纳塔纳湾左边D1右边PKL酒店）", 
+ "city_name": "普吉岛", 
+ "lng": "0.015498497079753525", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.881523", 
+ "name": "So Thai Spa", 
+ "phone": "+66-76-5688876", 
+ "city_id": "2", 
+ "avgprice": 128, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1006, 
+ "address": "34/50-57PrachanukhroRoad,CitinPlazaHotel,Patong,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.292605", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.879", 
+ "name": "Simon Star Show Phuket", 
+ "phone": "(076) 523 192-6", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1007, 
+ "address": "52/11Moo6,Rassada,PhuketTown,Phuket83000,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.291832", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.87961", 
+ "name": "Plek Restaurant Seafood & Thaifood", 
+ "phone": "+66-76-3958288", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1008, 
+ "address": "7,7/1SiriratRoadAmpherKathuPatongPhuket,Patong,83159,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.292649", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "7.879973", 
+ "name": "西蒙人妖秀", 
+ "phone": "+66-76-342011", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "18:00-22:30", 
+ "shop_id": 1009, 
+ "address": "8SirirachRd.PatongBeach,Kathu", 
+ "city_name": "普吉岛", 
+ "lng": "98.29319", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "7.909506", 
+ "name": "西蒙之星人妖秀", 
+ "phone": "+66-76-5231926", 
+ "city_id": "2", 
+ "avgprice": 55, 
+ "office_hours": "SimonStarShow", 
+ "shop_id": 1010, 
+ "address": "52/11Moo6,Rassada,PhuketTown(芭东滩滩和卡伦海滩中间)", 
+ "city_name": "普吉岛", 
+ "lng": "98.380359", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.903489", 
+ "name": "阿佛洛狄忒人妖歌舞秀", 
+ "phone": "+66-76-6676612888", 
+ "city_id": "2", 
+ "avgprice": 221, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1011, 
+ "address": "普吉岛ChaloemPhrakiatRatchakan氏9路1区99/100号", 
+ "city_name": "普吉岛", 
+ "lng": "98.36714", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.882237513155267", 
+ "name": "Home Dining cafe and lounge", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "每天08:00-24:00", 
+ "shop_id": 1012, 
+ "address": "ThanonPrachanukhro", 
+ "city_name": "普吉岛", 
+ "lng": "98.29331712718442", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "7.878829", 
+ "name": "腰果店", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1013, 
+ "address": "人妖馆后面", 
+ "city_name": "普吉岛", 
+ "lng": "98.292095", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.002728458322254793", 
+ "name": "中国东北手工水饺", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "11:00-22:30周一至周日", 
+ "shop_id": 1014, 
+ "address": "班赞市场和江西冷往西蒙人妖秀方向步行十分钟，江西冷同排，0868142666（江西冷班赞希拉兰纳塔纳湾左边D1右边PKL酒店）", 
+ "city_name": "普吉岛", 
+ "lng": "0.015498497079753525", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.881523", 
+ "name": "So Thai Spa", 
+ "phone": "+66-76-5688876", 
+ "city_id": "2", 
+ "avgprice": 128, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1015, 
+ "address": "34/50-57PrachanukhroRoad,CitinPlazaHotel,Patong,Phuket", 
+ "city_name": "普吉岛", 
+ "lng": "98.292605", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.879", 
+ "name": "Simon Star Show Phuket", 
+ "phone": "(076) 523 192-6", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1016, 
+ "address": "52/11Moo6,Rassada,PhuketTown,Phuket83000,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.291832", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.87961", 
+ "name": "Plek Restaurant Seafood & Thaifood", 
+ "phone": "+66-76-3958288", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1017, 
+ "address": "7,7/1SiriratRoadAmpherKathuPatongPhuket,Patong,83159,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.292649", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.881682", 
+ "name": "Trattoria la Casereccia", 
+ "phone": "+66-76-836394509", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1018, 
+ "address": "186A2/1SoiTanPhangmueang,Patong", 
+ "city_name": "普吉岛", 
+ "lng": "98.294441", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "7.877283", 
+ "name": "Soso", 
+ "phone": "090-767-3184", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1019, 
+ "address": "普吉岛卡图地区Sirirat路", 
+ "city_name": "普吉岛", 
+ "lng": "98.290428", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.881151", 
+ "name": "Lemongrass Hotel Patong", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1020, 
+ "address": "2/5SiriratRoad,Patong,Kathu,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.293948", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.877483", 
+ "name": "柠檬草餐厅", 
+ "phone": "+66-76-364720", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "周一-周日07:00-00:00;", 
+ "shop_id": 1021, 
+ "address": "2SiriratRd,Patong,Phuket,Thailand", 
+ "city_name": "普吉岛", 
+ "lng": "98.290441", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "7.881952", 
+ "name": "Mojo", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "8:00am-7:30pm", 
+ "shop_id": 1022, 
+ "address": "普吉岛卡图地区芭东地区PhangMuang路188号", 
+ "city_name": "普吉岛", 
+ "lng": "98.29444", 
+ "category_id": 1
+}

@@ -1,0 +1,345 @@
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "12.949182", 
+ "name": "蒂凡尼人妖秀", 
+ "phone": "+66-38-384217005", 
+ "city_id": "2", 
+ "avgprice": 116, 
+ "office_hours": "Tiffany'sShow", 
+ "shop_id": 1000, 
+ "address": "春武里芭堤雅地区芭堤雅二路9区464号", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88839", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.905462", 
+ "name": "斗兽场人妖秀", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "ColosseumShowPattaya", 
+ "shop_id": 1001, 
+ "address": "229/120Moo12,ThepprasithRoad,Nongprue,泰国‎", 
+ "city_name": "芭堤雅", 
+ "lng": "100.877253", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.943077", 
+ "name": "阿卡莎人妖秀", 
+ "phone": "+66-38-410224", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "AlcazarShow", 
+ "shop_id": 1002, 
+ "address": "78/14Pattaya2Rd.,Pattaya,Chonburi,ChonBuri,20260", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8888017", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.818497", 
+ "name": "东方人妖秀", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1003, 
+ "address": "28/43-44M.2NakualJomtien,Sattaheapdistrict", 
+ "city_name": "芭堤雅", 
+ "lng": "100.924315", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.943127", 
+ "name": "阿克萨人妖秀", 
+ "phone": "+66-38-81 7811703", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "演出场次：18:30、20:00、21:30三场票价：145元左右（旅游网站网购会便一点）普通座位：设在8排以后，离舞台比较远。VIP座位：设在一楼，1-7排，兑票时安排。", 
+ "shop_id": 1004, 
+ "address": "春武里芭堤雅地区第二芭堤雅路78/14号", 
+ "city_name": "芭堤雅", 
+ "lng": "100.888791", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "12.951509", 
+ "name": "Let&apos;s Relax(Pattaya)", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": 250, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1005, 
+ "address": "40,9号Mu5Nakluar,Banglamung,Chonburi", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88754", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "12.9456709", 
+ "name": "Big C", 
+ "phone": "+66-38-3888", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "09:00-23:00", 
+ "shop_id": 1006, 
+ "address": "春武里府芭堤雅地区9区78/54号", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8902692", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "12.943403", 
+ "name": "Hollywood Pattaya", 
+ "phone": "+66-38-424975", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1007, 
+ "address": "78/107Moo7,PhettrakulRd.,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.891985", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "12.934477", 
+ "name": "Shabushi", 
+ "phone": "+66-38-6638043235", 
+ "city_id": "2", 
+ "avgprice": 72, 
+ "office_hours": "11:00-23:00", 
+ "shop_id": 1008, 
+ "address": "333/99-101Moo9,CentralFestivalPattayaBeach,PattayaSaiNuengRoad", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8836297", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "12.949182", 
+ "name": "蒂凡尼人妖秀", 
+ "phone": "+66-38-384217005", 
+ "city_id": "2", 
+ "avgprice": 116, 
+ "office_hours": "Tiffany'sShow", 
+ "shop_id": 1009, 
+ "address": "春武里芭堤雅地区芭堤雅二路9区464号", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88839", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.905462", 
+ "name": "斗兽场人妖秀", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "ColosseumShowPattaya", 
+ "shop_id": 1010, 
+ "address": "229/120Moo12,ThepprasithRoad,Nongprue,泰国‎", 
+ "city_name": "芭堤雅", 
+ "lng": "100.877253", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.943077", 
+ "name": "阿卡莎人妖秀", 
+ "phone": "+66-38-410224", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "AlcazarShow", 
+ "shop_id": 1011, 
+ "address": "78/14Pattaya2Rd.,Pattaya,Chonburi,ChonBuri,20260", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8888017", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.818497", 
+ "name": "东方人妖秀", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1012, 
+ "address": "28/43-44M.2NakualJomtien,Sattaheapdistrict", 
+ "city_name": "芭堤雅", 
+ "lng": "100.924315", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.943127", 
+ "name": "阿克萨人妖秀", 
+ "phone": "+66-38-81 7811703", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "演出场次：18:30、20:00、21:30三场票价：145元左右（旅游网站网购会便一点）普通座位：设在8排以后，离舞台比较远。VIP座位：设在一楼，1-7排，兑票时安排。", 
+ "shop_id": 1013, 
+ "address": "春武里芭堤雅地区第二芭堤雅路78/14号", 
+ "city_name": "芭堤雅", 
+ "lng": "100.888791", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "12.951509", 
+ "name": "Let&apos;s Relax(Pattaya)", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": 250, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1014, 
+ "address": "40,9号Mu5Nakluar,Banglamung,Chonburi", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88754", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "12.9456709", 
+ "name": "Big C", 
+ "phone": "+66-38-3888", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "09:00-23:00", 
+ "shop_id": 1015, 
+ "address": "春武里府芭堤雅地区9区78/54号", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8902692", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "12.943403", 
+ "name": "Hollywood Pattaya", 
+ "phone": "+66-38-424975", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1016, 
+ "address": "78/107Moo7,PhettrakulRd.,Pattaya,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.891985", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "12.934477", 
+ "name": "Shabushi", 
+ "phone": "+66-38-6638043235", 
+ "city_id": "2", 
+ "avgprice": 72, 
+ "office_hours": "11:00-23:00", 
+ "shop_id": 1017, 
+ "address": "333/99-101Moo9,CentralFestivalPattayaBeach,PattayaSaiNuengRoad", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8836297", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.95236", 
+ "name": "Zum Bazi", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1018, 
+ "address": "Moo5,Naklua33,Pattaya20150PattayaNaklua,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.889472", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.946167", 
+ "name": "Heineken Beer Garden", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1019, 
+ "address": "春武里府芭堤雅地区第二路", 
+ "city_name": "芭堤雅", 
+ "lng": "100.889168", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.946325", 
+ "name": "ศิริวรรณ นพรัตน์", 
+ "phone": "+66-38-898330475", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1020, 
+ "address": "20/320,NongPrue,BangLamung", 
+ "city_name": "芭堤雅", 
+ "lng": "100.890153", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.953153", 
+ "name": "สัมฤทธิ์ บูรพา (2002)", 
+ "phone": "+66-38-038-367930", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1021, 
+ "address": "579/30-31ถนนพัทยา-นาเกลือ,NaKluea,BangLamung", 
+ "city_name": "芭堤雅", 
+ "lng": "100.889076", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.946325", 
+ "name": "โฮมมาร์ท เซ็นเตอร์", 
+ "phone": "+66-38-038-274994", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1022, 
+ "address": "234,NongPrue,BangLamung", 
+ "city_name": "芭堤雅", 
+ "lng": "100.890153", 
+ "category_id": 1
+}

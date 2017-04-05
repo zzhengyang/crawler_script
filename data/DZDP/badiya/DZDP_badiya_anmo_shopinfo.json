@@ -1,0 +1,1215 @@
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "12.951509", 
+ "name": "Let&apos;s Relax(Pattaya)", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": 250, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1000, 
+ "address": "40,9号Mu5Nakluar,Banglamung,Chonburi", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88754", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.906179", 
+ "name": "The Oasis Spa", 
+ "phone": "66 (0) 3836 4070", 
+ "city_id": "2", 
+ "avgprice": 708, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1001, 
+ "address": "OasisSpaPattaya:322ChateauDaleResort&Villa,Pattaya,Chonburi", 
+ "city_name": "芭堤雅", 
+ "lng": "100.869716", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.94539", 
+ "name": "Savanna Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": 116, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1002, 
+ "address": "พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8879", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.93515203513384", 
+ "name": "Royal Spa Guinot", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1003, 
+ "address": "GF,CentralFestivalPattayaBeach(BeachRoad),บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8838444652002", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "12.935282", 
+ "name": "P.S.Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1004, 
+ "address": "2ndFloor.P.S.Plaza(TOPSUPERMARKET)CentralPattayaRd.PattayaCity20250", 
+ "city_name": "芭堤雅", 
+ "lng": "100.889039", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.926475599999998", 
+ "name": "SR Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1005, 
+ "address": "27/24PattayaSaiSong,บางละมุง,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.875615225", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.940077", 
+ "name": "fish spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1006, 
+ "address": "ข้างhardrockhotel,NaKluea,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.884343", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.94821701993125", 
+ "name": "Health Cruise", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1007, 
+ "address": "NaKluea,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88936966582696", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.964256", 
+ "name": "Long Beach Garden Hotel & Spa", 
+ "phone": "+66-38-038-414616", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1008, 
+ "address": "88/17-18Moo5,Pattaya-NakluaRd", 
+ "city_name": "芭堤雅", 
+ "lng": "100.886518", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.956382", 
+ "name": "SPA SILAVADEE PATTAYA สปาศิลาวดี", 
+ "phone": "+66-38-038-371447", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1009, 
+ "address": "WongAmat,NaKluea", 
+ "city_name": "芭堤雅", 
+ "lng": "100.887987", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.879999842241377", 
+ "name": "Sea Side Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1010, 
+ "address": "NaKluea,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88321586987466", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.948891", 
+ "name": "Mike Garden Spa", 
+ "phone": "+66-38-038-416622", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1011, 
+ "address": "NaKluea,BangLamung", 
+ "city_name": "芭堤雅", 
+ "lng": "100.895996", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.94319", 
+ "name": "Ayuttaya Baan Suan", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1012, 
+ "address": "Soi5,Pattaya", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8998", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "0.0", 
+ "name": "A Day Spa", 
+ "phone": "+66-818636889", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1013, 
+ "address": "NaKlueaPhraTamnak", 
+ "city_name": "芭堤雅", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.91856163934426", 
+ "name": "ChAnn Spa, Cosy Beach Hotel Pattaya", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1014, 
+ "address": "Phratumnhuk,Pattaya,บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8610144262295", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "12.951509", 
+ "name": "Let&apos;s Relax(Pattaya)", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": 250, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1015, 
+ "address": "40,9号Mu5Nakluar,Banglamung,Chonburi", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88754", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "12.906179", 
+ "name": "The Oasis Spa", 
+ "phone": "66 (0) 3836 4070", 
+ "city_id": "2", 
+ "avgprice": 708, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1016, 
+ "address": "OasisSpaPattaya:322ChateauDaleResort&Villa,Pattaya,Chonburi", 
+ "city_name": "芭堤雅", 
+ "lng": "100.869716", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.94539", 
+ "name": "Savanna Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": 116, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1017, 
+ "address": "พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8879", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.93515203513384", 
+ "name": "Royal Spa Guinot", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1018, 
+ "address": "GF,CentralFestivalPattayaBeach(BeachRoad),บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8838444652002", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "12.935282", 
+ "name": "P.S.Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1019, 
+ "address": "2ndFloor.P.S.Plaza(TOPSUPERMARKET)CentralPattayaRd.PattayaCity20250", 
+ "city_name": "芭堤雅", 
+ "lng": "100.889039", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.926475599999998", 
+ "name": "SR Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1020, 
+ "address": "27/24PattayaSaiSong,บางละมุง,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.875615225", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.940077", 
+ "name": "fish spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1021, 
+ "address": "ข้างhardrockhotel,NaKluea,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.884343", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.94821701993125", 
+ "name": "Health Cruise", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1022, 
+ "address": "NaKluea,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88936966582696", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.964256", 
+ "name": "Long Beach Garden Hotel & Spa", 
+ "phone": "+66-38-038-414616", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1023, 
+ "address": "88/17-18Moo5,Pattaya-NakluaRd", 
+ "city_name": "芭堤雅", 
+ "lng": "100.886518", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.956382", 
+ "name": "SPA SILAVADEE PATTAYA สปาศิลาวดี", 
+ "phone": "+66-38-038-371447", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1024, 
+ "address": "WongAmat,NaKluea", 
+ "city_name": "芭堤雅", 
+ "lng": "100.887987", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.879999842241377", 
+ "name": "Sea Side Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1025, 
+ "address": "NaKluea,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88321586987466", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.948891", 
+ "name": "Mike Garden Spa", 
+ "phone": "+66-38-038-416622", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1026, 
+ "address": "NaKluea,BangLamung", 
+ "city_name": "芭堤雅", 
+ "lng": "100.895996", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.94319", 
+ "name": "Ayuttaya Baan Suan", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1027, 
+ "address": "Soi5,Pattaya", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8998", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "0.0", 
+ "name": "A Day Spa", 
+ "phone": "+66-818636889", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1028, 
+ "address": "NaKlueaPhraTamnak", 
+ "city_name": "芭堤雅", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.91856163934426", 
+ "name": "ChAnn Spa, Cosy Beach Hotel Pattaya", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1029, 
+ "address": "Phratumnhuk,Pattaya,บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8610144262295", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 2.0, 
+ "lat": "12.946158699576028", 
+ "name": "AVarin Spa @ A-one The Royal Cruise Hotel", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1030, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88563653606164", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.927608", 
+ "name": "康华古式按摩", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1031, 
+ "address": "泰国芭堤雅", 
+ "city_name": "芭堤雅", 
+ "lng": "100.877079", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.966681", 
+ "name": "Parinda Spa", 
+ "phone": "+66-38-816574003", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1032, 
+ "address": "440/58Moo5,NakluaSoi14,,Naklua,Banglamung", 
+ "city_name": "芭堤雅", 
+ "lng": "100.897332", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.904738226952986", 
+ "name": "Oriental Beauty@Tesco Lotus South Pattaya", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1033, 
+ "address": "พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.896913571004", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "12.939908", 
+ "name": "baiyen massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1034, 
+ "address": "Pattaya", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88806", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.0, 
+ "lat": "12.91962083093881", 
+ "name": "kayrak spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1035, 
+ "address": "NaKlueaPattayaTai1", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8873458174366", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.928920610776869", 
+ "name": "Savanna Massage Therapy", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1036, 
+ "address": "2ndRoad,nexttoCasaPascal(SecondRiad),Pattaya,Chonburi,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87983586268015", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.949586", 
+ "name": "Paladium Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1037, 
+ "address": "NaKluea,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.888404", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.939448282681074", 
+ "name": "Rock Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1038, 
+ "address": "HardRockHotel,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8847211971915", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.937605", 
+ "name": "Hanako Tokyo", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1039, 
+ "address": "Hilton,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.883374", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.164734371047984", 
+ "name": "Thai Massage (Body&Foot;)", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1040, 
+ "address": "UndergroundFl.@Robinson,Sriracha,Chonburi20110,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.93391932781722", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.949505530592116", 
+ "name": "Chivarome", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1041, 
+ "address": "GFlr.CentralFestivalPattayaBeach(BeachRoad),Pattaya,Chonburi,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88824474869112", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.944352405444487", 
+ "name": "Apple Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1042, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8886858910824", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.949641953711554", 
+ "name": "X-Cool Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1043, 
+ "address": "NorthPattaya,NaKluea,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.89845220392708", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.942048119188971", 
+ "name": "Doraemon Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1044, 
+ "address": "Soi6,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88562550783008", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.938589", 
+ "name": "Spa Cenvaree", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1045, 
+ "address": "NovaHotel&SpaPattaya,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.890881", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.928568897433257", 
+ "name": "Two-gether Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1046, 
+ "address": "ChaloemPhrakiat25(SoiBuakhao),NaKluea,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88560581207275", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.93931954066242", 
+ "name": "Arias Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1047, 
+ "address": "Soi6/1,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88548214093642", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.925873319005635", 
+ "name": "Lucy Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1048, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88108198513054", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.913755", 
+ "name": "Noi Massage Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1049, 
+ "address": "TaprayaRoad,Pattaya,Chonburi,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.870822", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "0.0", 
+ "name": "Antina", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1050, 
+ "address": "WalkStreet,Pattaya", 
+ "city_name": "芭堤雅", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.896051", 
+ "name": "sabaijai massage@pattaya", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1051, 
+ "address": "Soi7,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.87043", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.970241", 
+ "name": "Majic Face & Cool Candy", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1052, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.906392", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.925904937655655", 
+ "name": "Home Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1053, 
+ "address": "ChaloemPhrakiat35Alley,พัทยา,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88076769607106", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.929312993806455", 
+ "name": "Goodday Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1054, 
+ "address": "SoiBuakhao,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8851402669073", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.930062262577051", 
+ "name": "TLC Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1055, 
+ "address": "243/29ViewTalay6,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88273615518214", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.167638592231423", 
+ "name": "Jaidee Massage", 
+ "phone": "+66-38-870872679", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:30-0:00周一至周日", 
+ "shop_id": 1056, 
+ "address": "179/115-116，Moo5,Pattaya-NakluaRd,Banglamung,Chonburi", 
+ "city_name": "芭堤雅", 
+ "lng": "100.92773507612225", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.34543732607566", 
+ "name": "HAVANA SPA", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1057, 
+ "address": "เมืองชลบุรี,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.97039301688658", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.929204922472088", 
+ "name": "Happy Thai Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1058, 
+ "address": "SoiBuakhao(SoiXcyte),NaKluea,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88576887493964", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.908852833195976", 
+ "name": "dermacare skincare", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1059, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.89495584817068", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.931051033385732", 
+ "name": "Lai Thai", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1060, 
+ "address": "พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88075602225128", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.951410844180128", 
+ "name": "Massage On The Beach", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1061, 
+ "address": "บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88354119500735", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.93139238095238", 
+ "name": "Cabana Massage on the beach@ Pullman Aisawan Patta", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1062, 
+ "address": "445/3Moo5WongamatBeach,บางละมุง,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.86699666666668", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.119426", 
+ "name": "Pukky Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1063, 
+ "address": "หน้าหมู่บ้านพิมพาภรณ์(อ่าวอุดม),ศรีราชา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.927491", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.150903", 
+ "name": "KhunOoy Spa&mMassage;", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1064, 
+ "address": "NineKilo,Sriracha,Chonburi,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.934324", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.927278607913328", 
+ "name": "NOI MASSAGE", 
+ "phone": "+66 82 203 7341", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1065, 
+ "address": "239/39M.10SoiBuakaow(Nongprue,Banglamung,Chonburi),พัทยา,ชลบุรี20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88339231726628", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.89839", 
+ "name": "Emerald Guest House & Massage", 
+ "phone": "+66 86 129 0615", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1066, 
+ "address": "JomtienBeachSoiKorea,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.867816", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.909798976456177", 
+ "name": "Montra Massage", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1067, 
+ "address": "OppositetheEasternGrandPalacePattaya,พัทยา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.90026660942236", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.952922737757849", 
+ "name": "The Sim Sauna Herb Steam", 
+ "phone": "+66 38 415 374", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": ""Mon–Sun:8:00AM–10:00PM"", 
+ "shop_id": 1068, 
+ "address": "172/6M.5,SoiNaklua22(PattayaNakluaRd.,Banglamung),Pattaya,Chonburi20150,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.8847763378382", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.190623", 
+ "name": "wareepura spa @ Sriracha", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1069, 
+ "address": "Sriracha,Chonburi,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.929677", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.146739", 
+ "name": "Kanpy Massage & Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1070, 
+ "address": "อัสสัมชัญ-หนองยายบู่,ศรีราชา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.959275", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.899265", 
+ "name": "Edward&apos;s Original Reflexology", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1071, 
+ "address": "410/9M.12,JomtienRd,NaKluea,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.867614", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "12.949891970980504", 
+ "name": "Lucky Finger Massae", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1072, 
+ "address": "NaKluea,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.88257073688322", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.172916976423403", 
+ "name": "Sirium Beauty Sriracha", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1073, 
+ "address": "ศรีราชา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.9312491825951", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.286683688746628", 
+ "name": "Saensabai Thai Massage || Laemthong", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1074, 
+ "address": "เมืองชลบุรี,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.92705654296252", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.168599708333586", 
+ "name": "Ruen - Buhnga Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1075, 
+ "address": "Sriracha,Chonburi,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.92852946252404", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.28845414934956", 
+ "name": "SAMUTRA Spa & Salon @ The Tide Resort", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1076, 
+ "address": "แสนสุข,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.91200868781154", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.174506556042584", 
+ "name": "Sea View Spa", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1077, 
+ "address": "ศรีราชา,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.91975296246076", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.285254054816606", 
+ "name": "Pat Massage Good Health", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1078, 
+ "address": "เมืองชลบุรี,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "100.92091686426843", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.044168", 
+ "name": "Ruttand Massage Pattaya", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1079, 
+ "address": "202/92Moo9,SoiYume,PattayaKlangRoad,NongPrue,BangLamung,Thailand", 
+ "city_name": "芭堤雅", 
+ "lng": "100.938316", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.307866390676068", 
+ "name": "First Beauty Center", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1080, 
+ "address": "BaanBueng,เมืองชลบุรี,ชลบุรี,ประเทศไทย", 
+ "city_name": "芭堤雅", 
+ "lng": "101.12281015008442", 
+ "category_id": 1
+}

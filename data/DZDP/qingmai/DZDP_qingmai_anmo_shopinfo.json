@@ -1,0 +1,240 @@
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "18.79022", 
+ "name": "清迈女子监狱按摩馆", 
+ "phone": "+66-53-210824", 
+ "city_id": "2", 
+ "avgprice": 75, 
+ "office_hours": "ChiangMaiWomen'sCorrectionalInstitution", 
+ "shop_id": 1000, 
+ "address": "18/1RatvithiRoad", 
+ "city_name": "清迈", 
+ "lng": "98.98594", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "18.788171", 
+ "name": "Lila泰式按摩", 
+ "phone": "+66-53-327243", 
+ "city_id": "2", 
+ "avgprice": 79, 
+ "office_hours": "LilaThaiMassageSpa(Ratchadamnoen)", 
+ "shop_id": 1001, 
+ "address": "86-88RatchadamnoenRd", 
+ "city_name": "清迈", 
+ "lng": "98.986282", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "泰式按摩", 
+ "phone": "+66-53-26340341", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1002, 
+ "address": "128/4-5Silom6（SoiThanTawan），SilomRoad，Suriyawongse,Bangrak,Bangkok10500,Thailand", 
+ "city_name": "清迈", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "查达达按摩中心", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:00-00:00周一至周日", 
+ "shop_id": 1003, 
+ "address": "86/2Ratchamankard", 
+ "city_name": "清迈", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "查达达按摩中心", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:00-00:00周一至周日", 
+ "shop_id": 1004, 
+ "address": "86/2rachamankard", 
+ "city_name": "清迈", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "18.785412", 
+ "name": "凯先生餐吧", 
+ "phone": "+66-53-856235338", 
+ "city_id": "2", 
+ "avgprice": 31, 
+ "office_hours": "10:00-20:00", 
+ "shop_id": 1005, 
+ "address": "清迈拉查达蒙路WatChaikait对面女子监狱按摩店西面(装修中)", 
+ "city_name": "清迈", 
+ "lng": "98.989594", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.76148", 
+ "name": "清迈泰式按摩学校", 
+ "phone": "+66-53-053-854330", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1006, 
+ "address": "203/6ChiangMai-MaeJoRoad|Moo6,T.Faham,ChiangMai50000,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.779149", 
+ "name": "匹克按摩美容沙龙", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1007, 
+ "address": "187/13ChangklanRoad,TwinPeakChiangmaiMuang,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.999841", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "18.79022", 
+ "name": "清迈女子监狱按摩馆", 
+ "phone": "+66-53-210824", 
+ "city_id": "2", 
+ "avgprice": 75, 
+ "office_hours": "ChiangMaiWomen'sCorrectionalInstitution", 
+ "shop_id": 1008, 
+ "address": "18/1RatvithiRoad", 
+ "city_name": "清迈", 
+ "lng": "98.98594", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.5, 
+ "lat": "18.788171", 
+ "name": "Lila泰式按摩", 
+ "phone": "+66-53-327243", 
+ "city_id": "2", 
+ "avgprice": 79, 
+ "office_hours": "LilaThaiMassageSpa(Ratchadamnoen)", 
+ "shop_id": 1009, 
+ "address": "86-88RatchadamnoenRd", 
+ "city_name": "清迈", 
+ "lng": "98.986282", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "泰式按摩", 
+ "phone": "+66-53-26340341", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1010, 
+ "address": "128/4-5Silom6（SoiThanTawan），SilomRoad，Suriyawongse,Bangrak,Bangkok10500,Thailand", 
+ "city_name": "清迈", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "查达达按摩中心", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:00-00:00周一至周日", 
+ "shop_id": 1011, 
+ "address": "86/2Ratchamankard", 
+ "city_name": "清迈", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "0.0", 
+ "name": "查达达按摩中心", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "10:00-00:00周一至周日", 
+ "shop_id": 1012, 
+ "address": "86/2rachamankard", 
+ "city_name": "清迈", 
+ "lng": "0.0", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 5.0, 
+ "lat": "18.785412", 
+ "name": "凯先生餐吧", 
+ "phone": "+66-53-856235338", 
+ "city_id": "2", 
+ "avgprice": 31, 
+ "office_hours": "10:00-20:00", 
+ "shop_id": 1013, 
+ "address": "清迈拉查达蒙路WatChaikait对面女子监狱按摩店西面(装修中)", 
+ "city_name": "清迈", 
+ "lng": "98.989594", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.76148", 
+ "name": "清迈泰式按摩学校", 
+ "phone": "+66-53-053-854330", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1014, 
+ "address": "203/6ChiangMai-MaeJoRoad|Moo6,T.Faham,ChiangMai50000,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.992691", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "18.779149", 
+ "name": "匹克按摩美容沙龙", 
+ "phone": "Telephone", 
+ "city_id": "2", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1015, 
+ "address": "187/13ChangklanRoad,TwinPeakChiangmaiMuang,ChiangMai,Thailand", 
+ "city_name": "清迈", 
+ "lng": "98.999841", 
+ "category_id": 1
+}

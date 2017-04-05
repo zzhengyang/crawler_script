@@ -2,6 +2,7 @@
 import re
 import urllib2
 from bs4 import  BeautifulSoup
+import  json
 import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -111,6 +112,16 @@ class MFW:
                 commentContent.append(commentIma.get('src'))
         return  commentContent
 
+    #抓取酒店评论
+    def getHotelComment(self,page):
+        soup = BeautifulSoup(page , 'html.parser')
+        list = soup.find("div", class_="hotel-comment")
+        commentList = list.find_all("div",class_="comm-item _j_comment_item")
+        #hotelCommentContent = []
+        for item in commentList:
+            print item.find("a",class_="txt").getText()
+            #for i in hotelCommentContent:
+                #print i
 
     #抓取游记链接
     def getTravel(self,page):
@@ -139,7 +150,7 @@ class MFW:
             shopName = soup.find("div", class_="wrapper").h1.string
             shopScore = soup.find("div", class_="col-main").span.em.string
 
-            for i in range(6):
+            for i in range(0,6):
                 if self.hasAttr(page, infoItem[i]):
                         pattern_shopinfo = re.compile(
                             '<div class="col-main.*?<div class="bd">.*?'+ infoItem[i] +'</h3>.*?>(.*?)</p>', re.S)
@@ -172,8 +183,9 @@ class MFW:
             try:
                 hotelHrefList = self.getHotelHref(i)
                 for hotelHref in hotelHrefList:
-                    a += 1
-                    print hotelHref
+                    page = self.getDetailPage(hotelHref)
+                    print page
+                    #self.getHotelComment(page)
                     '''
                     f.write(str(shopInfo) + '\n')
                     comments = self.getComment(page)
@@ -191,15 +203,28 @@ class MFW:
 
     #抓取保存餐厅数据
     def saveFood(self):
-        f = open(r'e:/crawlerFood.txt','w')
-        f.truncate()
+        #f = open(r'data/Food.txt','w')
         a=0
         for i in range(51):
+
             try:
                 foodHrefList = self.getFoodHref(i)
                 for foodHref in foodHrefList:
-                    a += 1
                     page = self.getDetailPage(foodHref)
+                    dict = {}.fromkeys(('description','enname','location','telephone','website','ticket','opentime','name','rate'))
+                    shopInfos = self.getShopInfo(page)
+                    dict['description'] = shopInfos[0]
+                    dict['enname'] = shopInfos[1]
+                    dict['location'] = shopInfos[2]
+                    dict['telephone'] = shopInfos[3]
+                    dict['website'] = shopInfos[4]
+                    dict['ticket'] = shopInfos[5]
+                    dict['opentime'] = shopInfos[6]
+                    dict['name'] = shopInfos[7]
+                    dict['rate'] = shopInfos[8]
+                    print json.dumps(dict,indent=1).decode("unicode_escape")
+                    print ("=================================================================================" + "\n")
+                    '''
                     shopInfos = self.getShopInfo(page)
                     for shopInfo in shopInfos:
                         f.write(str(shopInfo) + '\n')
@@ -209,15 +234,17 @@ class MFW:
                     travels = self.getTravel(page)
                     for travel in travels:
                         f.write(str(travel) + '\n')
+                    a += 1
                     f.write("================================================================================="+"\n")
+            '''
             except AttributeError, e:
                 continue
-        f.close()
+        #f.close()
         print "抓取完成"+"共"+str(a)+"条"
 
     #抓取保存娱乐信息
     def saveIntertainment(self):
-        f = open(r'e:/crawler.txt','a')
+        f = open(r'int.txt','a')
         f.write('\n城市:' + self.city + '\n\n\n')
         shopProjects = self.getProject()
         for i in shopProjects.keys():
@@ -247,5 +274,5 @@ class MFW:
 
 
 
-mfw = MFW('清迈')
-mfw.saveHotel()
+mfw = MFW('曼谷')
+mfw.saveFood()

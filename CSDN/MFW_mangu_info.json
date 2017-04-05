@@ -1,0 +1,192 @@
+{
+ "website": "http://www.somboonseafood.com/", 
+ "opentime": "openTime", 
+ "description": "由华人创立的建兴酒家是曼谷一家老字号的海鲜餐厅，烹饪融合粤菜和泰国菜技法，国人比较容易接受。咖喱蟹是这里的招牌菜，炒含羞草、粉丝虾煲、蒜蓉虾也是这里的推荐菜。建兴酒家在曼谷有七家店，其中Samyan、CentralEmbassy、SiamSquareOne店是中午营业的，其他店的营业时间都是16:00-23:30。", 
+ "telephone": "(66-02)2333104", 
+ "rate": "4.1", 
+ "shop_id": 1000, 
+ "location": "169,169/7-12SurawongRd.,Suriyawong,Bangrak,Bangkok10500", 
+ "ticket": "ticket", 
+ "enname": "SomboonSeafood", 
+ "name": "建兴酒家(Surawong店) "
+}
+{
+ "website": "http://www.pda.or.th/restaurant/", 
+ "opentime": "openTime", 
+ "description": "进入走廊，满目可见各种避孕套装饰的人偶，还有画着全球搜集到的各式各样的避孕套图片。据泰国朋友介绍，开这家餐厅的老板是泰国颇具影响的“人口与社区发展协会”（类似于计划生育委员会）主席米猜先生。20多年前，泰国艾滋病患者急剧增加，米猜意识到了安全套的重要性，于是四处奔走宣传安全套的作用。后来他建了泰国最大的安全套工厂，并且以“米猜”作为品牌，如今“米猜”成了泰文安全套的代名词。在这里吃完饭结帐，服务员还会奉送每人一个避孕套。推荐品尝：泰式炸鱼，芒果糯米饭，海鲜", 
+ "telephone": "(66-02)2294610", 
+ "rate": "3.9", 
+ "shop_id": 1001, 
+ "location": "10SukhumvitSoi12,Bangkok", 
+ "ticket": "ticket", 
+ "enname": "Cabbages&CondomsRestaurant", 
+ "name": "避孕套和卷心菜餐厅 "
+}
+{
+ "website": "http://www.naracuisine.com/", 
+ "opentime": "openTime", 
+ "description": "Nara餐厅的装潢优雅，环境卫生，干净整洁，连续四年被评为泰国最佳餐厅，味道没的说。推荐菜冬阴功，酸酸辣辣料又多；猪肉沙拉，略带点油脂的猪肉，裹上面粉炸到酥脆，置于青木瓜上，沾到酸甜色拉酱的猪肉，刚开始是脆脆的口感却不显油腻，随之而来的，是淡淡的油脂在嘴里溶化的香味，回味无穷。", 
+ "telephone": "(66-02)2507707-8", 
+ "rate": "4.0", 
+ "shop_id": 1002, 
+ "location": "LowerGroundFloor,ErawanBangkok", 
+ "ticket": "ticket", 
+ "enname": "localName", 
+ "name": "Nara Restaurant(Erawan店) "
+}
+{
+ "website": "website", 
+ "opentime": "openTime", 
+ "description": "magicfoodpoint是素旺那普机场一层的员工餐厅，24小时营业，在机场味道还好，性价比高，推荐。机场的人大多在那里吃饭，价格相对便宜。就餐得先在收银处买票，两个人的话买200泰株的就够了，吃不完的话票还能在收银处退现金。服务员大多都会说点中文，沟通很方便。", 
+ "telephone": "(66-2)2249977", 
+ "rate": "4.0", 
+ "shop_id": 1003, 
+ "location": "曼谷素万纳普机场一楼8号门附近", 
+ "ticket": "ticket", 
+ "enname": "localName", 
+ "name": "Magic Food Point(素万纳普机场店) "
+}
+{
+ "website": "http://www.mkrestaurant.com/", 
+ "opentime": "openTime", 
+ "description": "是泰国最有名的火锅店，因味道可口价格公道，所以非常受欢迎，在曼谷有很多分店，几乎每个百货商场都有。吃腻了重口味的酸辣甜泰餐，可以在这里吃到难得的清淡口味。价格约300泰铢/人。", 
+ "telephone": "(66-2)6109337", 
+ "rate": "3.8", 
+ "shop_id": 1004, 
+ "location": "SiamSquare,Bangkok", 
+ "ticket": "ticket", 
+ "enname": "localName", 
+ "name": "MK泰式火锅(暹罗广场店) "
+}
+{
+ "website": "http://www.somboonseafood.com/", 
+ "opentime": "openTime", 
+ "description": "是曼谷一家老字号的海鲜餐厅，价格合理，味道可口，咖喱螃蟹是这里的招牌菜，几乎是每位客人必点的菜。酸辣虾汤也能让喜欢酸辣的朋友过把瘾。这家海鲜店共有五个分店。推荐菜：咖喱炒蟹，粉丝虾堡，蒜蓉虾", 
+ "telephone": "(66-02)1605100", 
+ "rate": "4.1", 
+ "shop_id": 1005, 
+ "location": "315ChamchuriSquareBuilding,Room101-102-103Groundﬂ.,PhyaThaiRd.,Patumwan,Bangkok10330(MRTSamYanStation)", 
+ "ticket": "ticket", 
+ "enname": "SomboonSeafood", 
+ "name": "建兴酒家(SamYan店) "
+}
+{
+ "website": "http://www.mymangotango.com/", 
+ "opentime": "openTime", 
+ "description": "MangoTango是当地一流的芒果甜品专卖店。镇店之宝——MangoTangowithStickyRice。这份甜品包括半颗芒果，芒果冰激凌，芒果布丁以及糯米饭。因为芒果实在太甜，冰激凌和布丁不太甜，恰好中和了芒果的甜度。不得不提椰浆甜糯米，口感就像是春节期间酬拜神明的“米糕”。不同的是泰国糯米更Q，一小份甜糯米就带来满满的幸福。在曼谷旅行其中一个大敌可说是炎热天气，叫人实在想吃一口清凉甜品，而芒果迷大可试试MangoTango，它不只大卖冰品，而且精研芒果甜品。芒果狂必点它的招牌甜品MangoTango，一次吃尽芒果布丁、芒果雪糕和一整片新鲜芒果亦只需85铢，不但味道比香港新鲜甜美，价钱更比香港实在经济得多。", 
+ "telephone": "(66-81)6195504", 
+ "rate": "4.0", 
+ "shop_id": 1006, 
+ "location": "SiamSquaresSoi3", 
+ "ticket": "ticket", 
+ "enname": "localName", 
+ "name": "Mango Tango(暹罗广场店) "
+}
+{
+ "website": "website", 
+ "opentime": "openTime", 
+ "description": "泰国曼谷的水门海南鸡饭店中外驰名，是当地的老字号，游客每到泰国都必须到此。饭店做鸡饭的手工真是出神入化。海南鸡饭的饭粒既软绵又香滑，鸡肉鮮美，鸡块的味道有不同层次，再配上店家自制的泰式醬油和汤，令你满齿留香。", 
+ "telephone": "+66-2-2526325", 
+ "rate": "4.0", 
+ "shop_id": 1007, 
+ "location": "ThanonNewDinDaeng,Bangkok10400,泰国", 
+ "ticket": "ticket", 
+ "enname": "PratunamChickenRice", 
+ "name": "水门鸡饭 "
+}
+{
+ "website": "website", 
+ "opentime": "openTime", 
+ "description": "位于泰国唐人街的T&KSeafood，是到泰国的游客必到的地方。这里的食物新鲜，煮法具地道风味，尤其以烧海鲜最为着名，难怪连当地人都称它为「海鲜第一家」，每晚门外的大排档座位都座无虚席，也有港星曾经光顾。喜欢感受地道风味的朋友，可以坐在楼下的座位，一边看着师傅的烹调，一边嗅着食物烧烤时的香味，简直是一个令人开胃的餐前菜；一楼则设有空调，满足不同客人的需要。讲到最受欢迎的菜式，当然是这里的招牌菜－－烧原只大虾，肉质鲜嫩多汁，惹味非常。另外，咖喱炒蟹亦出名，橙黄色的蟹膏布满一整只碟，爱食蟹的你一定不能错过。", 
+ "telephone": "(66-02)2234519", 
+ "rate": "4.0", 
+ "shop_id": 1008, 
+ "location": "49-51SoiPhadungDao,Chinatown,Bangkok,Thailand", 
+ "ticket": "ticket", 
+ "enname": "T&KSeafood", 
+ "name": "T&K;海鲜餐厅 "
+}
+{
+ "website": "http://www.mkrestaurant.com", 
+ "opentime": "openTime", 
+ "description": "MK是一家连锁餐饮店，在泰国有200多家分店，基本所有大型商场都有店。MK主打口味清淡的泰式火锅，虽然汤底看起来极像加盐的白开水，但是奇妙所在是可以将新鲜食材本身的味道带出来，这种原汁原味非常令人惊艳。火锅蘸料为泰式酸辣酱，另外搭配香菜、芝麻、辣椒和大蒜，具有浓郁泰式风味。MK除了火锅外，菜单上还有一些泰国菜，特别推荐这里的烤鸭。", 
+ "telephone": "(66-02)7218582", 
+ "rate": "3.8", 
+ "shop_id": 1009, 
+ "location": "SeaconSquareSrinakarinPrawetBangkokThailand", 
+ "ticket": "ticket", 
+ "enname": "localName", 
+ "name": "MK泰式火锅(Seacon Square店) "
+}
+{
+ "website": "website", 
+ "opentime": "openTime", 
+ "description": "brief", 
+ "telephone": "telephone", 
+ "rate": "shopScore", 
+ "shop_id": 1010, 
+ "location": "location", 
+ "ticket": "ticket", 
+ "enname": "localName", 
+ "name": "shopName"
+}
+{
+ "website": "http://www.chocolateville.net/", 
+ "opentime": "openTime", 
+ "description": "ChocolateVille巧克力小镇是曼谷目前最火红的户外风情餐厅，餐厅由曼谷CDC里面知名的餐厅WineILoveYou团队经营的。吃货们的福地，没有卖巧克力的哦，只是因为这里的老板以前是做巧克力盒子发家的，故起名巧克力山庄。远离曼谷闹市喧嚣的用餐胜地，主要以西餐和泰餐为主，味道棒，价格美，一定要来!用餐环境美不胜收，犹如处在美国小镇的家庭社区，是一个超级户外实景摄影棚，喜欢拍照的朋友一定不要错过！", 
+ "telephone": "(66-83)0773738", 
+ "rate": "4.2", 
+ "shop_id": 1011, 
+ "location": "351,KhanNaYao,Bangkok10230,Thailand‎", 
+ "ticket": "ticket", 
+ "enname": "ChocolateVille", 
+ "name": "巧克力小镇 "
+}
+{
+ "website": "website", 
+ "opentime": "openTime", 
+ "description": "MBK购物中心美食城有各个国家的不同菜式，食物有很多种选择而且价格合理，很多当地人也来这里吃饭，这里很干净总的来说是个吃饭的好地方。", 
+ "telephone": "(66-02)6209223", 
+ "rate": "3.8", 
+ "shop_id": 1012, 
+ "location": "PhayaThaiRoad.,MBKBuilding,6F,Bangkok,Thailand", 
+ "ticket": "ticket", 
+ "enname": "MBKCenterFoodCourt", 
+ "name": "MBK购物中心美食城 "
+}
+{
+ "website": "http://www.oishigroup.com/en_product_shabushi.php", 
+ "opentime": "openTime", 
+ "description": "用餐时人少的用小锅，一人一个，人多用大的鸳鸯锅，可以选两种汤底，一共4种，清汤、辣汤、不辣的、冬荫功汤，选哪种也没多大区别，反正味道都很淡。酱料有好几种，味道不错。鲜鱼片，鲜虾好吃，还有鱼丸和蟹棒、鱼豆腐，果汁也随便喝。", 
+ "telephone": "(66-02)26260138", 
+ "rate": "4.0", 
+ "shop_id": 1013, 
+ "location": "MBKcenter,2ndfloor,ZoneA,Bangkok,Thailand", 
+ "ticket": "ticket", 
+ "enname": "localName", 
+ "name": "Oishi Shabushi(MBK店) "
+}
+{
+ "website": "http://www.naracuisine.com", 
+ "opentime": "openTime", 
+ "description": "NaraThaiCuisine是曼谷有名的泰式料理餐厅，数次获得泰国最佳餐厅称号，就是有点小贵。菜品精致美味，装修也很时尚，有多家分店。", 
+ "telephone": "(66-2)6131658", 
+ "rate": "4.1", 
+ "shop_id": 1014, 
+ "location": "7thFloor,CentralWorldPlaza,RatchadamriRd.,PathumWanSub-District,PathumWanDistrict,Bangkok,Thailand", 
+ "ticket": "ticket", 
+ "enname": "localName", 
+ "name": "Nara Thai Cuisine(Central World Plaza) "
+}
+{
+ "website": "http://www.somboonseafood.com/", 
+ "opentime": "openTime", 
+ "description": "由华人创立的建兴酒家是曼谷一家老字号的海鲜餐厅，烹饪融合粤菜和泰国菜技法，国人比较容易接受。咖喱蟹是这里的招牌菜，炒含羞草、粉丝虾煲、蒜蓉虾也是这里的推荐菜。建兴酒家在曼谷有七家店，其中Samyan、CentralEmbassy、SiamSquareOne店是中午营业的，其他店的营业时间都是16:00-23:30。", 
+ "telephone": "(66-02)2333104", 
+ "rate": "4.1", 
+ "shop_id": 1015, 
+ "location": "169,169/7-12SurawongRd.,Suriyawong,Bangrak,Bangkok10500", 
+ "ticket": "ticket", 
+ "enname": "SomboonSeafood", 
+ "name": "建兴酒家(Surawong店) "
+}

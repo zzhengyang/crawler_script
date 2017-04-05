@@ -1,0 +1,210 @@
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.704404", 
+ "name": "泰拳", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "20:00-23:00周二至周日", 
+ "shop_id": 1000, 
+ "address": "asiatique河边码头夜市", 
+ "city_name": "曼谷", 
+ "lng": "100.504206", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.70417", 
+ "name": "Muay Thai Live泰拳剧场", 
+ "phone": "+66-2-1085999", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "20:00-21:30，周一休息", 
+ "shop_id": 1001, 
+ "address": "2194CharoenkrungRoad|TheStageatAsiatiqueTheRiverfront", 
+ "city_name": "曼谷", 
+ "lng": "100.503842", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.72568", 
+ "name": "蓝比尼泰拳竞技场", 
+ "phone": "+66-2-2514303", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "LumpineeBoxingStadium", 
+ "shop_id": 1002, 
+ "address": "LumpineeBoxingStadium,No.6RamintraRoad", 
+ "city_name": "曼谷", 
+ "lng": "100.547585", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.760968", 
+ "name": "拉差达慕泰拳馆", 
+ "phone": "+66-2-2810879", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "RatchadamnoenBoxingStadium", 
+ "shop_id": 1003, 
+ "address": "1,RatchadamnoenNokRd.,PomPrapSattruPhai,Bangkok", 
+ "city_name": "曼谷", 
+ "lng": "100.508653", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.728195", 
+ "name": "班常泰拳馆", 
+ "phone": "+66-2-3913807", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "BaanChangThai", 
+ "shop_id": 1004, 
+ "address": "38EkamaiSoi10,SukhumvitSoi63", 
+ "city_name": "曼谷", 
+ "lng": "100.588219", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.759513", 
+ "name": "Sor Vorapin泰拳", 
+ "phone": "+66-2-022823551", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "SorVorapinGym", 
+ "shop_id": 1005, 
+ "address": "13ThKasab,ThCHakraphong", 
+ "city_name": "曼谷", 
+ "lng": "100.494835", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.704404", 
+ "name": "泰拳", 
+ "phone": "Telephone", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "20:00-23:00周二至周日", 
+ "shop_id": 1006, 
+ "address": "asiatique河边码头夜市", 
+ "city_name": "曼谷", 
+ "lng": "100.504206", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.70417", 
+ "name": "Muay Thai Live泰拳剧场", 
+ "phone": "+66-2-1085999", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "20:00-21:30，周一休息", 
+ "shop_id": 1007, 
+ "address": "2194CharoenkrungRoad|TheStageatAsiatiqueTheRiverfront", 
+ "city_name": "曼谷", 
+ "lng": "100.503842", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.72568", 
+ "name": "蓝比尼泰拳竞技场", 
+ "phone": "+66-2-2514303", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "LumpineeBoxingStadium", 
+ "shop_id": 1008, 
+ "address": "LumpineeBoxingStadium,No.6RamintraRoad", 
+ "city_name": "曼谷", 
+ "lng": "100.547585", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 4.0, 
+ "lat": "13.704145", 
+ "name": "Muay Thai Live", 
+ "phone": "+66-2-1085999", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "尚无营业时间", 
+ "shop_id": 1009, 
+ "address": "CharoenKrungRoadBangKhoLaemBangkok10120泰国", 
+ "city_name": "曼谷", 
+ "lng": "100.503854", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 3.5, 
+ "lat": "13.761005", 
+ "name": "Ratchadamnoen 拳击场", 
+ "phone": "+66-2-022814205", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "RatchadamnoenBoxingStadium", 
+ "shop_id": 1010, 
+ "address": "ThRatchdamnoenNok", 
+ "city_name": "曼谷", 
+ "lng": "100.508751", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.760968", 
+ "name": "拉差达慕泰拳馆", 
+ "phone": "+66-2-2810879", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "RatchadamnoenBoxingStadium", 
+ "shop_id": 1011, 
+ "address": "1,RatchadamnoenNokRd.,PomPrapSattruPhai,Bangkok", 
+ "city_name": "曼谷", 
+ "lng": "100.508653", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.728195", 
+ "name": "班常泰拳馆", 
+ "phone": "+66-2-3913807", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "BaanChangThai", 
+ "shop_id": 1012, 
+ "address": "38EkamaiSoi10,SukhumvitSoi63", 
+ "city_name": "曼谷", 
+ "lng": "100.588219", 
+ "category_id": 1
+}
+{
+ "category": "按摩", 
+ "rating": 0.0, 
+ "lat": "13.759513", 
+ "name": "Sor Vorapin泰拳", 
+ "phone": "+66-2-022823551", 
+ "city_id": "1", 
+ "avgprice": null, 
+ "office_hours": "SorVorapinGym", 
+ "shop_id": 1013, 
+ "address": "13ThKasab,ThCHakraphong", 
+ "city_name": "曼谷", 
+ "lng": "100.494835", 
+ "category_id": 1
+}
