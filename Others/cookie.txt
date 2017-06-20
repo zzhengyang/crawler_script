@@ -1,0 +1,9 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+lnk0.com	FALSE	/	FALSE	1493110388	browserid	8b97c065-3920-4be5-b927-e29b3ce9b11a
+lnk0.com	FALSE	/	FALSE	1493110388	td_2cdf41f9b7d044cbb498ba247a501707	"cDRjY29zX3RkXzE0OTMwMjM5ODg5MzVfdGRfMjIzLjEwNC4yMy4zMV90ZF84Yjk3YzA2NS0zOTIwLTRiZTUtYjkyNy1lMjliM2NlOWIxMWE="
+mobopromo.biz	FALSE	/	FALSE	1493059983	url1786048127	1
+sm.mobopromo.biz	FALSE	/	FALSE		S4BSESSID	660fcc45fd2036be7673215fa51c6a3c
+sm.mobopromo.biz	FALSE	/	FALSE	1808383988	visit_number	1
